@@ -132,3 +132,26 @@ Use the full prompt in `01-development-package.md`, section 5. **Required:** the
 
 ### 6. Optional chapter-opening vignettes (small, about 4 cm)
 One per chapter, using the place references: lighthouse (1), harbour steps (2), road of light (3), echo lantern (4), bell (5), bee (6), hive slate (7), basket ferry (8), hanging tree (9), rope basket (10), lantern boat (11), falling bell (12), chiming reed (13), dome (14), star (15), raft (16), compass (17), flapjack tin (18), lamp (19), ring of keys (20), post in water (21, small and abstract), pen (22), torch (23), pencil (24).
+
+---
+
+## E. Revision notes on the reference sheet (round 2)
+
+**Approved as is:** Mara, Idris, Bea, Tavi (all expressions); Ro; the Surveyor; Nan; Dad; young Edie; Grandma Tull; Orrin Pell; Moss Haverly; Amma Oduya; Captain Wim; Saskia; Joss; Ezra; Sorrel Penn; Wrenmouth; Gull Head lamp room; Lantern Quay; Whispering Canopy; Glasswater Marsh; Flooded Observatory; Surveyor's Tower.
+
+**Please revise:**
+1. **Front map (most important):** still the old layout and travel times. Redraw from section 5 of the development package:
+   - Wrenmouth as a boxed inset top-left, joined by the Lamp Road to Lantern Quay.
+   - Bellbridge running *east from Lantern Quay* to Clapper's Landing on the central island (Canopy north, Marsh south).
+   - Orchard as a floating crag in the north-east; Ropewalk cable from the Canopy.
+   - Chainway to the Tower; the Observatory in a south-east lagoon.
+   - The Night Market as boats with "wherever it is tonight".
+   - Rim Road along the north; the nine unlabelled dots; a frame of 72 ticks.
+   - Correct times: Lamp Road ¼ h, Bellbridge ½ h, Clapper's Landing–Listeners' Hollow 1½ h, Hollow–Ropewalk ½ h, Ropewalk ½ h, Chainway 40 min, Glasswater Causeway 2 h, Pole Line 2 h, Observatory Causeway 1½ h.
+2. **Upside-Down Orchard:** must be a *floating rock in the sky* with trees on top **and trees hanging from its underside**, and pickers standing upside down beneath. Not a single tree.
+3. **Bellbridge:** add the **little houses lining both sides** of the bridge (washing lines, window boxes), plus the 26 bells and the tollhouse at the west gate.
+4. **The Lamp Road:** a pavement-wide **road made of light** over a flat silver, misty sea, not a pier with lamp posts.
+5. **The Rim:** a towering **wall of mist** curling back on itself, not a waterfall.
+6. **Equipment:** the living map is a **folded paper map**, not a book. The repair thread is **silver**, on a spool with a brown luggage label. The rope is **bright blue** (Mrs Bello's). Add **Edie's fountain pen**. The compass is fine but should be labelled "Ansel's compass" (found in Ch15, not part of the starting kit).
+7. **Pim:** Pim is Ezra's **granddaughter** (she/her, aged 7, gap-toothed, muddy knees).
+8. **Night Market:** make sure every stall is **on boats lashed together**, with planks between decks, not on land.
