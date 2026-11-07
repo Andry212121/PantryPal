@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const {
   Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType, PageBreak,
-  TableOfContents, Footer, PageNumber, BorderStyle, LevelFormat,
+  TableOfContents, Footer, ImageRun, PageOrientation, PageNumber, BorderStyle, LevelFormat,
 } = require('docx');
 
 const ROOT = path.join(__dirname, '..');
@@ -68,7 +68,25 @@ const ILLUS = {
   22: ['I-12', 'The Great Chart: the Surveyor at the window, Mara with her torch.'],
   24: ['S-1', 'Mara and Nan drawing a pencil map, with a gap in the harbour wall.'],
 };
-const placeholder = (id, desc) => boxed([`**[ILLUSTRATION ${id}]**`, `*${desc}*`]);
+const imgFile = (id) => {
+  const [a, n] = id.split('-');
+  for (const name of [`${a}-${n.padStart(2, '0')}`, id]) {
+    const f = path.join(ROOT, 'images', name + '.png');
+    if (fs.existsSync(f)) return f;
+  }
+  return null;
+};
+const pngSize = (f) => { const b = fs.readFileSync(f); return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) }; };
+const picture = (f, maxW, maxH) => {
+  const { w, h } = pngSize(f);
+  const k = Math.min(maxW / w, maxH / h);
+  return new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 200 },
+    children: [new ImageRun({ type: 'png', data: fs.readFileSync(f), transformation: { width: Math.round(w * k), height: Math.round(h * k) } })] });
+};
+const placeholder = (id, desc) => {
+  const f = imgFile(id);
+  return f ? [picture(f, 430, 300)] : boxed([`**[ILLUSTRATION ${id}]**`, `*${desc}*`]);
+};
 
 // ---------- generic markdown block renderer ----------
 function renderBlocks(md, { chapterMode = false } = {}) {
@@ -193,10 +211,9 @@ async function save(doc, name) {
     pageBreak(),
     new Paragraph({ heading: HeadingLevel.HEADING_2, alignment: AlignmentType.CENTER, children: [new TextRun('Contents')] }),
     ...contents,
-    pageBreak(),
-    new Paragraph({ heading: HeadingLevel.HEADING_2, alignment: AlignmentType.CENTER, children: [new TextRun('Map of the Fold')] }),
-    ...boxed(['**[FRONT MAP: TWO-PAGE SPREAD]**', '*The Fold, with Wrenmouth inset. See 01-development-package.md, section 5,*', '*and the revision notes in 04-image-prompts.md, section E.*']),
   ];
+  const coverFile = fs.existsSync(path.join(ROOT, 'images/cover.png')) ? path.join(ROOT, 'images/cover.png') : null;
+  const mapFile = fs.existsSync(path.join(ROOT, 'images/map.png')) ? path.join(ROOT, 'images/map.png') : null;
   const chapters = renderBlocks(manuscript.slice(manuscript.indexOf('## Chapter One')), { chapterMode: true });
   const backHead = [pageBreak(), new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, children: [new TextRun('For Explorers')] })];
   const backBlocks = renderBlocks(back.replace(/^# .*\n/, '').replace(/\n---\n\n## Answers/, '\n\n## Answers'));
@@ -214,8 +231,15 @@ async function save(doc, name) {
   const book = new Document({
     title: 'The Map That Forgot Home', creator: '[Author name]', styles, numbering,
     features: { updateFields: true },
-    sections: [{ properties: { page }, footers: { default: footer },
-      children: [...front, ...chapters, ...backHead, ...withBreaks] }],
+    sections: [
+      ...(coverFile ? [{ properties: { page: { size: page.size, margin: { top: 0, bottom: 0, left: 0, right: 0 } } },
+        children: [picture(coverFile, 560, 793)] }] : []),
+      { properties: { page }, footers: { default: footer }, children: front },
+      { properties: { page: { size: { width: page.size.width, height: page.size.height, orientation: PageOrientation.LANDSCAPE }, margin: { top: 700, bottom: 700, left: 800, right: 800 } } },
+        children: [new Paragraph({ heading: HeadingLevel.HEADING_2, alignment: AlignmentType.CENTER, spacing: { before: 0, after: 120 }, children: [new TextRun('Map of the Fold')] }),
+          ...(mapFile ? [picture(mapFile, 660, 400)] : boxed(['**[FRONT MAP]**']))] },
+      { properties: { page }, footers: { default: footer }, children: [...chapters.slice(1), ...backHead, ...withBreaks] },
+    ],
   });
   await save(book, 'The-Map-That-Forgot-Home.docx');
 
