@@ -476,3 +476,153 @@ Mara looked up from the map. "Then we can't wait till morning to start."
 "You can't cross Bellbridge till first bell. They lock the gates at dark, Stilling or no Stilling." Ro stood up. She went to a shelf at the back of the tower, took down a tin box and opened it. Inside was a single envelope, yellow with age, addressed in a spiky hand Mara already knew.
 
 "I can't tell you how to stop him," Ro said. "But Edie might." She held out her other hand. "Tavi. Fetch your lantern."
+
+---
+
+## Chapter Four
+### What the Lantern Heard
+
+"It has to be dark," said Tavi. "Properly dark. Not *shady*. Dark."
+
+Ro took them into the oil store at the bottom of the tower, a round stone room that smelled like a garage, and shut the door. Tavi closed the shutter on the lantern's own small flame until only a thread of light showed, and held it close to Edie's letter where it lay on an upturned barrel.
+
+"How does it work?" Idris whispered.
+
+"Things remember sounds," Tavi said. "Not much. Just the loudest bit, the bit that mattered. The lantern lets them say it. Once." He tapped the fat candle inside. It was marked with six notches, like a ruler. "Each echo burns one mark. When it's gone, it's gone. And you can't ask the same thing twice. So nobody sneeze."
+
+Mara held her breath. The thread of light flickered.
+
+Then a woman's voice filled the oil store. It was dry, quick and amused, close enough to make Mara jump.
+
+*"...and if he ever begins it, Ro, the answer's where he and I learned our letters. Under the water, behind the stars. And Ro, don't let anyone draw the last line. Not him. Not anyone."*
+
+The voice stopped. The candle had burned down past its first notch, and the wick smoked.
+
+Ro stood very still in the dark. Then she opened the door, and lamplight came back in, and she was just a tired woman wiping her eyes with the back of her wrist.
+
+"Well," she said. "That's Edie. Never once said a thing straight."
+
+---
+
+Supper was fish stew with lumps of something Tavi called fogcake, which was pale and spongy and tasted, Idris said, like a cloud that had been fried. They ate at Ro's kitchen table under a ceiling hung with lamps. Bea opened a battered tin she had been carrying all along in her coat pocket and shared out a flapjack. It turned out to be the best thing anyone had eaten since the chips.
+
+Mara laid the map out between the bowls and asked her questions in order. She had written them in her sketchbook while the stew was heating.
+
+Why had the map been blank, apart from Wrenmouth?
+
+"Edie cut it loose," said Ro. "A copy's tied to his Chart, both ways. What's on his shows on yours. But a copy left blank long enough can't be read from the other end. She let it go empty so he could never look through it. Then he drew her road onto his Chart, and her map was joined to his again, through the road. So it filled up."
+
+What was the pen?
+
+Ro turned it over, scraped the dried crust on the nib with her thumbnail and sniffed. "Tide-ink. Long dry." She looked at Mara hard. "Listen. That's the one thing you must never do. Tide-ink on a copy doesn't stay on the copy. It goes to *him*. Whatever you draw, he gets."
+
+Mara nodded and wrote it down, and underlined it twice.
+
+Why had he never started the Stilling before?
+
+Ro was quiet a long time. "I don't know," she said at last. "Forty years he's talked about safety. Forty years nothing. Then this summer his Chainmen find Edie's road, and three months later he begins." She shook her head. "Edie knew something. Edie always knew something."
+
+She pinned the Surveyor's schedule flat on the table, and Mara copied it out:
+
+> *Observatory Causeway: closed. Friday, seven o'clock.*
+> *Glasswater Causeway: Saturday, one o'clock.*
+> *The Ropewalk: Saturday, four o'clock.*
+> *Bellbridge: Sunday, twelve noon.*
+> *Marsh Pole Line: Sunday, six o'clock.*
+> *The Chainway: Monday, two o'clock.*
+> *The Lamp Road and the Rim Road will remain open until the Stilling.*
+> *Each way will fade during the hour before it closes. Do not be upon it.*
+
+"He tells everyone when," said Bea, surprised.
+
+"He doesn't want anyone caught between places," said Ro. "He thinks that's kindness."
+
+Then Ro showed them where everything was. Lantern Quay on its rocky island. Bellbridge, running east to the big middle island. The Whispering Canopy to the north of it, the Glasswater Marsh to the south. The Upside-Down Orchard on its floating crag in the north-east, and, far away on the eastern edge, the Surveyor's Tower, tall and thin.
+
+"Under the water," said Idris, tapping a domed shape half-sunk in a lagoon in the south-east. "Flooded Observatory. Got to be."
+
+Mara bent closer. Below the Observatory, the bottom right-hand corner of the map was missing. Not stained like the Canopy: torn clean away, leaving a ragged edge. Part of the legend had gone with it.
+
+"Maybe," she said.
+
+"*Maybe?* It's flooded! It's literally under the water!"
+
+"Lots of things are under water. The marsh is under water." Mara's finger moved. "And what does *behind the stars* mean? If we go all that way and it's wrong, we've wasted a whole day." She turned to Ro. "Is there anyone who knew Edie and the Surveyor? When they were learning?"
+
+"Amma Oduya," said Tavi at once. "At the Orchard. She's the oldest person in the Fold. She knows everyone's business back to the beginning of time."
+
+"Then we ask her first," said Mara. "Then we know. Then we go."
+
+Idris stared at her. "Bellbridge, Glasswater Causeway, Pole Line." He traced it with a finger. "We'd be at the Observatory by *lunchtime*."
+
+"And if it's the wrong place, we'd be stuck at the bottom of the map with the roads closing behind us." Mara heard her own voice go hard and tight, the way it did when she was frightened of being wrong. "We need to be sure."
+
+"Tavi?" said Ro.
+
+Tavi shrugged too quickly. "Orchard's a good idea. Amma Oduya sells to the Night Market. She hears things." He didn't look at anyone when he said it.
+
+Bea looked at Idris's finger on the map, and opened her mouth, and closed it again.
+
+"Two against one," said Mara.
+
+"Bea didn't vote," said Idris.
+
+Bea looked down at her stew.
+
+Ro sighed. "Tavi goes with you. He knows the customs and he can work a lantern. Tavi, no showing off."
+
+"Me?" said Tavi, in the voice of someone who had been hoping for exactly this since the moment they arrived. "Oh, *fine*."
+
+---
+
+Idris was quiet for a while after that. When Ro went to make cocoa, he picked up her teapot, a fat brown thing with a crack running down the spout, the kind that dribbled. He looked at it. He looked at the spool of silver thread that Mara had left on the table.
+
+"Idris..."
+
+He had already wound a length round the spout, neat and tight, five or six turns. The thread glowed faintly. When he unwound it, there was no thread left and no crack either: just smooth brown glaze, as if the teapot had never been dropped in its life.
+
+"*Mends what's broken*," he said, grinning. "Ro's been good to us."
+
+Mara grabbed the spool and measured it against her ruler, end to end, her heart thumping. She had measured it in the lighthouse. Two hundred centimetres. Now it was a hundred and eighty.
+
+"That's not ours to waste," she said.
+
+"It's a teapot. It's *fixed*."
+
+"It's a *teapot*. We might need that for a bridge, or a boat, or..." She didn't know what. That was the point. She didn't know, and he hadn't stopped to wonder. "You never think."
+
+"And you never stop thinking," said Idris, and went out to the step.
+
+Ro came back with the cocoa, looked at the teapot, then at the two of them, and said nothing at all. But she poured Idris's cocoa first, from the mended spout, and it didn't dribble.
+
+---
+
+They slept in the tower in a row of hammocks. Bea had a sticky note from Mara's pad and was writing on it by lamplight in tiny letters: *Mum, Jo, Kit. I'm all right. I'm sorry.* She folded it very small and put it in her flapjack tin.
+
+"You can't send it," Mara whispered.
+
+"I know," said Bea. "I just wanted it to exist."
+
+Mara couldn't sleep. Near midnight she climbed the tower stair to the lamp gallery with the map, and Ro was there, trimming the great wick.
+
+From up here, the whole harbour glittered. A fishing boat was pulling away from the quay, its stern lamp swinging. Mara watched it on the map: a speck sliding along the dotted ferry line out of the harbour mouth. Then the boat turned off the line, out into the open silver. Through the window, she could still see its lamp bobbing on the Slack, clear as anything.
+
+On the map, its speck had gone.
+
+She looked from window to paper, paper to window. She drew a small pencil note in her sketchbook: *Off the road = not on the map?*
+
+"Can't sleep?" said Ro.
+
+"Everywhere's so bright here," said Mara.
+
+Ro smiled and pointed straight down, over the rail, to the foot of the tower. All around it the quay blazed with light. But in a ring right under the great lamp, where the tower's own shadow fell, there was a pool of black.
+
+"Lamplighters' saying," Ro said. "It's always darkest under the lamp. Go to bed, Mara."
+
+At a quarter to six, in the grey before first bell, they walked out along the harbour to the gates of Bellbridge: Mara with the map buttoned in her jacket, Idris with his tool roll strapped across his chest and Mrs Bello's blue rope over his shoulder, Bea with her binoculars, and Tavi with his lantern swinging from its pole.
+
+The bridge gate was still locked. Beside it, a man in a long grey coat stood waiting. Brass links hung from his belt and clinked when he turned his head to watch them come.
+
+"Chainman," breathed Tavi.
+
+The man smiled politely and looked straight at Mara's jacket, as if he could see through the buttons.

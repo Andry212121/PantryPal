@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 3. Update after every drafting session.*
+*Updated at the end of Chapter 4. Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -8,7 +8,8 @@
 | 1 | ~1,590 | Setup chapters run long by design. |
 | 2 | ~2,290 | |
 | 3 | ~1,900 | |
-| **Running** | **~5,780** | **Budget for Ch4–24: ~22,000–24,000 (≈1,050–1,150 per chapter) to land at 28–30k.** |
+| 4 | ~1,660 | |
+| **Running** | **~7,440** | **Budget for Ch4–24: ~22,000–24,000 (≈1,050–1,150 per chapter) to land at 28–30k.** |
 
 ## Clock
 - **Stilling began:** Fri 3:00 p.m. (H0). **Deadline:** Mon 3:00 p.m. (H72). One border mark fades on each hour.
@@ -19,6 +20,7 @@
 | 1 | Fri 3:40–4:05 p.m. | H0.7–1.1 | 71h20m → 70h55m | 71 | 4:05 p.m. |
 | 2 | Fri 4:05–5:00 p.m. | H1.1–2.0 | → 70h | 70 | 5:00 p.m. (slowing begins) |
 | 3 | Fri 5:00–7:05 p.m. | H2.0–4.1 | → 67h55m | 68 | ≈5:02 p.m. |
+| 4 | Fri 7:05 p.m.–Sat 5:45 a.m. | H4.1–14.75 | → 57h15m | 58 (57 at 6:00) | ≈5:13 p.m. |
 
 **Projected Wrenmouth return:** the seal fails at Mon 3 p.m. (Wrenmouth ≈ Fri 6:10 p.m.). After that, normal speed: 3 h sail-cart plus Lamp Road, so home ≈ **Fri 9:40 p.m.**
 
@@ -97,5 +99,17 @@
 - Water stain on the map and torn corner (Ch6, Ch15).
 - The Surveyor believes Edie lives in Wrenmouth (Ch22). Ro's "I'd wondered, when the road went dark" implies the Fold side noticed the road going dormant six years ago.
 
+## Chapter 4 updates
+- **Echo lantern:** 5 marks left (Edie's letter: "...where he and I learned our letters. Under the water, behind the stars. And Ro, don't let anyone draw the last line. Not him. Not anyone.").
+- **Thread:** 180 cm left (Ro's teapot spout, 20 cm). Mara measured it.
+- **Pen:** identified as tide-ink. Ro's warning is on the page: "Whatever you draw, he gets."
+- **Clues planted:** a boat's speck vanished off the ferry line (Mara's note: *Off the road = not on the map?*); "It's always darkest under the lamp" (dark pool at the tower's foot); Ro doesn't know why he waited forty years; torn SE corner noticed (part of the legend missing); closure schedule read in full.
+- **Shown on the page now:** Idris's tool roll and blue rope; Bea's flapjack tin (some flapjack eaten at supper) and her unsent sticky note to Mum, Jo and Kit (in the tin).
+- **The plan:** Orchard first (Mara and Tavi), against Idris's direct route; Bea silent. Tavi is assigned as guide. Tavi's hidden motive (Market news) is hinted.
+- **Relationships:** Mara and Idris quarrel ("You never think." "You never stop thinking."). Ro quietly honours Idris's mending.
+- **Meals and sleep:** fish stew, fogcake, flapjack, cocoa; hammocks in the tower about 9 p.m.–5:15 a.m. Mara was awake around midnight.
+- **Hook:** Chainman (Orrin Pell, not yet named) waiting at the locked Bellbridge gate at 5:45 a.m.
+- **Art decisions:** Wrenmouth; story geography; no pet for Tavi; the toll-board A–Z list is fixed in `04-image-prompts.md`.
+
 ## Next session starts at
-**Chapter 4: "What the Lantern Heard."** Fri 7:05 p.m., the Great Lamp tower: Tavi lights the echo lantern over Edie's letter.
+**Chapter 5: "Fifty-Seven Hours at Bellbridge."** Sat 5:45 a.m., Bellbridge west gate, the Chainman waiting.
