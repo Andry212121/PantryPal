@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 20. Update after every drafting session.*
+*Updated at the end of Chapter 24 (first draft complete). Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -165,5 +165,15 @@
 - **Equipment now:** blue rope 20 m; Market line 400 m; thread 20 cm; lantern 3 marks; torch (about 2.5 h; used about 30 min so far); compass; Ezra's paddle; coracle (left at Gull Stack); smoked eel parcel. **The map is with Saskia.**
 - **Injuries:** none new; everyone exhausted, about 4 h sleep since Saturday.
 
-## Next session starts at
-**Chapter 21: "Hesper's Pier."** Mon about 1:15 p.m., in the Orchard's shadow: rig the line, walk the Piles, Chainway gone at 2, the Orchard drifts, Tavi holds the boat, Mara climbs the Tower stair to the word-locked door.
+## Chapters 21–24 updates (final)
+- **Words:** Ch21 ≈1,050, Ch22 ≈1,000, Ch23 ≈1,090, Ch24 ≈1,130. **Total ≈26,500.**
+- **Clock:** Ch21 Mon 1:15–2:10 p.m. (way travelled end to end at 1:50; Chainway gone at 2; Orchard drifting); Ch22 about 2:15–2:45 (door at about 2:20; ink runs three times; Pell sent at 2:45); Ch23 2:45–3:00 (**the line does not meet at 3:00**); Ch24 Mon 3 p.m. → sail-cart about 3 h → Lantern Quay → Lamp Road → **Wrenmouth Fri 9:40 p.m.** (missing nearly 5 h); coda three weeks later and on the last evening before Christmas.
+- **The way:** Market line from the Orchard's Drop pulley, looped loosely round posts 1–9; Mrs Bello's blue rope, post 9 to the iron ring at the foot of Hesper's steps (bowline). Travelled by punt, hand over hand: Mara, Bea, Idris. Flippers: Petra and the Larsson twins. Bea on post 5. Tavi in Wim's boat holding the Orchard end.
+- **Equipment final:** echo lantern used on the door handle (Ansel: "Pip"), then on Nan's music box: **1 mark left, saved.** Thread: **0** (the last 20 cm mended the cut blue rope exactly). Torch: signalled 1 and 2 flashes; then shutters closed. Compass: given back to Ansel. Map: returned by Saskia, now quiet (no specks), still a true map.
+- **Pell** cut the rope, then put down the shears after Bea told him his gran rang all 26 bells. Grandma Tull is his gran. Pell held the rope and later drove the sail-cart. Penn freed.
+- **Surveyor:** told of Edie's death (he drew Wrenmouth in "so she'd be safe"). Offered Mara Nan's permanence; Mara refused. Chart cracked and went dull. He was last seen looking out of the window, holding Pip's compass.
+- **Lasting costs:** Bellbridge and its bells gone (rebuilding by raft and rope planned); Market no longer hidden; Marta's boat lost; the children grounded (Mara till Christmas, Idris till Easter); nobody but Nan believes them; Gull Head lamp switched off and locked by Mrs Bello.
+- **Final hint:** Gull Head lamp flickers long-long-short ("come and see") on the last evening before Christmas.
+
+## Status
+First draft complete. **Still to produce:** back matter (crew equipment page, two puzzles with answers, design-your-own-island page), which is planned in section 9 of the development package. An optional trim pass on Ch1–4 to match the shorter chapter length.

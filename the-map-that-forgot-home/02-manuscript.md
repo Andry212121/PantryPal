@@ -1,6 +1,6 @@
 # The Map That Forgot Home
 
-*Manuscript. Chapters 1–3.*
+*Manuscript. Complete first draft, Chapters 1–24.*
 
 ---
 
@@ -2108,3 +2108,429 @@ Hesper's Pier.
 Idris pulled the first coil of Market rope over his shoulder.
 
 "Less than two hours left," said Mara.
+
+---
+
+## Chapter Twenty-One
+### Hesper's Pier
+
+**ONE HOUR AND FORTY-FIVE MINUTES REMAINING**
+
+Idris had drawn the plan on a page of Mara's sketchbook in the boat. Now he held it up so everyone could see.
+
+"It's a ferry line," he said. "Like the Ropewalk, only on the water. One rope, from the Orchard down to the first post, then post to post, all the way to the Tower. We sit in the punt and pull ourselves along it, hand over hand. That's how we travel it end to end."
+
+"And the loops?" said Saskia's sailor, Petra.
+
+"At every post, the rope goes round in a loose loop. Not tied. So someone in a boat can flip it, from the north side of the post to the south side, or back." He pointed at the twins and Petra. "You three take a post each in the quick boats, and move along as you need to. When Bea shouts *south*, you flip it south. When she shouts *north*..."
+
+"We flip it north," said the twins together.
+
+"Where will I be?" said Bea.
+
+"Middle post. Number five." Idris pointed. "You can see the Tower window from there. When Mara flashes, you shout."
+
+Bea swallowed. She would have to shout across the water, loud enough for four boats to hear. She nodded.
+
+They started at the Orchard.
+
+High above them, Efua and Kwame let the Drop basket down from the underside, swinging on its rope. Idris climbed up into it with the end of the Market line, and they hauled him up out of sight. A few minutes later he came down again, grinning.
+
+"Tied off to the Drop pulley," he said. "That's the Orchard end. Proper island. Proper start."
+
+Then post by post, they built it. The sailors rowed the line out. Idris stood in the bows of the punt and looped it round each post, loose and neat, and the cormorants flapped off in disgust one by one. It was hard, slow work. The posts were old and slimy and further apart than they looked. Idris's palms went red and raw from the rope.
+
+At post nine, the last post, the Market line ran out.
+
+Between the last post and the bottom of the Tower's cliff was one more gap, about fifteen metres of flat silver water. At the foot of the cliff, half-hidden by weed, Mara saw a rusty iron ring set into the rock. Above it, a narrow stair had been cut into the cliff, zigzagging up into the shadow under the Tower.
+
+"Hesper's steps," said Tavi. "Must be. For the pier she never finished."
+
+Idris unslung Mrs Bello's blue rope from his shoulder. It looked very bright and very ordinary.
+
+"Last bit's from home," he said, and tied it to the iron ring with a bowline. *Rabbit out of the hole.*
+
+It was half past one.
+
+"Now we travel it," said Mara. "All of it. End to end."
+
+Tavi didn't come in the punt. He was going to be at the other end, in Wim's boat, under the Orchard.
+
+"When the Chainway goes," he said, "the Orchard will start to drift. Someone's got to hold it." He looked out at the open Slack beyond the shadow, flat and silver and endless, and his face went grey. "So I'll hold it."
+
+"Tavi..."
+
+"I *know*." He tried to grin, and very nearly managed it. "In between's all right."
+
+He climbed into Wim's boat. Mara, Bea and Idris climbed into the punt.
+
+They started at the Orchard end, under the Drop. Hand over hand, they pulled themselves along the rope: to post one, round, on to post two. The punt glided over the still, silent water of the Hush. Above them, the Orchard's trees hung golden and upside down, and then they slid out from under them, along the line of posts, deeper into the long shadow of the Tower's cliff.
+
+Post three. Post four. At post five, Bea climbed out onto a little ledge at the top of the post. She wobbled and held on.
+
+"I'm all right," she said. "Go."
+
+Post six. Seven. Eight. The cliff loomed over them, black and wet. Mara looked straight up. Somewhere up there, very high, at the top of the Tower, was the Long Glass, looking out over the whole Fold. Looking everywhere except here.
+
+Post nine. Then along the blue rope, the last fifteen metres, and the punt bumped against the bottom of the cliff beside the iron ring.
+
+"Done," said Idris. His voice shook. "That's it. End to end."
+
+"It's a road," said Mara. "A living road. And it's not on his Chart."
+
+It was ten to two.
+
+They didn't cheer. There wasn't time.
+
+At two o'clock, far above them, the Chainway finished fading. They heard it go: a long, groaning creak and then nothing. A moment later, the whole line of rope trembled.
+
+"The Orchard," said Idris, staring back along the posts. "It's moving."
+
+It was. Very slowly, the great floating crag was beginning to turn and slide, pulled by the first stirrings of the breath. The rope tightened from post to post, like a string being plucked. Under the Orchard, Wim's boat was leaning hard the other way, its sail full, with every sailor hauling on the line. In the stern, a small figure in a blue cap was holding the rope with both hands and his eyes screwed shut.
+
+"Hold on, Tavi," whispered Mara.
+
+The rope trembled, and held.
+
+"Go," said Idris. He took Mara's torch out of her pocket, checked it, and pressed it back into her hand. "Go on. I've got this end."
+
+Mara climbed out onto the rock and started up Hesper's steps.
+
+The stair went up in zigzags through the cliff, then into a tunnel, then into the base of the Tower itself. It turned into a spiral, round and round, cold and dark, with no windows at all. Mara counted the steps without meaning to. Two hundred. Three hundred. Her legs were burning.
+
+At the very top, the stair ended at a door.
+
+It was made of dark wood, with a brass handle shaped like a compass needle. There was no keyhole. No lock. No bolt.
+
+Mara pushed it. It didn't move.
+
+From the other side, very faintly, she heard the scratch of a pen.
+
+---
+
+## Chapter Twenty-Two
+### The Great Chart
+
+*Ansel always locked his doors with words.*
+
+Mara stood in the dark at the top of the stairs. She could feel her heart going in her ears. She didn't know the word. She could try a hundred words, and every one would be wrong.
+
+Then she remembered the lantern.
+
+Tavi had given it to her under the Orchard, before he climbed into Wim's boat, without saying anything. She unhooked it from her belt now. It was so dark on the stair that she couldn't see her own hand.
+
+She held the lantern close to the brass handle and opened the shutter a crack.
+
+A man's voice, quiet and sad and very close, said one word.
+
+*"Pip."*
+
+It was the word he said every morning, and every night, when he opened this door. Mara could hear that in it.
+
+The candle burned down past another mark. Two left.
+
+Mara put her mouth near the door. "Pip," she said.
+
+The handle turned by itself, and the door swung open.
+
+---
+
+The map room was round and full of light.
+
+Tall windows ran all the way round it, looking out over the whole of the Fold: the silver Slack, the islands, the far-off glimmer of Lantern Quay. A door stood open onto an iron gallery. And beyond it, mounted on brass rails, a long telescope pointed out over the sea.
+
+In the middle of the room was a table, round and as big as a pond. On it lay the Great Chart.
+
+It was like Mara's map, only enormous, and alive. Every island was there, every road shining in green-brown ink. Tiny specks of light crept along them. And round the edge ran the border: seventy-two notches, all joined now into one thick, dark line. Except for one gap, at the top.
+
+One notch. One hour.
+
+Less than one hour.
+
+The man at the telescope turned round.
+
+He was tall and stooped and old, in a long grey coat, with silver hair and round spectacles on a chain. His fingers were stained with ink. He didn't look like a villain. He looked like somebody's grandad.
+
+"You're the girl," he said. "With Edie's map." He looked at the lantern in her hand, then at the door. "And you know my brother's name." His voice was gentle and very tired. "How is Edie? I drew your town in for her, you know. So she'd be safe. She always was reckless."
+
+Mara had been ready to shout at him. She found she couldn't.
+
+"Edie died," she said. "Six years ago. I'm sorry."
+
+The Surveyor stood very still.
+
+"My nan was her friend," Mara went on. "She talks about her all the time. She says Edie was the best dancer at the Palace."
+
+"She was," said the Surveyor, after a long time. "She was the best at everything." He took off his spectacles and wiped them carefully. When he put them back on, his face was calm again.
+
+"Well," he said. "Then you've come a long way for nothing. Go and sit down. It will all be over soon, and then nobody will ever have to be sad again."
+
+Then he stopped. Mara saw him look down at the Great Chart, and frown.
+
+"You weren't on any of my roads," he said slowly. "I've been watching. Four children with a map. You vanished in the marsh. And now you're here, and you didn't come by the Chainway, and you didn't come by the Rim." He looked at her properly for the first time. "You came by a way I haven't drawn."
+
+Mara said nothing.
+
+He was at the telescope in two steps, swinging it round the whole Fold, looking, looking. The marsh. The lagoon. The Orchard. The open Slack.
+
+"Nothing," he muttered. "There's nothing. Where..."
+
+And then he stopped and stood very still. Mara watched him think. She could almost see the thought arriving.
+
+"Under the lamp," said the Surveyor softly.
+
+He went out onto the gallery and leaned over the rail, and looked straight down.
+
+Mara ran after him. Far below, in the shadow of the cliff, she could see it: the thin line of rope running from post to post, out to the hanging Orchard. A tiny figure on the middle post with her face turned up. Three little quick boats waiting.
+
+The Surveyor was already back at the Chart, picking up a long silver pen. He dipped it in a pot of tide-ink. He leaned over the place where the nine dots were, and began to draw a line, careful and exact, along the north side of the posts.
+
+Mara stood in the gallery doorway, where the window faced down to the posts. She held up the torch and pressed the switch.
+
+*One flash.*
+
+Far below, faint but clear, came Bea's voice. "*SOUTH!*"
+
+The Surveyor finished his line and lifted his pen.
+
+The ink didn't sink in. It sat on top of the paper in a long wet stripe. It shivered. Then it ran, like rain off a window, and puddled at the edge of the Chart.
+
+He stared at it.
+
+"Not where it's drawn," whispered Mara.
+
+He looked at her, and then at the torch in her hand, and then at the window. His mouth went thin. He dipped the pen again, and drew, quick and neat, along the south side of the posts.
+
+*Two flashes.*
+
+"*NORTH!*" Bea's voice came up the cliff.
+
+The ink ran.
+
+He drew again. Mara flashed. Bea shouted. The ink ran. Every time he drew the road, it had already moved.
+
+The clock on the wall said a quarter to three.
+
+The Surveyor put down his pen. He stood for a moment with both hands flat on the edge of the table, breathing slowly.
+
+Then he went to a speaking-tube on the wall, pulled out its brass stopper, and spoke into it, quite calmly.
+
+"Pell," he said. "Take the shears. Go down Hesper's steps. There's a rope tied at the bottom. Cut it."
+
+---
+
+## Chapter Twenty-Three
+### The Line That Would Not Meet
+
+**FIFTEEN MINUTES REMAINING**
+
+The Surveyor walked to the gallery door and closed it. Then, one by one, he closed the tall shutters on the windows. The ones that looked down to the posts. The ones that looked out to the sea.
+
+The room went dim, lit only by lamps. Mara stood holding her torch, and there was nowhere left to point it.
+
+"I'm sorry," said the Surveyor. He meant it. That was the worst part.
+
+He sat down in a chair by the Great Chart, slowly, like a very old man.
+
+"Do you know what I'm offering?" he said. "Not just to the Fold. To you." He looked at her with his tired, gentle eyes. "Your nan. Edie's friend. She's forgetting, isn't she? I can see it in your face. Every week she loses a little more. One day she'll look at you and not know who you are."
+
+Mara's throat closed up.
+
+"In the stillness," he said softly, "that day never comes. She'll be exactly as she is now. Always. She'll always know you. She'll never lose another thing." He spread his inky hands. "Nobody gets lost. Nobody gets left. Isn't that what you want?"
+
+It was. It was exactly what she had wanted, in that small, secret, terrible part of her. Every night since April.
+
+Mara thought about Nan on the harbour steps, tilting the map to the light. *You don't look at pencil, you tilt it.* Nan remembering Edie's saying from seventy years ago, and forgetting her own cup of tea. Nan laughing at the fish.
+
+If Nan were still, she'd never forget anything else. But she'd never laugh at anything new. Never hold Mara's hand on the way home. Never tell the Palace story again, even for the hundredth time. It would just be a picture of Nan. Not Nan.
+
+"No," said Mara.
+
+The Surveyor looked at her.
+
+"I don't want her to stay the same," said Mara. Her voice was shaking, and she let it. "I want her. Even if she changes. Even if she forgets me." She took a breath. "I'll just have to keep reminding her. That's all. I'll draw her maps."
+
+She took the brass compass out of her pocket and put it on the table in front of him.
+
+"Pip didn't want to be safe," she said. "He wanted to see the island."
+
+The Surveyor looked down at the compass. He didn't touch it.
+
+Mara turned and ran.
+
+There was a window on the stair. She'd passed it in the dark without knowing: a narrow slit in the stone, high in the wall, looking straight down the cliff. She scrambled up onto the step below it and pressed her face against the cold glass.
+
+Far below, at the bottom of Hesper's steps, a lanky young man in a grey coat was running down the last zigzag with a pair of shears in his hand.
+
+Mara saw Idris stand up in the punt. Saw him put himself between the young man and the iron ring. Saw the young man push past him, not roughly, and kneel and close the shears on the bright blue rope.
+
+The rope parted. The end flew loose.
+
+Mara's heart stopped.
+
+But Idris had already grabbed one end, and was reaching for the other. The punt was spinning. He jammed his knee against the iron ring. Mara saw silver glint in his hand. The last of the thread. She saw him hold the two cut ends together, exactly lined up, and start to wind. No rushing. No mistakes.
+
+One turn. Two. Three.
+
+The thread ran out on the last turn. It was exactly enough.
+
+The rope was whole.
+
+And now, faintly, up the cliff, came a voice. Bea's voice. Not Mara-flash, Bea-shout. Just Bea, on her own, with nobody telling her what to do.
+
+"*NORTH! Now SOUTH! Keep going! Don't stop! Keep it moving!*"
+
+She was calling every move herself. She couldn't see the Chart, so she was keeping the road moving all the time, north, south, north, so it could never be in one place long enough to be drawn.
+
+On the rocks below, the young man stood with the shears in his hand. He lifted them again.
+
+And Bea, on her post, turned and called something to him. Mara couldn't hear the words. But she saw the young man stop. She saw him look out across the water, west, towards where Bellbridge used to be. She saw his shoulders drop.
+
+He put the shears down on the rock.
+
+Then he knelt beside Idris and took hold of the rope with both hands, and held it steady.
+
+The breath was coming back. Mara could see the current stirring, pulling at the posts. Far away, under the drifting Orchard, Wim's boat was leaning hard against the line. And a small figure in a blue cap was still holding on.
+
+Mara stumbled back up the stairs into the map room.
+
+The Surveyor was standing over the Great Chart, his pen in his hand. He wasn't drawing. He was just watching the border.
+
+On the clock, the minute hand moved to twelve.
+
+Three o'clock.
+
+The last notch began to close. A line of dark ink crept along the border towards the place where the other end began. Mara watched it come. Closer. Closer. A finger's width. A hair's width.
+
+It stopped.
+
+The two ends of the line lay side by side, so close they almost touched. But they didn't meet. There was a gap between them, too small to see unless you were looking for it.
+
+A gap for the wanderers.
+
+Then, with a sound like ice cracking on a pond, a split ran out from the gap, right across the Great Chart. Across every island. Across every road. The shining green-brown ink went dull. Then flat. Then it was just ink, ordinary ink on ordinary old paper. The tiny moving specks winked out.
+
+It was just a map.
+
+Outside, Mara felt it more than heard it. The whole Fold breathed out, a long, slow sigh. Through the cracks in the shutters, she saw the islands shift, very slightly, a hand's width this way or that, like someone turning over in their sleep.
+
+Nobody was still.
+
+The Surveyor sat down in his chair. He didn't say anything. He reached out slowly and picked up the brass compass. He held it in both hands.
+
+Then he got up, and walked to the window, and opened the shutter, and looked out.
+
+---
+
+## Chapter Twenty-Four
+### Gaps for the Wanderers
+
+Afterwards, it was Bea who told her what she'd said to the young Chainman.
+
+"I asked him if his name was Pell. And he said yes. And I said, your gran is the toll-keeper on Bellbridge, isn't she? Because she has the same eyes. And I said, she rang every single bell for you, at the end. All twenty-six. Even the little silver one." Bea shrugged. "I heard them. I thought he'd want to know."
+
+Orrin Pell turned out to be Grandma Tull's grandson. He drove the Chainmen's sail-cart himself, all the way back along the Rim Road to Lantern Quay. It was a long, rattling wagon with a sail on top that hurtled along the edge of the world. Beside him, in the passenger seat, sat Sorrel Penn, freed from the Tower's cells with a cup of tea in his hand and a look of enormous satisfaction.
+
+The Surveyor stayed behind in his Tower. When the sail-cart left, he was standing on the gallery, not looking at his Chart. He was looking out at the islands, at the boats, at the Orchard drifting slowly back towards the Canopy.
+
+"What will happen to him?" Mara asked.
+
+"He'll have to learn to look out of the window," said Penn. "It'll do him good."
+
+---
+
+Before they left, Saskia had come aboard the punt and handed Mara her map.
+
+It was quiet now. No specks. No glowing roads. The border was just a border. But it was still Edie's map, with Edie's little fish over Ellery's, and Mara's own silver thread holding its corner on.
+
+"You kept your promise," said Saskia. Then, to her son, more quietly: "So did you."
+
+She held out her arms. After a moment, Tavi walked into them.
+
+---
+
+Lantern Quay was full of people when they arrived. All the bell-folk were there, crowded in with their bags and boxes, along with the lamplighters and half the Fold. Grandma Tull came out of the crowd and took her grandson's face in both her tiny gloved hands, and for a long time neither of them said anything at all.
+
+Ro was at the top of the great lamp tower. She came down the ladder so fast she nearly fell off it, and hugged Tavi so hard that his cap came off.
+
+"You went past Bellbridge," she said into his hair.
+
+"I went *everywhere*," said Tavi.
+
+Bellbridge was gone. It would never come back. The bells were somewhere at the bottom of the Slack. But Grandma Tull was already talking about rafts, and ropes, and building something new, and Joss and Wim were already arguing about how.
+
+"Everything changes," said Ro, watching them. "That's what keeps it alive."
+
+At the top of the stone steps, where the Lamp Road began, Mara held out the lantern to give it back.
+
+Tavi pushed it gently back into her hands. "Two marks left," he said. "Keep it."
+
+"I can't..."
+
+"It's a present. It's rude to say no to a present. Everyone knows that." He grinned, but his eyes were shiny. "And you'll come back. You've got a map and a door. I'll teach you the lamp signal. Two long, one short. It means *come and see*."
+
+Mara hugged him. Idris hugged him. Bea hugged him longest of all.
+
+Then the three of them walked back home along the road of light.
+
+---
+
+Halfway across, Mara looked back at the Fold. Then she looked forward, at Wrenmouth.
+
+The fog on Wren Bridge was lifting. She could see it thinning, drifting away up the valley like smoke. Over the harbour, a gull tilted its wings and flew.
+
+Gull Head was full of torches.
+
+Dad was there, and Mrs Bello, and Bea's mum and Jo with the baby in a sling, and two coastguards, and half of Fore Street. It was twenty to ten on Friday night. The children had been missing for nearly five hours.
+
+Nobody believed them.
+
+Dad held Mara so tight she couldn't breathe, and then he was so angry he couldn't speak, and then he held her again. She was grounded until Christmas. Idris was grounded until Easter, because of the lighthouse. Bea's mum cried and cried, and Kit clapped his hands at all the torches. Bea opened her flapjack tin and gave her mum the note that said *I'm all right*, and that made her mum cry even more.
+
+The only person who believed them was Nan.
+
+"Edie's door," she said, when Mara showed her the map. She ran her finger over the little fish and smiled. "She always said she'd show me one day."
+
+---
+
+Three weeks later, on a rainy Sunday, Mara sat with Nan at the kitchen table.
+
+On the table was Nan's old music box. It was blue, with a dancer on top. Nan said Edie had given it to her a long time ago.
+
+Mara closed the curtains and turned off the light, until the kitchen was properly dark. Then she opened the shutter of the echo lantern, just a crack.
+
+Out of the music box came two girls' voices, young and breathless, laughing so hard they could hardly speak. One of them was saying, *"Dot! Dot, stop, I can't, my feet!"* And the other one, Mara knew at once, was Nan.
+
+Nan sat very still in the dark. Then she laughed too, the same laugh, seventy years older.
+
+The candle had one mark left. Mara decided she would save it.
+
+Afterwards, they drew a map of Wrenmouth together, in pencil, because Nan said you could always rub out pencil. Nan told her where everything used to be: the Palace, the old ropeworks, the sweet shop with the jars. Mara drew them in, next to where everything was now. Nan forgot some things halfway through, and remembered others, and told the Palace story twice. Mara didn't mind.
+
+When they drew the harbour wall, Mara drew it round in a long curve. Then, at the very end, she lifted her pencil and left a little gap.
+
+"What's that for?" said Nan.
+
+"For the wanderers," said Mara.
+
+The next day, Nan had forgotten all about it. So Mara drew it again.
+
+---
+
+On the last evening before Christmas, Mara was walking home along the harbour when she looked up at Gull Head.
+
+The lighthouse was dark. It had been dark since that Friday night, when Mrs Bello had climbed up and turned it off and locked the door and said a great deal about it.
+
+But now, as Mara watched, high in the lamp room, a light flickered on.
+
+Long.
+
+Long.
+
+Short.
+
+*Come and see.*
+
+Mara stood very still on the harbour front. Then she smiled, and put her hand in her pocket, where she always kept the map now. And she started to walk towards the headland.
+
+**THE END**
