@@ -117,7 +117,7 @@ It was the only proper road out of Wrenmouth. It crossed the river on the old st
 
 They both jumped.
 
-Bea Nowak stood on the top step with binoculars round her neck and her duffel coat done up to the chin. She was in Mara's class. She hardly ever spoke, and when she did it was usually so quietly that Mr Penrose said, "Pardon?" and Bea didn't say it again.
+Bea Nowak stood on the top step with binoculars round her neck, her long black hair blown across her face and a gull feather tucked behind one ear. She was in Mara's class. She hardly ever spoke, and when she did it was usually so quietly that Mr Penrose said, "Pardon?" and Bea didn't say it again.
 
 "Sorry," Bea said. "I was doing the kittiwake count. Only..." She pointed past them, at the landward window. "There's fog on the bridge. Just on the bridge."
 
@@ -134,7 +134,7 @@ The grey road and the white fog were exactly the same shape.
 ## Chapter Two
 ### Nan's Way Home
 
-Mara went down the lighthouse stairs so fast that she counted them without meaning to. Ninety-nine, a hundred, a hundred and eight. The map was buttoned inside her raincoat, flat against her chest, and she could feel the edges of it with every step, as if it had a heartbeat.
+Mara went down the lighthouse stairs so fast that she counted them without meaning to. Ninety-nine, a hundred, a hundred and eight. The map was buttoned inside her jacket, flat against her chest, and she could feel the edges of it with every step, as if it had a heartbeat.
 
 Mrs Bello was in the yard with her phone to her ear. "Shut by *what*? It's fog, not a wall."
 
@@ -379,7 +379,7 @@ There were lamps on poles along the stone quayside, lamps strung in loops betwee
 
 The road of light ended at the bottom of a flight of stone steps. Standing on the top step, holding a long pole with a hook at the end and a small tin lantern hanging from it, was a boy.
 
-He was about Idris's age and about half his width, in an oilskin cape that was too big for him and a scarf made of about forty different scraps. He had a smudge of soot on one cheek. He was staring at them as if they were a ghost who had turned up for tea.
+He was about Idris's age and about half his width, with copper curls stuffed under a floppy blue cap, a brown scarf wound up to his freckled nose, and a smudge of soot on one cheek. He was staring at them as if they were a ghost who had turned up for tea.
 
 "The Lamp Road's been dead forty years," he said. "Who are you? Who sent you? And why does it smell of..." He sniffed. "What *is* that?"
 

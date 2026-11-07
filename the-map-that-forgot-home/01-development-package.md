@@ -2,7 +2,7 @@
 
 *Planning material. Kept separate from the manuscript (`02-manuscript.md`) and the running continuity record (`03-continuity-record.md`).*
 
-> **Note on character appearance:** no picture came through with the brief, so the looks below are placeholders written to be easy to swap. Send the picture (or one per child) and I'll update every description and illustration brief so they match.
+> **Note on character appearance:** the looks below match the supplied character sheet. Tavi's animal companion is pending a decision.
 
 ---
 
@@ -35,7 +35,7 @@
 ## 2. Character guide
 
 ### Mara Ellery, 10 (viewpoint character)
-- **Look (placeholder):** small; dark curly hair in a stubby ponytail with a pencil usually stuck through it; yellow raincoat; spiral sketchbook on a shoelace round her neck.
+- **Look:** shoulder-length wavy chestnut hair, freckles, bright eyes; tan canvas jacket over a cream top; brown backpack; always holding a sketchbook with a pencil.
 - **Home:** lives over Ellery's Fish and Chips on Wrenmouth harbour with **Dad (Tom)**, who runs the shop, and **Nan (Dorothy "Dot" Ellery, 78)**, who moved in last April and is losing her memory. **Mum (Shona)** works two-weeks-on, two-weeks-off on an offshore wind-farm crew and is away this fortnight.
 - **Motivation:** keep Nan, Dad and Wrenmouth from being stilled. Underneath that, she wants the world to stay the shape she has drawn it.
 - **Ability:** spatial memory and sketching. She notices patterns on maps and on the ground, counts steps and reads routes.
@@ -47,7 +47,7 @@
 - **Growth:** from "uncertainty means failure" to "a living way moves; that's what keeps it alive." She learns to listen to Bea, to Nan and to the plan's weak points.
 
 ### Idris Bello, 11
-- **Look (placeholder):** tall and long-armed; green beanie; his mum's old canvas tool roll strapped across his chest; a coil of blue rope over one shoulder from Ch2.
+- **Look:** dark tightly curled hair with brass goggles pushed up on his forehead; blue work overalls with braces over a shirt; a spanner always to hand; tool roll and a coil of blue rope from Ch2.
 - **Home:** moved to Wrenmouth in July with his mum **Funmi Bello**, who runs *Bello Builds*. His dad lives in Cardiff. Idris spends half-term on site with his mum.
 - **Motivation:** he lit the lamp that opened the Lamp Road and feels responsible. He also badly wants to be the one who makes things work. His mum is in Wrenmouth too.
 - **Ability:** mechanisms, knots, pulleys, levers. He can see how a thing moves.
@@ -59,7 +59,7 @@
 - **Growth:** learns to ask for help (the Market's rope-maker) and to measure before he acts.
 
 ### Bea Nowak, 10
-- **Look (placeholder):** long fair plait; brown duffel coat with toggles; binoculars (lost in Ch17); bird notebook in a plastic bag; woolly hat with a bobble.
+- **Look:** long straight black hair with a small feather tucked behind one ear; dark eyes; brown jacket with a satchel strap across it; binoculars (lost in Ch17); bird notebook.
 - **Home:** Polish-British; lives on the edge of town with her mum **Kasia**, Mum's partner **Jo**, and baby half-brother **Kit** (8 months). Volunteers on the headland seabird count.
 - **Motivation:** Kit, and the kittiwakes she has counted all year. Also a private wish to be heard the first time.
 - **Ability:** patient observation of animals, plants, weather and water. She reads the Slack's "breath" better than anyone by Ch12.
@@ -71,7 +71,7 @@
 - **Growth:** from whispering to calling the shots.
 
 ### Tavi Sallow, 11 (from the Fold)
-- **Look (placeholder):** wiry, quick; lamplighter apprentice's oilskin cape with brass buttons; patchwork Market scarf; soot on at least one cheek; carries the echo lantern on a hook-pole.
+- **Look:** curly copper-ginger hair under a slouchy blue cap; lots of freckles; a huge grin; a chunky brown scarf wrapped high; carries the echo lantern on a hook-pole.
 - **Home:** born on the **Night Market**. His parents **Saskia** (the Market Mother) and **Joss** (rope-maker) left him at Lantern Quay at seven to learn a settled trade. He lives with **Ro**, the Head Lamplighter, and belongs fully to neither place.
 - **Motivation:** the Surveyor is hunting the Market, and with it his parents. He also wants to prove he's more than the apprentice who cleans soot.
 - **Ability:** knows Fold customs, toll rhymes, Market law and how the Slack behaves. He tells brilliant stories and can throw his voice in the Canopy.
@@ -413,7 +413,7 @@ He also **physically destroys** unrecorded ways he finds. Chainmen burn Glasser 
 
 ## 8. Interior illustration briefs (12)
 
-*These are briefs for an illustrator, not finished illustrations. All black and white. Keep costumes consistent: Mara (yellow raincoat, sketchbook on a shoelace), Idris (green beanie, tool roll, blue rope from Ch2), Bea (duffel coat, plait, binoculars until Ch17), Tavi (oilskin cape, patchwork scarf, echo lantern on a hook-pole).*
+*These are briefs for an illustrator, not finished illustrations. All black and white. Keep costumes consistent with the character sheet: Mara (wavy chestnut hair, tan jacket, backpack, sketchbook), Idris (curly dark hair, goggles on forehead, blue overalls, spanner; blue rope from Ch2), Bea (long black hair, feather, brown jacket, binoculars until Ch17), Tavi (ginger curls, blue cap, brown scarf, echo lantern on a hook-pole).*
 
 1. **Ch1. The chart drawer.** Mara at the curved lamp-room table, map spread, the great lens behind her. On the map, half-drawn islands and a fine line inking itself from the lighthouse. Idris's legs stick out from the lens frame. *Purpose:* the map and the setting. *Avoid:* labels legible enough to spoil anything.
 2. **Ch2. Nan on the harbour steps.** Nan in her good coat and slippers tilting the map to the light; Mara beside her; the fog bank sitting on Wren Bridge in the distance. *Purpose:* emotional heart.
