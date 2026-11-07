@@ -1398,3 +1398,374 @@ She didn't say anything wise. She couldn't think of anything wise. She just took
 "We're not going home," she said. "Not yet. We're going to stop him."
 
 One by one, the others looked up.
+
+---
+
+## Chapter Thirteen
+### The Reed Ways
+
+For a while, nobody could eat. Then Ezra unwrapped a parcel of smoked eel, and it turned out that being sad made you very hungry after all.
+
+Mara sat down next to Tavi on the reed bank.
+
+"I'm sorry," she said. "About the vote. You were the only one who wanted to keep going, and we all just... went the other way."
+
+Tavi shrugged. "You wanted to see your family. That's allowed." He tried a grin. "Anyway, you're stuck with me now. No bridge. You'll have to listen to all my stories. I know four hundred."
+
+Nobody laughed. The joke fell flat on the reeds and lay there.
+
+Tavi stopped grinning. He said, plainly, in a voice Mara hadn't heard him use before, "I'm going to the Tower. With you or without you. My mum and dad are out there. Ro's on her island on her own. I'm not doing jokes about it any more."
+
+"With us," said Idris.
+
+"With us," said Bea.
+
+Mara nodded. Her circle with its little gap was still drawn on the map round the Observatory, and she found that she didn't want to rub it out.
+
+---
+
+Ezra knew the way to the Observatory. Of course he did. The Glassers had lived in the marsh for longer than anyone could remember.
+
+"Marsh Pole Line's quickest," said Mara, pointing at the map. It was a dotted line from where Heron Holm used to be, straight across the lagoon to the Observatory. "Two hours. It doesn't close till six."
+
+Ezra shook his head. "It's one of *his* roads. You walk on his roads, he sees you. That's how the Chainmen found the Holm. Someone took the Pole Line to visit us." He jerked his thumb at the reeds. "We go the old way."
+
+"How long's the old way?"
+
+"Three hours. Maybe four."
+
+Mara opened her mouth to argue. Two hours was better than four. Two hours was *obviously* better. Then she remembered the Canopy, and the bees, and all the time she'd spent being sure.
+
+"Okay," she said. "The old way."
+
+Ezra looked surprised, and then pleased.
+
+The old way was made of reeds.
+
+Bundles of them, tied tightly and laid side by side across the shallows, so that you could walk on them as if on a springy floor. The reeds were the strangest Mara had seen: pale and clear, almost like glass. When the wind blew, they chimed softly against each other, a sound like a hundred tiny spoons in a hundred teacups.
+
+"Glass-reed," said Pim proudly, walking beside Idris. "We make new paths every spring. And when the old ones sink, we make more."
+
+"And they're not on the map," said Mara, checking. They weren't. Neither were the six of them.
+
+"Never have been," said Ezra. "Never wanted to be."
+
+"Then why is he burning them?" said Bea. "Moss Haverly said he never cared about reeds before."
+
+Ezra walked for a while before he answered. "Started this summer," he said. "Chainmen came with torches and burned every reed way they could find. Never bothered with us before, not in sixty years. Like he suddenly *needed* them gone." He spat into the water. "Can't draw 'em, so he burns 'em."
+
+Mara wrote that down. *Can't draw them, so he burns them.* She underlined it. Then she sat looking at it while they walked, because she had a feeling it was important and couldn't work out why.
+
+Pim had attached herself to Idris and wouldn't let go. He showed her how to tie a bowline, a knot that made a loop that never slipped.
+
+"The rabbit comes out of the hole," he said, "goes round the tree, and back down the hole."
+
+Pim tied it perfectly the first time.
+
+"That's brilliant," said Idris. "Took me a week."
+
+"You're nice," Pim told him, very seriously. "You fix things."
+
+Idris went red. "Sometimes I break them first."
+
+"That's all right," said Pim. "Then you get to fix them twice."
+
+Bea walked at the back, listening to the reeds. Once she stopped them all with a hand. A long reflection of the floating Orchard lay across the water ahead, so real that you wanted to walk on it. Ezra nodded at her approvingly and led them round it.
+
+The afternoon went by. At five o'clock, Mara looked at the map. The Marsh Pole Line was going grey, fading out over the lagoon. Within the hour, it would be gone. If they had taken it, they would be on it now.
+
+The reed path ended at a low wall of old stone. Beyond it, across a stretch of still water, rose a great dome. It was cracked across the top like an eggshell. Half of the building had sunk into the lagoon, so that water lapped at its upper windows.
+
+But one window, high up near the top of the dome, was lit.
+
+"Someone lives there," whispered Bea.
+
+---
+
+## Chapter Fourteen
+### The Hermit of the Dome
+
+They rowed across in the coracle, two at a time, and tied up at a stone balcony that had once been on the second floor.
+
+The door had a sign nailed to it. GO AWAY.
+
+Mara knocked.
+
+"Can't you read?" shouted a voice from inside.
+
+"Yes," said Mara. "We need help."
+
+"Everybody needs help. Go and need it somewhere else."
+
+The door flew open. A furious old man stood there in a faded grey coat, patched at the elbows, with a wild white beard and binoculars round his neck. Mara stared. It was a Chainman's coat. Old and worn, but a Chainman's coat.
+
+"Children," the old man said in disgust. Then he saw Ezra, and his face changed. "And Glassers. What's happened?"
+
+"They burned the Holm," said Ezra.
+
+The old man shut his eyes. When he opened them, he stepped aside. "Fine. Come in. Wipe your feet. Don't touch anything."
+
+His name was Sorrel Penn. He lived in three dry rooms at the top of the drowned Observatory, full of books, telescopes and bird feeders. On the windowsill, a row of small grey-and-white birds were eating seed.
+
+"Arctic terns," said Bea, before she could stop herself. "They fly from one end of the world to the other. Further than any other bird."
+
+Penn turned round slowly. "And how do you know that?"
+
+"I count seabirds. At home. There are terns there too, in summer." Bea pointed. "That one's got a ring on its leg."
+
+"I ringed her," said Penn. "Six years ago." He looked at Bea very differently after that. Then he sighed and said, "I suppose you'd better eat."
+
+Supper was pickled samphire and ship's biscuits, which were so hard that Idris had to soften his in his tea. Penn watched them eat with his arms folded.
+
+"You were a Chainman," said Mara.
+
+"For forty years." He touched the faded coat. "I measured every road in the Fold. Helped him draw them, all neat and true. I believed in it. Everyone safe. Everyone home." He looked at Ezra. "Then this summer, he sent us to burn the reed ways. I said no. So here I am."
+
+"Why does he want everything still?" Mara asked. "Really?"
+
+Penn was quiet for a long time.
+
+"He had a little brother," he said at last. "Pip. Ansel was twelve and Pip was eight. One morning, Pip came running in, shouting that he'd seen a new island drifting past. He wanted to go and look. There was a way out to it, a way nobody had drawn, made of old rafts. Ansel said no, wait, it isn't safe. Pip went anyway." Penn looked into his tea. "The way drifted apart. They never found him."
+
+Nobody said anything.
+
+"Ansel's spent sixty years making sure nothing like that ever happens again," said Penn. "Every road on his Chart. Every road steady. Nobody wandering off. And now this." He waved at the window, at the whole Fold. "Everyone still, for ever. Nobody ever lost again."
+
+Mara looked down at her hands.
+
+She knew that feeling. Wanting everything to stay where you'd put it. Wanting a plan so perfect that nothing could ever go wrong and nobody could ever get hurt. She had felt it every single day since Nan came to live with them.
+
+She hadn't known she had anything in common with the Surveyor. She didn't like it at all.
+
+"We need to get into the bottom of the dome," she said. "Behind the stars."
+
+Penn raised his eyebrows. "Do you, now." He went to the window and pointed down into the dark water inside the great broken building. "The old star room's down there. Hesper's workroom's behind it, so they say. It's underwater most of the day. There's a float-lift. Hesper built it to go up and down with the Slack. But you can only reach the star room at low breath."
+
+"One o'clock," said Bea. "In the morning."
+
+"In the morning," agreed Penn.
+
+"And how do we get through, once we're there?" said Idris.
+
+Penn snorted. "You'll find out. And don't expect a key. Hesper never used keys, and neither did her apprentices. Keys get lost. Ansel always locked his doors with words."
+
+"Words?"
+
+"Say the right word to the door, and it opens. Say the wrong one, and it doesn't." He shrugged. "That's all I know. Go to sleep. I'll wake you."
+
+They slept in a heap of blankets on the floor of Penn's library. Pim curled up next to Idris like a puppy. Ezra snored.
+
+Mara lay awake, thinking about a boy called Pip running down to the water to see a new island. Then she thought about Nan, telling her about the Palace and the dancing and Edie, again and again, as if every time was the first time.
+
+At half past twelve, Penn shook her shoulder.
+
+"Up," he said. "The water's going down."
+
+---
+
+## Chapter Fifteen
+### Behind the Stars
+
+They went down into the dark with the yellow torch.
+
+The float-lift was a wooden platform in an iron cage, hanging inside the dome from heavy chains. On the side was a rack of iron weights, each one stamped with a number, and a painted sign: *BALANCE BEFORE YOU DESCEND.*
+
+"It's a seesaw," said Idris at once, examining the chains. "We go down, the weights go up. If we're heavier than the weights, we drop too fast and smash. If we're lighter, we don't move at all." He looked at the numbers. "These are in stones. Old weights. We have to match ourselves."
+
+"Mum says I'm four stone," said Bea.
+
+"I'm about five," said Idris.
+
+"Four and a half," said Mara.
+
+Tavi said, "I don't know. Nobody's ever weighed me. I'm probably very light. Like a feather."
+
+"You ate six dumplings," said Idris.
+
+They worked it out together: eighteen stone of children, more or less, and the torch, and the rope. Idris loaded the weights one at a time, checking the chains as he went. Not rushing. Mara watched him and didn't say anything.
+
+"Bea," he said. "When?"
+
+Bea was shining the torch on a ring of numbers painted on the wall. The water level was creeping down past them. "It's nearly at the bottom mark," she said. "There. Now. The Hush is starting."
+
+Idris let off the brake. The lift sank smoothly through the dark, past the waterline, and down.
+
+They came to rest on a stone floor, wet and shining. Bea swung the torch round.
+
+They were in a round room, and every inch of its curved wall was painted with stars. Not ordinary stars. Clusters of gold stars, joined by fine silver lines, with names painted beside them in old curly letters. *The Lantern. The Hive. The Hanging Tree. The Mirror.*
+
+"Constellations," said Tavi.
+
+Mara walked slowly round the wall. Something about it itched at her, the way a map did when it had a mistake in it. The Lantern was on the left. The Hive was above it. The Hanging Tree was on the right…
+
+"It's the Fold," she said suddenly. "Look. It's the map. Only backwards, like in a mirror. The Lantern's Lantern Quay. The Hive is the Canopy. The Hanging Tree's the Orchard. The Mirror's the marsh."
+
+"And that's us." Idris pointed. A cluster of stars in the shape of a dome, low down, near the floor. *The Lamp of Hesper.*
+
+The dome-shaped stars made a circle. Except they didn't, quite. There was one star missing from the ring. A small gap.
+
+Mara put her finger on the empty space. The stone was cool and smooth. She thought about Nan, and Edie, and Tavi's story.
+
+*Leave a gap for the wanderers.*
+
+She pressed.
+
+With a low grinding sound, a section of the painted wall swung inwards.
+
+Behind it was a small round room, dry as a biscuit tin. There was a desk with an inkstand, and charts rolled up in racks. On the wall was a brass plate, green with age, with writing on it. And, pinned beside it with an old drawing pin, was a ragged triangle of paper.
+
+Mara's heart jumped. She knew the edge of that paper. She'd looked at it a hundred times.
+
+"It's the corner of the map," she said. "The torn bit. Edie left it here."
+
+She read the brass plate aloud by torchlight while the others crowded round.
+
+> **THE RULE OF HESPER**
+> *One. What is drawn true in tide-ink, the Chart shall hold.*
+> *Two. What the Chart holds, its keeper may undo.*
+> *Three. No ink shall set on a way that is not where it is drawn.*
+> *Four. A border closed shall still everything inside it.*
+> *Five. But the border shall not close while any living way between the islands lies undrawn. And a border that fails to close is broken, and may never be drawn again.*
+
+There was a long silence.
+
+"Say the last one again," said Idris.
+
+Mara said it again.
+
+"So," said Tavi slowly, "if there's a road. A real one, between two islands. And it's *not* on his Chart..."
+
+"Then the Stilling can't finish," said Bea. "And it breaks. For ever."
+
+"That's why he burned the reed ways!" Mara almost shouted it. "*Can't draw them, so he burns them!* He's getting rid of every road he can't draw. That's why he never started it before. Edie's road. The Lamp Road. It was never on his Chart. He couldn't finish the Stilling while it was there. So this summer he found it and drew it. And then he could begin."
+
+"Then we need a road," said Idris. "Any road. That he hasn't drawn."
+
+"A *living* road," said Bea. "What does living mean?"
+
+Mara unpinned the triangle of paper. On the back, in the spiky handwriting, Edie had written one more line.
+
+*A way is a way only when someone walks it, end to end.*
+
+"It has to be real," said Mara. "Someone has to actually walk it."
+
+She took out the silver thread. The tear on her map was long, as long as her hand, and she knew it would cost a lot. She did it anyway. She laid the corner in its place and wound the thread along the tear, slowly and carefully. Idris held the paper flat and Bea held the torch. When she lifted the last of the thread away, the map was whole.
+
+The missing legend was there now, all its little symbols explained. And the lagoon around the Observatory was drawn properly at last. So was the place where the old Pole Line had run, out to the marsh.
+
+Mara measured the thread afterwards. Sixty centimetres left.
+
+For a moment, all four of them stood in Hesper's dry little room and grinned at each other like idiots. Tavi started laughing first. Then all of them were laughing, in a drowned building, in the middle of the night, because for the first time since Friday they knew what to do.
+
+Something cold touched Mara's ankle.
+
+Water. Seeping under the secret door.
+
+"It's coming back," said Bea, horrified, shining the torch on the floor. "It's early. It's not meant to be this early."
+
+"The Hush is over!" said Tavi.
+
+Mara grabbed something from the desk on the way out without even looking at it. Then they ran for the lift.
+
+---
+
+## Chapter Sixteen
+### A Line to Hold
+
+They made it back up with the water lapping at their shoes. Penn hauled them out of the cage, one by one.
+
+In the library, by lamplight, they told Ezra everything.
+
+"A road he hasn't drawn," Ezra said slowly. "Between two islands. Walked end to end. And still there at three o'clock."
+
+"Can you make one?" said Mara. "Out of reeds? From here to the marsh?"
+
+Ezra thought about it. "Rafts," he said. "Reed rafts, tied together, staked to the bottom. Across the lagoon, where the old Pole Line used to go. My cousins are out in the deep marsh. They've got reeds. If Pim fetches them..."
+
+"Can we hide it?" said Bea. "So he can't see it?"
+
+"Lay cut reeds over the top. From the air it'll look like more marsh."
+
+So they built it.
+
+Pim ran off along the hidden reed ways and came back an hour later with six cousins and great bundles of glass-reed on their backs. They worked by the light of Penn's lamps and Mara's torch. The Glassers tied the reeds into rafts, as quick as knitting. Idris lashed the rafts together with Wim's long rope and his own clever knots. Tavi and Bea drove stakes into the soft bottom of the lagoon to hold each raft still. Mara stood on the balcony with the map and her sketchbook, directing.
+
+By half past four, there was a road across the lagoon. Ezra walked it end to end, from the Observatory steps to the edge of the marsh, and back again.
+
+"There," he said. "That's a living way."
+
+It was so hidden that, even from the balcony, Mara could hardly see it.
+
+But it moved.
+
+The Hush was long over. The breath was coming in now, the water rising towards high breath at seven, and the current was getting stronger. Mara watched the rafts tug against their stakes. One stake leaned. Then another. Pim was out on the middle raft with an armful of reeds, laughing.
+
+Mara's stomach turned over.
+
+*The way drifted apart. They never found him.*
+
+"It's not steady enough," she said. "What if it pulls apart? With Pim on it? With *anyone* on it?"
+
+"It'll hold," said Ezra. "We'll put more stakes in."
+
+"But what if it doesn't?"
+
+She was already reaching into her pocket. Edie's pen. Full of Joss's tide-ink.
+
+"Mara," said Bea.
+
+"Recorded roads are steady," said Mara quickly. She could hear herself, too fast and too sure. "They don't drift. Everyone says so. If I draw it, it'll hold."
+
+"But he'll see it," said Bea. "Ro said. Whatever you draw, he gets."
+
+"Edie's note said *he only holds what HE has drawn*," said Mara. "Not what I've drawn. If I draw it, it's mine." She looked at Idris. "Steady's better. Isn't it? You're the one who knows how things hold."
+
+Idris looked at the rafts dragging at their stakes. He hesitated. Then he nodded. "Steady's better."
+
+"Mara, *please*..." said Bea. But her voice was small again, the way it used to be. And Mara was already bending over the map.
+
+She drew the line exactly where the rafts lay, from the Observatory steps to the marsh edge. It was the most careful line she had ever drawn. The tide-ink flowed from the pen, dark green and shining, until there was no more ink at all.
+
+The line set. It was true.
+
+For about a minute, nothing happened. Out on the lagoon, the rafts stopped tugging. They lay perfectly still on the water, steady as stone.
+
+"See?" said Mara, and let her breath out.
+
+Then the line on the map began to go pale.
+
+Mara stared at it. Not now. Not yet. It couldn't...
+
+Grey. The colour of tea with too much milk.
+
+"He's rubbing it out," said Tavi, in a horrified whisper. "He saw it. He's *undoing* it."
+
+"Get them off!" yelled Idris. "Everyone off the rafts!"
+
+The road was fading. As it faded, it stopped being steady, and it stopped being anything at all. The stakes leaned and popped out. The ropes slackened as if the knots were dissolving. The rafts began to drift apart in the rising current.
+
+Glassers ran for the ends. Ezra was shouting. And out on the middle raft, Pim was still standing with her arms full of reeds, looking puzzled, as the raft spun slowly away from the others.
+
+Then it tipped, and she went in.
+
+Idris was already running along the balcony with his blue rope. He threw it. It fell short. He hauled it back and threw again, and this time it landed across the raft beside her. Pim grabbed it, just as Idris had shown her, and wrapped it round her wrist.
+
+"*Bowline!*" Idris shouted. "Rabbit out of the hole!"
+
+Pim, coughing, gasping, tied a bowline round herself in the water.
+
+Tavi had jumped into the coracle. Open water, deep and dark and moving, and he paddled out into it anyway, white-faced and grim. Bea and Idris hauled on the rope. Between them, they dragged Pim to the coracle and Tavi pulled her in.
+
+By six o'clock, everyone was back on the balcony, soaked and shivering and alive.
+
+The rafts were gone. Every one of them, scattered and sinking across the lagoon, with all the Glassers' reed harvest tied onto them. Ezra stood looking at the empty water and didn't say a word.
+
+The pen was empty. The line on the map was gone.
+
+And the Surveyor knew exactly where they were.
+
+Mara couldn't look at anyone. Least of all at Bea.
+
+"Mara," said Penn quietly from the window. He passed her his binoculars.
+
+At the mouth of the lagoon, riding in on the rising breath, came three grey boats with Chainmen in their bows.

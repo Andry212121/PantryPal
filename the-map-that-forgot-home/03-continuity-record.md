@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 12. Update after every drafting session.*
+*Updated at the end of Chapter 16. Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -142,5 +142,16 @@
 - **Injuries:** none (everyone soaked to the knees).
 - **Mara's pencil circle round the Observatory, with a gap.** Commitment made.
 
+## Chapters 13–16 updates
+- **Words:** Ch13 ≈820, Ch14 ≈820, Ch15 ≈1,070, Ch16 ≈960. Running ≈18,500. 16 of 24 done.
+- **Clock:** Ch13 Sun 12:30–5 p.m. (reed ways about 4 h; Pole Line seen fading at 5); Ch14 5 p.m.–Mon 12:30 a.m. (sleep about 8:30–12:30); Ch15 Mon 12:30–about 2 a.m.; Ch16 2–6 a.m. (raft-way finished and walked at 4:30, inked about 4:40, erased about 4:45, collapsed by 5:45, Chainmen sighted at 6). **End: Mon 6 a.m., H63, 9 marks left.**
+- **Ch13:** Mara apologised to Tavi; Tavi's plain vow. Ezra: "Can't draw them, so he burns them"; burning began this summer. Glass-reed paths chime. Pim (7) learned the bowline from Idris ("rabbit out of the hole..."). Mara chose Ezra's slower, invisible route.
+- **Ch14:** Sorrel Penn, former Chainman of 40 years, quit over the reed-burning. Bea won him over with the Arctic terns (one he ringed six years ago). **Pip's story:** Ansel 12, Pip 8; Pip followed an undrawn raft-way to a drifting new island; it drifted apart; never found. **Word-locks:** "Ansel always locked his doors with words." Mara recognised herself in Ansel.
+- **Ch15:** float-lift balanced in stones (crew about 18 st). The star room is the Fold map mirrored; each island is a constellation (The Lantern, The Hive, The Hanging Tree, The Mirror, The Lamp of Hesper). **A gap in the Lamp of Hesper's ring = the secret door.** **Hesper's Rule** read in full on the page. Edie's corner note: "A way is a way only when someone walks it, end to end." **Map corner mended: thread 60 cm left.** The legend is now complete. **Mara grabbed an unseen object from Hesper's desk: Ansel's old brass compass (reveal in Ch17).** Torch used about 1 h (≈3 h left).
+- **Ch16, the painful mistake:** Glasser reed-raft way, Observatory steps to marsh edge, staked and hidden, walked by Ezra. Mara misread Edie's clue ("he only holds what HE has drawn") and inked it; Bea objected, Idris agreed. It set, then was erased within minutes and came apart in the rising current. Pim fell in; she tied herself on with a bowline; Idris threw the blue rope; Tavi paddled the coracle on open water. **Losses:** all the rafts, the Glassers' reed harvest, and Wim's long rope (gone with the rafts). **The pen is empty.** The Surveyor knows their location. Three Chainmen boats at the lagoon mouth at 6 a.m.
+- **Equipment now:** map (whole, mended); thread 60 cm; echo lantern 4 marks; torch about 3 h; blue rope (20 m, with Idris); coracle and pole; compass (Mara, unknown); empty pen; flapjack tin (about a third left); Bea's binoculars still with her (lost in Ch17).
+- **Meals and sleep:** smoked eel (about 1 p.m.); samphire and ship's biscuits (about 6 p.m.); four hours' sleep.
+- **Injuries:** Pim half-drowned but fine; everyone soaked and cold.
+
 ## Next session starts at
-**Chapter 13: "The Reed Ways."** Sun 12:30 p.m., reed bank in Glasswater Marsh: aftermath; the Glassers guide the crew along their reed ways to the Observatory; Ezra on the reed-burning.
+**Chapter 17: "What Pip Said."** Mon 6 a.m., Observatory balcony, Chainmen boats approaching: Penn stays to delay them; flight into the marsh; coracle split (thread 60 → 20); binoculars lost; the echo lantern on Ansel's compass; Penn's warning about the Long Glass; Mara gives up the map.
