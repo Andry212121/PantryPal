@@ -626,3 +626,403 @@ The bridge gate was still locked. Beside it, a man in a long grey coat stood wai
 "Chainman," breathed Tavi.
 
 The man smiled politely and looked straight at Mara's jacket, as if he could see through the buttons.
+
+---
+
+## Chapter Five
+### The Toll Token
+
+At six o'clock exactly, a bell rang somewhere above them, and the gates of Bellbridge swung open.
+
+The Chainman stepped aside to let them through. Close up, he was younger than Mara had thought, not much more than a big boy, with a long grey coat and a polite, worried face.
+
+"Early travellers," he said. "Where to?"
+
+"Visiting," said Tavi quickly.
+
+"Visit quickly, then." The Chainman tapped a paper nailed to the gatepost. It was the same schedule Mara had copied the night before. *Bellbridge: Sunday, twelve noon.* "Tomorrow, this bridge is gone. Be home."
+
+Bellbridge was not just a bridge. It was a street.
+
+Little houses lined both sides of it, leaning together over the cobbles like old friends sharing a secret. There were window boxes full of herbs, washing lines strung from roof to roof, and a cat asleep on a step. Below, through gaps between the houses, Mara could see the silver Slack breathing slowly in and out.
+
+And there were bells. They hung in little wooden frames along the rails, from a great black one as big as a dustbin to a tiny silver one no bigger than an egg cup. Ropes ran from every bell along the bridge, back to a small round tollhouse by the gate.
+
+On the tollhouse wall was a painted board.
+
+> **THE BELLS OF BELLBRIDGE**
+> 1 Anchor · 2 Barley · 3 Candle · 4 Drum · 5 Ember · 6 Fern · 7 Gull · 8 Heron · 9 Iron · 10 Juniper · 11 Kettle · 12 Lark · 13 Moon · 14 Nettle · 15 Oar · 16 Pebble · 17 Quill · 18 Rope · 19 Salt · 20 Tide · 21 Urchin · 22 Vane · 23 Wren · 24 Xylophone · 25 Yarrow · 26 Zephyr
+> *Ring one bell for each person you go to see.*
+
+"Xylophone?" said Idris.
+
+"The founders ran out of X words," said Tavi. "Everyone knows that."
+
+In the tollhouse window sat the smallest, oldest woman Mara had ever seen. She had a shawl, fingerless gloves and eyes like two black buttons.
+
+"Toll's a copper each," she said. "Tell me who you're visiting and I'll ring them for you."
+
+People were coming out of the little houses now, carrying bags and boxes, children on their shoulders, heading west towards the Quay. Someone was crying quietly. A man was taking down his window box.
+
+Tavi paid four coppers from Ro's purse. Then, with half the bridge listening, he stood up straight and said, "We're on important business. Very important. We carry Edie Marrow's own map."
+
+There was a silence.
+
+Mara felt her whole face go hot. Behind them, by the gate, the young Chainman had turned his head.
+
+"Edie Marrow's?" said the old woman. Her button eyes moved, very slightly, towards the Chainman and back. "Well. Every child gets a token, for your counting." She pushed a little round metal disc across the sill into Bea's hand. "Off you go. Don't dawdle."
+
+They walked fast, not talking. Halfway across, Mara grabbed Tavi's scarf.
+
+"*Why* did you say that?"
+
+"I was..." Tavi's ears were red. "They were all looking so sad. I wanted them to know someone was doing something."
+
+"Now *he* knows."
+
+Tavi looked back. The Chainman was not watching them any more. He was standing on the tollhouse roof, holding up something that flashed: a small round mirror, catching the first sun. Flash. Flash-flash. He was pointing it east.
+
+"Signal mirror," said Tavi in a very small voice. "Chainmen pass messages that way. Tower to tower. He's telling the Surveyor."
+
+Nobody said anything for a long moment.
+
+"It's not a toll," said Bea.
+
+They all looked at her. She held up the little disc. It was stamped on both sides with numbers and dots.
+
+"A toll token would say how much you paid," Bea said. "This doesn't. And she looked at the Chainman before she gave it to me."
+
+Mara took it. On the front:
+
+**6 · 15 · 12 · 12 · 15 · 23 &nbsp;&nbsp; 2 · 5 · 5 · 19**
+
+On the back:
+
+**8 · 9 · 4 · 5 &nbsp;&nbsp; 13 · 1 · 16**
+
+"Numbers up to twenty-six," Mara said slowly. "There are twenty-six bells."
+
+"And they go in alphabet order," said Tavi. "Anchor, Barley, Candle. Everyone learns them as babies."
+
+Mara already had her pencil out. Six: Fern, F. Fifteen: Oar, O. Twelve: Lark, L. Twelve again. Fifteen. Twenty-three: Wren, W.
+
+"F-O-L-L-O-W," she read. Then two, five, five, nineteen. "B-E-E-S. *Follow bees.*"
+
+She turned it over. Eight, nine, four, five. Thirteen, one, sixteen.
+
+"*Hide map*," said Bea.
+
+Mara looked back down the bridge. The tiny old woman was still sitting in her window, ringing a bell for a family who were leaving. She didn't look their way.
+
+"She warned us," Mara said. "In front of him. And he didn't even notice."
+
+"Follow bees," said Idris. "What bees?"
+
+"We're going to the Canopy next," said Tavi. "The Canopy has bees. Lots." He swallowed. "Mara. I'm sorry. About the map."
+
+She wanted to stay cross. It would have been easier. But she remembered the people carrying their boxes, and his red ears, and how he'd only wanted somebody to have hope.
+
+"Just don't do it again," she said, and buttoned the map deeper into her jacket.
+
+They reached the eastern end at half past seven. Behind them, Bellbridge stretched back across the silver water, all its little houses and its twenty-six bells. Mara turned to look at it, because she was a person who looked at things properly.
+
+Afterwards, she was glad she had.
+
+On the map, four tiny specks stepped off the end of the bridge and into the trees. And somewhere far to the east, a tall, thin tower knew exactly where they were.
+
+---
+
+## Chapter Six
+### The Whispering Canopy
+
+The trees of the Canopy were enormous. Their trunks were wider than Ellery's shop, and their leaves were as big as dinner plates. They rustled all the time, even when there was no wind, with a sound like a crowd of people whispering behind their hands.
+
+"Never shout in the Canopy," said Tavi. "It's rude. And it doesn't help."
+
+"Why not?" said Idris, and his voice came back to them from somewhere up and to the left, in a slightly different order: *"Not why?"*
+
+Idris shut his mouth fast.
+
+"The leaves bend sound," said Tavi. "Voices come out of the wrong places. Sometimes they come out a minute later. Stay close."
+
+Mara opened the map. Then she groaned.
+
+The path from Bellbridge to the middle of the Canopy was right under the brown water stain. She could see where it started, and she could see a clearing marked *Listeners' Hollow* on the far side, but the middle was just a blur.
+
+"I know the way," said Tavi. "Ro brought me once."
+
+"When?"
+
+"Ages ago. It's easy. Follow me."
+
+They followed him. For a while there was a path, and on the map their four specks crept along it. Then the path split three ways. Tavi chose one. Then it split again. Tavi chose again, a bit more slowly.
+
+"Tavi," said Mara. "Have you actually been here?"
+
+"Yes." A pause. "Nearly."
+
+Mara looked down at the map. Their four specks had gone.
+
+"We're off the path," she said. "We've disappeared."
+
+"Disappeared from *what*?" said Idris.
+
+"From the map. When we're on a proper road, it shows us. Now it doesn't." She remembered the fishing boat and her pencil note. *Off the road = not on the map.* "So at least the Tower can't see us," she added, but it didn't feel much better.
+
+"I can find the path," said Tavi. He unhooked his lantern. "It's shady here. If I hold this to that tree, maybe it'll remember people walking past..."
+
+"Tavi, it has to be properly..."
+
+He'd already opened the shutter. The candle flared. All that came out of the lantern was a soft hiss, like a radio between stations, and then nothing at all.
+
+Tavi stared at the candle. It had burned down past its second mark.
+
+"Not dark enough," he said. "I *know* that. I don't know why I did it."
+
+"Because you didn't want to say you were lost," said Mara, and immediately wished she hadn't. Tavi's face closed up like a shop shutter.
+
+Then the voices started.
+
+*"This way!"* called someone, from the right. *"Over here!"* from behind. *"Mara!"* in Idris's voice, though Idris was standing right next to her with his mouth shut.
+
+"Echoes," said Tavi. "Ignore them."
+
+"How do we ignore them when we don't know which ones are real?" said Idris. "We should go towards the light. That way's brighter."
+
+"No, the moss grows on the north side, so..."
+
+"That's *our* world, this place might be different..."
+
+They argued. Mara tried to make a plan and couldn't, because she couldn't see where they were. The voices kept calling. They walked one way for ten minutes, then turned back. They walked another way. The trees all looked the same.
+
+Bea said nothing.
+
+Bea had been watching the bees since the first big tree. They came out of nowhere and went straight past, never wandering like bees at home, always in the same line, like beads on a thread. A bee went past her ear. Then another. Same line. She thought, *Follow bees.* She thought it again. She opened her mouth.
+
+"...and if we just went *up*, I could climb..."
+
+"...you're not climbing anything, you'll break your neck..."
+
+She closed her mouth.
+
+Time passed. Mara checked her watch. They had been lost for an hour and a half. She felt sick. It was her plan that had brought them here. She had been so sure.
+
+"Excuse me," said Bea.
+
+Nobody heard.
+
+Bea took a breath that went all the way down to her boots.
+
+"*Excuse me*," she said, out loud, in a voice that was nearly as big as other people's. "The bees."
+
+They all turned and looked at her. Behind her, very faint, the trees whispered: *the bees, the bees.*
+
+"They don't wander," said Bea. Her cheeks were pink, but she kept going. "They've been going past in a straight line all morning. Always the same way. The token said follow bees. Bees go home. And where there are bees, there's someone who keeps them."
+
+Idris looked at the line of bees. He jumped, caught a low branch, pulled himself up and looked along it. "She's right," he called down. "There's a straight line of them. Like a road in the air."
+
+Mara felt something unknot inside her. "How long have you known?" she asked Bea.
+
+Bea looked at her boots. "Since the first tree."
+
+Nobody said, *Why didn't you say?* Mara thought about all the times she had talked over people because she was so sure, and kept quiet.
+
+They followed the bees.
+
+The line led them between the great trunks, under ferns, across a stream, and up a slope. The whispering faded. At eleven o'clock the trees opened into a round clearing, full of sun, with wooden platforms and ladders built high in the branches. And everywhere, humming in hollow trunks and straw domes and painted boxes, were hives.
+
+On the map, a soft dot appeared. *Listeners' Hollow.*
+
+"Bea," said Idris, "you're a genius."
+
+Bea went pinker and smiled at the ground.
+
+Somebody waved at them from a high platform: an old person in a gauze veil, with a slate hanging round their neck. They wrote on it with chalk and held it up.
+
+**WELCOME. QUIETLY, PLEASE.**
+
+Then the old person pointed past them, south, over the tops of the trees.
+
+Far off, over where the map said *Glasswater Marsh*, a long grey smudge of smoke was rising into the sky.
+
+---
+
+## Chapter Seven
+### The Wanderer's Gap
+
+The old beekeeper's name was Moss Haverly. Moss climbed down a ladder faster than Mara would have believed and gave them honey bread, thick and warm, dripping gold.
+
+In the Canopy, Tavi explained, people talked by slate and hand-signs, because voices wandered off. Moss's hands were quick and crinkled. Tavi translated as best he could, and when he couldn't, Moss wrote.
+
+**SMOKE IS CHAINMEN. BURNING REED PATHS IN THE MARSH. ALL NIGHT.**
+
+"Reed paths?" said Mara.
+
+"The marsh people walk on paths made of bundled reeds," said Tavi. "They make new ones every spring. They aren't on any map."
+
+Moss wrote again, and underlined it.
+
+**HE NEVER CARED ABOUT REEDS BEFORE. WHY NOW?**
+
+Mara didn't know. But she wrote it in her sketchbook, with a question mark.
+
+At twelve o'clock, she opened the map on the platform to check the time. All four of them saw it happen.
+
+The Glasswater Causeway, the stone road from Bellbridge's end down into the marsh, began to change colour. First its brown-green ink went pale, like tea with too much milk. Then grey. Then thin, like a pencil line nearly rubbed out.
+
+"Where is it?" said Idris. "Really?"
+
+Moss pointed south. From the top platform, through Bea's binoculars, they could just see it: a long line of flat stones crossing the reeds. As the minutes went by, the stones began to sink. Not all at once. Slowly, the way snow melts. A heron that had been standing on one flapped away crossly.
+
+By one o'clock, there was no causeway, only flat water and reeds.
+
+"An hour," said Mara quietly. "It takes an hour. Just like the notice said."
+
+"That's the way we'd have gone," said Idris. He didn't say it nastily. He just said it. "To the Observatory. If we'd gone straight."
+
+Mara looked at the empty place on the map and didn't answer, because there wasn't anything to say.
+
+Tavi, to everyone's surprise, was the one who changed the subject.
+
+"Do you want a story?" he said. "Story-for-bread. It's a custom. You eat someone's bread, you pay them a story."
+
+Moss nodded hard and sat down to listen.
+
+"Long ago," Tavi began, and his voice went different, slower and warmer, as if he'd done this a hundred times, "before there were any maps, the islands of the Fold drifted wherever they liked. People got lost all the time. So the very first Chartmaker made the very first Chart, and drew every road on it, so everything would stay put.
+
+"But when she got to the last road, she stopped. Her apprentice said, *Why have you stopped? Draw it, and the Fold will be safe for ever.* And the Chartmaker said, *If I draw every road, the Fold can't breathe.* So she left one road undrawn, just one, for the wanderers.
+
+"And that's why, to this day, when you build a garden wall in the Fold, you leave one stone out. A gap. For the wanderers." He bowed. "The end."
+
+Moss clapped silently, which in the Canopy was the loudest kind of clapping.
+
+Mara had gone still.
+
+"My nan says that," she said. "*Leave a gap for the wanderers.* Edie used to say it to her."
+
+"Everyone says it," said Tavi. "It's just a saying."
+
+"But what does it *mean*?"
+
+Tavi shrugged. "Leave room for people who don't fit."
+
+Bea, who had been very quiet, said, "Like you."
+
+Tavi stopped smiling. "What?"
+
+"You're from the Quay. But you're not, really," said Bea. "Your scarf is Market patches. Ro bosses you like an aunt, not a mum. You talk about the Market like you're homesick for it."
+
+There was a pause. Mara thought Tavi might make a joke. He didn't.
+
+"My mum and dad are on the Night Market," he said at last. "They left me at the Quay when I was seven. To learn a proper trade. Somewhere that stays still." He picked at a patch on his scarf. "I'm not a proper Quay person. And I'm not a proper Market person any more. I'm just... in between."
+
+"Me too," said Bea. "Sort of. At home, there's my mum and Jo and the baby, and they're all one shape, and I'm another shape." She shrugged. "It's all right. It's just in between."
+
+Tavi looked at her for a long moment. "In between's all right," he said.
+
+"In between's all right," Bea agreed.
+
+Mara looked at the two of them and felt something warm, and also a little sad, because she had never noticed either of those things.
+
+Moss wrote on the slate and turned it round.
+
+**ORCHARD? ROPEWALK IS THE ONLY WAY NOW. CLOSES AT 4.**
+
+Then Moss rubbed it out and wrote one more line.
+
+**THERE IS A CHAINMAN AT THE STATION.**
+
+---
+
+## Chapter Eight
+### The Ropewalk
+
+The Ropewalk station was a wooden platform at the top of the tallest tree on the edge of the Canopy. A thick cable ran from it out across the Slack, sagging in a long curve, to a rocky island that floated in the air.
+
+The Upside-Down Orchard.
+
+It was the strangest thing Mara had seen yet. On top of the rock grew ordinary orchard trees, round and green. But underneath, hanging from the bottom of the rock, there were more trees, upside down, with their roots in the stone and their branches pointing at the sea, heavy with golden fruit. Tiny people moved among them, upside down too, as if that were normal.
+
+A wicker basket, big enough for four, hung from the cable by a wheel. Next to it, in a chair, sat a Chainman with a clipboard and a flask of tea.
+
+"Ropewalk's closing," he said, without getting up. "Nobody crosses after two. Surveyor's orders. Too close to the fade."
+
+It was ten to two.
+
+They went back down the ladder and huddled behind a tree.
+
+"Too close?" Mara whispered. "It doesn't fade till three."
+
+"He's being careful," said Tavi. "They're all careful. That's the whole point of them."
+
+"We need him away from the basket," said Idris. "Just for a minute. I can work the brake. I watched how it goes."
+
+Tavi grinned for the first time in hours. "Leave him to me."
+
+He walked off between the trees and disappeared. A moment later, from far down the hillside, came a voice. It was Tavi's voice, but it sounded as if it was coming from the bottom of the slope, and it was shouting.
+
+*"Help! I've dropped my lantern! Somebody help! There's a fire!"*
+
+The Chainman jumped up, spilling his tea. "Fire?" In the Canopy, fire was the worst thing there was. He scrambled down the ladder and ran towards the voice.
+
+Tavi popped back out from behind the next tree, panting. "The leaves bend it," he said. "You just have to know which way to aim."
+
+"That's *brilliant*," said Idris.
+
+"I know," said Tavi, and for once he didn't look like he was bluffing.
+
+They climbed into the basket. Idris pulled the brake lever back, and they rolled off the platform and out into the air.
+
+The Canopy dropped away behind them. Below, the Slack stretched silver in every direction, slowly breathing. The wind pulled at their hair. Bea held her binoculars tight. Tavi sat in the bottom of the basket with his eyes shut.
+
+"You all right?" said Mara.
+
+"Don't like open Slack," said Tavi, eyes still shut. "Fell in when I was five. Don't tell anyone."
+
+"Who would we tell?" said Idris.
+
+Halfway across, the basket began to slow down. The cable sagged lowest in the middle, and they had to start climbing up the other side.
+
+"There's a second lever," said Idris. "For going uphill. I think." He grabbed it and yanked.
+
+There was a loud *crack*.
+
+The basket stopped. Then it began, very slowly, to slide backwards down the cable.
+
+"Idris!"
+
+"The brake pin's snapped!" He was on his knees, staring at the wheel. A metal pin as long as his finger had broken clean in two. "I pulled too hard. I didn't check. I..."
+
+They were sliding faster. The cable creaked. Far below, the Slack waited.
+
+"Thread," said Mara, and pulled out the spool. Her hands were shaking.
+
+Idris took it. This time he didn't rush. He held the two halves of the pin together, exactly lined up, and wound the silver thread round the break: one turn, two, three, tight and neat. The thread glowed. When he unwound the last turn, the pin was whole. He jammed it back into the brake and pulled the lever gently, and the basket juddered to a stop.
+
+Nobody breathed.
+
+Then the basket began, slowly, to climb.
+
+"Sorry," said Idris. "I should have looked first."
+
+"You fixed it," said Bea.
+
+"I broke it first."
+
+Mara measured the thread against her ruler later. A hundred and sixty-five centimetres. She didn't say anything about it.
+
+The basket bumped onto the Orchard's landing stage at a quarter past three. Mara looked back at the cable as they climbed out.
+
+It was grey.
+
+Not the whole of it, not yet. But behind them, out over the Slack, the thick rope had gone pale and thin, like something in an old photograph. The wheel squeaked on the empty basket as the cable sagged lower. Bit by bit, it was fading into the air.
+
+They watched it go. At four o'clock, the last grey strand vanished, and the basket dropped silently into the Slack.
+
+Mara opened the map with cold fingers. The Ropewalk was gone. The Orchard sat alone, a floating island with only one road left on it: an iron bridge, drawn like a chain, leading straight to the Surveyor's Tower.
+
+"We can't go back," said Idris.
+
+"No," said Mara. Her plan had been to ask Amma Oduya, then come straight back across before four. It had seemed so sensible. So *sure*.
+
+"Then we'd better find Amma Oduya," said Tavi. "And hope she likes visitors."

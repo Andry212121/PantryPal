@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 4. Update after every drafting session.*
+*Updated at the end of Chapter 8. Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -111,5 +111,20 @@
 - **Hook:** Chainman (Orrin Pell, not yet named) waiting at the locked Bellbridge gate at 5:45 a.m.
 - **Art decisions:** Wrenmouth; story geography; no pet for Tavi; the toll-board A–Z list is fixed in `04-image-prompts.md`.
 
+## Chapters 5–8 updates
+- **Length target from Ch5:** about 1,000 words per chapter (kid-friendly). Ch5–8 ≈ 980 / 990 / 790 / 860. Running total ≈ 11,000.
+- **Clock:** Ch5 Sat 6:00–7:30 a.m.; Ch6 7:30–11:00; Ch7 11:00 a.m.–1:30 p.m.; Ch8 1:30–4:00 p.m. **End: Sat 4 p.m., H25, 47 marks left.**
+- **Bellbridge:** Grandma Tull (unnamed on page so far) gave the token FOLLOW BEES / HIDE MAP. The toll board A–Z is printed in the text. Tavi's boast was overheard and the young Chainman (Pell, unnamed) mirror-signalled east. Bridge-folk are evacuating west. Bellbridge closes Sun noon.
+- **Canopy:** sound bends; never shout; slate and hand-signs. Moss Haverly (they/them pronouns on page avoided; keep neutral). Lost about 1.5 h. Bea spoke up. Their specks vanished off-path (clue confirmed by Mara).
+- **Glasswater Causeway** seen fading 12–1 p.m. (stones sinking). Reed-burning: "HE NEVER CARED ABOUT REEDS BEFORE. WHY NOW?"
+- **Tavi's tale:** First Chartmaker left one road undrawn "so the Fold can breathe"; one stone left out of garden walls. Linked aloud to Nan's saying.
+- **Revealed:** Tavi's parents are on the Night Market (left him at seven). He fears open Slack (fell in at five; told Mara, Idris and Bea). Bea and Tavi: "In between's all right."
+- **Ropewalk:** Tavi threw his voice ("fire!") to lure the guard. Idris snapped the brake pin and mended it with thread. Arrived 3:15; cable faded 3–4 p.m.; the basket fell into the Slack. **Stranded on the Orchard; only the Chainway remains.**
+- **Echo lantern:** 4 marks left (Ch6 wasted in shade).
+- **Thread:** 165 cm left.
+- **Torch:** unused.
+- **Meals:** honey bread at Listeners' Hollow (about 11:30). Flapjack tin about half full.
+- **Injuries:** none.
+
 ## Next session starts at
-**Chapter 5: "Fifty-Seven Hours at Bellbridge."** Sat 5:45 a.m., Bellbridge west gate, the Chainman waiting.
+**Chapter 9: "The Underside."** Sat 4:00 p.m., Orchard landing stage: meet Amma Oduya; the gravity flip; the Old Piles and cormorants; Chainmen coming along the Chainway.
