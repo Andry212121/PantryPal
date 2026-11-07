@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 8. Update after every drafting session.*
+*Updated at the end of Chapter 12. Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -126,5 +126,21 @@
 - **Meals:** honey bread at Listeners' Hollow (about 11:30). Flapjack tin about half full.
 - **Injuries:** none.
 
+## Chapters 9–12 updates
+- **Words:** Ch9 ≈920, Ch10 ≈880, Ch11 ≈900, Ch12 ≈1,230. Running ≈14,800. 12 of 24 chapters done.
+- **Clock:** Ch9 Sat 4–7 p.m.; Ch10 7–10:30 p.m.; Ch11 Sat 10:30 p.m.–Sun 10 a.m. (left the Market at 8); Ch12 Sun 10 a.m.–12 noon. **End: Sun 12 noon, H45, 27 marks left.**
+- **Orchard:** the gravity flip (underneath, down is towards the rock). Tumblers. Amma Oduya; grandchildren Efua and Kwame (teenagers) want to join the Market. The Surveyor's note to her is signed "A. C." Oduya named **Hesper**, the Observatory, and the apprentices **Edie and Ansel Crane**, and confirmed "behind the stars" = the painted dome. **Old Piles:** nine posts, "Hesper's Pier, never walked"; cormorants roost on them, so they're steady (Bea). Mara sketched them and matched them to the nine dots on the map.
+- **Social puzzle solved:** Oduya let them go via the Drop and will tell the Chainmen "four rude children stole fruit and ran". Four Chainmen reached the Orchard and are now there.
+- **Captain Wim:** fruit boat. Breath times stated on the page (high 7, low 1; the Hush is an hour either side of low). No specks on open Slack (confirmed).
+- **Night Market:** Saskia (cold, protective); Joss (kind). Compliment-before-bargaining custom. **Pen refilled with tide-ink, about an arm's length of line.** Joss's two rules on the page: copy ink goes to the Chart; **ink only sets on a true line** ("we never stay where we're drawn"). **Scatter Rule:** "If the Market breaks, it mends at Gull Stack, noon the next day."
+- **Vote to go home:** Idris and Bea for, Mara agreed, Tavi hurt. Bea told Mara about Kit learning to clap; they held hands.
+- **Rescue:** Heron Holm mats burned and sank. Rescued: Ezra, Pim (7), two women, two other children (nine on the reed bank including the crew). Bea solved the Glasswater: the floating Orchard's reflection looks like an island; water-boatmen only on open water; the heron only on firm ground. Mara pencilled the safe channel in her sketchbook. Tavi poled despite his fear of open Slack. **Wim left** with his boat; the crew keep the **coracle**, a long pole (mended) and Wim's coil of rope (extra to Idris's blue rope).
+- **Bellbridge** faded 11–12 with all 26 bells ringing; the bells fell; Zephyr was last. **Lantern Quay is cut off. No way home.**
+- **Thread:** 140 cm left (punt pole about 25 cm).
+- **Echo lantern:** 4 marks. **Torch:** unused.
+- **Meals and sleep:** tumblers and juice (Orchard); lantern dumplings (Market); hammocks about 11:30 p.m.–6:30 a.m.; sweet porridge breakfast. Flapjack tin about half full.
+- **Injuries:** none (everyone soaked to the knees).
+- **Mara's pencil circle round the Observatory, with a gap.** Commitment made.
+
 ## Next session starts at
-**Chapter 9: "The Underside."** Sat 4:00 p.m., Orchard landing stage: meet Amma Oduya; the gravity flip; the Old Piles and cormorants; Chainmen coming along the Chainway.
+**Chapter 13: "The Reed Ways."** Sun 12:30 p.m., reed bank in Glasswater Marsh: aftermath; the Glassers guide the crew along their reed ways to the Observatory; Ezra on the reed-burning.

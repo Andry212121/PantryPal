@@ -1026,3 +1026,375 @@ Mara opened the map with cold fingers. The Ropewalk was gone. The Orchard sat al
 "No," said Mara. Her plan had been to ask Amma Oduya, then come straight back across before four. It had seemed so sensible. So *sure*.
 
 "Then we'd better find Amma Oduya," said Tavi. "And hope she likes visitors."
+
+---
+
+## Chapter Nine
+### The Underside
+
+The top of the Orchard looked almost ordinary. Neat rows of trees, a wooden cider press, a stone farmhouse with smoke coming from its chimney. The only odd thing was that, at the edge of the grass, the world simply stopped. Beyond it was sky.
+
+A girl of about fourteen was standing right at the edge with a basket on her hip. As they watched, she stepped off.
+
+Mara shrieked.
+
+The girl didn't fall. She tipped forward, swung round the lip of the rock as easily as going round a corner, and walked away underneath it, upside down, swinging her basket.
+
+"It's fine," said Tavi, who looked as if he didn't think it was fine at all. "Underneath, down is up. Everyone knows that."
+
+"I don't," said Idris.
+
+Mara went first, because her plan had brought them here. She shuffled to the edge, took a breath and stepped over.
+
+For one horrible moment, her stomach turned over like a pancake. Then her feet were on rock, and the rock was *down*, and the sky was underneath her, and the sea was above her head like a silver ceiling. Her hair, which should have been hanging towards the water, lay on her shoulders as usual.
+
+All around her, the upside-down trees grew out of the stone, their branches heavy with fat golden fruit. Pickers moved between them in rope nets, laughing and calling to each other.
+
+"Oh," said Mara. It was the only word she had.
+
+One by one, the others came over the edge. Idris whooped. Bea's mouth fell open, and stayed open. Tavi came last, very green, and sat down at once.
+
+"There's a whole sea up there," he said faintly. "*Up.*"
+
+A fruit dropped from a branch beside Mara. It fell *towards the rock*, landed at her feet and rolled.
+
+"Tumbler," said a voice. "Try it. It's rude not to."
+
+The voice belonged to the oldest woman Mara had ever seen. Older even than the toll-keeper. She stood very straight, with a stick carved like a branch, a wrapped headscarf, and so many bracelets that she jingled when she breathed.
+
+"Amma Oduya," said Tavi, scrambling up and bowing.
+
+"Tavi Sallow," said the old woman. "Grown. And on my Orchard, with Edie Marrow's map in that girl's jacket. Yes, the mirrors told me." She looked at each of them. "Well. Eat your tumbler."
+
+Mara bit it. It tasted like an apple that had been told a good joke.
+
+They sat in Amma Oduya's kitchen, which was on the top side, the right way up, and drank hot tumbler juice. On the dresser, propped against a jug, was one of the Surveyor's notices. Someone had written on it in neat handwriting:
+
+*The Orchard will be stilled at its ripest. Every fruit perfect, for ever. No frost. No blight. No one leaving. A. C.*
+
+"He wrote to you?" said Mara.
+
+"He writes to me every year." The old woman's mouth twisted. "He knows what a harvest costs. He knows the young ones are leaving for the Market, one by one. He thinks he's being kind."
+
+"Is he?" said Bea, very quietly.
+
+Amma Oduya looked at her for a long time and didn't answer.
+
+So Mara asked her question. Where had Edie and the Surveyor learned to make maps? *Under the water, behind the stars.*
+
+"The Observatory," said Amma Oduya at once. "Hesper's Observatory, before it flooded. Old Hesper was the last true Chartmaker. Edie and Ansel Crane were her apprentices. Clever as cats, the pair of them. And the dome was painted with stars inside, all over. *Behind the stars.* That'll be it."
+
+Idris looked at Mara. Mara looked at the table.
+
+*It was the Observatory all along.* She'd been right to check, she told herself. She'd needed to be sure. But it didn't feel like being right. It felt like a whole lost day.
+
+Later, while the others helped the pickers, Mara went back to the underside alone and lay on the rock looking up at the sea. A fat black bird flew past beneath her, upside down, which was to say the right way up.
+
+"Cormorant," said Bea, lying down next to her with her binoculars. "Look. There's a whole row of them."
+
+Far off, between the Orchard and the Surveyor's Tower, a line of old wooden posts stuck up out of the silver water. Nine of them. On top of each post, a cormorant stood with its wings spread out to dry.
+
+"What are those?" Mara asked a picker in the nearest net.
+
+"Hesper's Pier," the picker said. "She started building it, years back. Posts first. Then she died, and it never got finished. Nobody's ever walked it. You'd have to be mad."
+
+"Cormorants only roost where it's steady," said Bea thoughtfully. "They like to dry their wings without wobbling. Those posts must go right down."
+
+Mara found the posts on the map: nine tiny dots, with no line joining them and no name. She would never have noticed them if she hadn't seen the real ones first. She didn't know why it mattered. She drew them in her sketchbook anyway.
+
+When she climbed back up to the top side, the sky was going orange, and Amma Oduya was standing at the kitchen door, looking east.
+
+Along the iron bridge from the Tower, lanterns were coming. Four of them. Swinging. Coming closer.
+
+"Chainmen," said Tavi.
+
+Amma Oduya didn't turn round.
+
+"I was told," she said, "to keep you here."
+
+---
+
+## Chapter Ten
+### The Drop
+
+Nobody moved.
+
+"How long?" said Idris.
+
+"The Chainway's forty minutes, end to end," said Amma Oduya. "They're halfway."
+
+Mara's mind raced, the way it did, looking for a plan. There was no road off the Orchard except the one the Chainmen were on. There was nowhere to hide on a floating rock that they wouldn't find. And the old woman standing in the doorway had been promised a perfect harvest for ever.
+
+Bea touched her arm and nodded towards the farmhouse stairs.
+
+Two teenagers, the girl with the basket and a boy who looked like her brother, were carrying bags down. Quietly. Glancing at the door. The girl had a ribbon tied round her wrist: blue and orange, the same patchwork colours as Tavi's scarf.
+
+"They're packing," Bea whispered.
+
+Tavi saw it too. Then he looked at Amma Oduya's stick. Tied round the top of it, almost hidden by her hand, was the same blue-and-orange ribbon.
+
+"That's a Market trade-ribbon," he said. "You trade with the Night Market. You let them come here. Even now."
+
+"Every week for sixty years," said the old woman.
+
+"And your grandchildren want to go with them," said Bea. "For good. Don't they?"
+
+Amma Oduya's knuckles went white on her stick.
+
+Mara understood then. It was like a puzzle piece turning the right way round. The old woman didn't want a perfect harvest. She wanted her grandchildren to stay. And the Surveyor had promised that, in the stillness, nobody would ever leave.
+
+Mara thought about Nan on the harbour steps. About the small, terrible thought she'd squashed flat. *Nan would never get any worse.*
+
+"He promised my nan too," she said. "In a way. He's putting my whole town on his Chart. My nan's forgetting things. In the stillness, she'd never forget anything else." She swallowed. "But she'd never remember anything new, either. She'd never laugh at a new joke. And your grandchildren would stay. But they'd never *choose* to stay. They'd never choose anything, ever again."
+
+Amma Oduya looked at her for a long time. Out on the Chainway, the lanterns swung closer.
+
+Then the old woman turned to the teenagers on the stairs.
+
+"Efua. Kwame. Fetch the Drop."
+
+---
+
+The Drop was a big rope basket for lowering fruit from the underside to boats waiting on the Slack below. It hung from a pulley at the very tip of the rock, upside down, which meant it was really right side up, and Mara stopped trying to think about it.
+
+"Market fruit-boat comes at moonrise," said Amma Oduya. "Captain Wim. Tell him I sent you. Tell him he owes me for last year's tumblers."
+
+"What will you tell the Chainmen?" said Mara.
+
+"That four rude children stole my fruit and ran off over the edge." She almost smiled. "It's true. You haven't paid for that tumbler."
+
+Mara hugged her. It was like hugging a tree with bracelets.
+
+They climbed into the basket. Kwame and Efua let the rope out, hand over hand, and the Orchard rose away above them. The basket swung down through the dark towards the Slack, which was black now and glittering with moonlight.
+
+A little boat with a single lamp was waiting. A huge man in an oilskin hat caught the basket, swore, read the note Amma Oduya had pinned to Tavi's scarf, and swore again.
+
+"Children," said Captain Wim. "She sends me *children*. Get in. Sit down. Don't touch the tumblers."
+
+They sat among crates of fruit as the boat slid out into the open Slack. Tavi gripped the side and stared straight ahead. Mara unfolded the map under the lamp.
+
+The Orchard was there. The Chainway was there. Four little specks of Chainmen were there, reaching the Orchard and stopping.
+
+But there was no speck for the boat. And none for them.
+
+"We're not on a road," said Mara. "So he can't see us. Out here, nobody can see us."
+
+"That's why the Market likes the open Slack," said Wim. "Can't chart what doesn't stay put." He pulled on the tiller. "Hold tight. Breath's coming in."
+
+"The breath?" said Idris.
+
+Bea had been watching the water. "The Slack goes up and down," she said. "Like the tide at home. It was low this afternoon and it's getting higher now."
+
+Wim looked at her with grudging respect. "High breath at seven, low breath at one, morning and night. And for an hour either side of low, it lies dead still. The Hush, we call it. Any other time, the currents'll pull you to pieces if you don't know them."
+
+He knew them. The little boat slipped and turned through the dark, and the currents tugged at it like hands, and never quite got hold.
+
+After an hour, there were lights ahead. Not one or two. Hundreds. Lanterns strung between masts, swaying on the water, a whole floating town of them.
+
+"The Night Market," said Tavi. It came out almost as a whisper.
+
+As the boat bumped against the nearest deck, Mara saw a woman standing at the top of the gangplank. She was tall and straight, with a ginger braid and a ring of keys at her belt. Her arms were folded.
+
+Tavi stood up very slowly.
+
+"Hello, Mum," he said.
+
+---
+
+## Chapter Eleven
+### The Night Market
+
+The Night Market was a hundred boats lashed together, deck to deck, with planks between them. That made streets that rocked gently under your feet. Lanterns swung from every mast. There were stalls selling rope, lamps, fish, spices, spoons and music boxes, and one that seemed to sell nothing but buttons. It smelled of woodsmoke and frying dough.
+
+Tavi's mother, Saskia, did not hug him. She looked at him for a long time and then said, "You've grown. You've got soot on your face. And you've brought trouble."
+
+"I've brought *friends*," said Tavi.
+
+"Same thing, tonight." She looked at Mara. "The Surveyor's hunting us already. And now he's hunting *you*. If his Chainmen follow you here..."
+
+"They can't," said Mara. "We weren't on a road. He couldn't see us."
+
+Saskia looked at her more carefully. "Hm," she said. "Eat first. Then talk."
+
+They ate lantern dumplings: little parcels of dough fried crisp and stuffed with something spicy, so hot you had to juggle them. There was a rule about buying them, Tavi said. You had to pay the cook a compliment before you were allowed to bargain.
+
+"Your dumplings are the best in two worlds," said Idris, with total sincerity. The cook gave him an extra one for free.
+
+Afterwards, a gentle man with coils of rope over both shoulders came and sat with them. He had Tavi's freckles and Tavi's grin, only slower.
+
+"Joss," he said, shaking Mara's hand. "Tavi's dad. Rope-maker." He saw Edie's pen sticking out of Mara's pocket and went still. "Is that a tide-pen?"
+
+Mara showed him. He turned it over in his big hands.
+
+"Dry as a bone," he said. "I've got tide-ink. A little. We use it for marking rope lengths." He looked at Mara. "Do you want it filled?"
+
+Mara hesitated. Ro's voice: *Whatever you draw, he gets.* But a pen that worked might matter. You never knew.
+
+"Yes, please," she said.
+
+Joss filled it from a tiny stoppered bottle. "That's all I've got. Enough for a line about as long as your arm." He handed it back. "Two rules about tide-ink. One: if you put it on a copy, like that map, it goes straight to his Chart."
+
+"Ro told us."
+
+"Two." He held up a finger. "It only sets on a true line. If you draw a road exactly where it really is, the ink sticks. Draw it anywhere else, even a little bit wrong, and it runs off like rain off a window." He smiled. "That's why the Market's never been on his Chart. We never stay where we're drawn."
+
+Mara wrote it in her sketchbook, word for word. *Ink only sets on a true line.*
+
+"And if the Market gets scattered?" said Tavi suddenly. "If Chainmen come?"
+
+Joss looked at his son. "You remember the Scatter Rule?"
+
+Tavi recited it like a nursery rhyme. "*If the Market breaks, it mends at Gull Stack, noon the next day.*"
+
+"Good lad," said Joss softly.
+
+---
+
+They slept in hammocks strung between two masts, rocking gently. Mara lay awake listening to the water.
+
+"Bea?" she whispered. "You awake?"
+
+"I keep thinking about Kit," Bea whispered back. "My brother. He's only a baby. He's learning to clap. What if he's still... what if I never see him clap?"
+
+Mara didn't know what to say. So she reached out of her hammock, and found Bea's hand in the dark, and held it until they both fell asleep.
+
+---
+
+In the morning, over sweet porridge, they had a vote.
+
+"I think we should go home," said Idris. He said it quietly, staring into his bowl. "Bellbridge is still open till twelve. Captain Wim could take us. And then we get help. Grown-ups. My mum builds things. Your dad..."
+
+"I want to go home too," said Bea. Her voice was small but steady.
+
+Tavi said nothing. He looked as though he'd been punched.
+
+Everyone looked at Mara.
+
+Her mind did what it always did. It made a list. *We are four children. The Observatory is a long way away. Roads are closing. We nearly fell into the Slack. We nearly got caught. Grown-ups would know what to do.* It was a sensible list. It was a sensible plan.
+
+"Okay," she said. "We go home. We get help. We come back."
+
+Tavi got up and walked away down the deck without a word.
+
+Captain Wim agreed to take them, grumbling. "Clapper's Landing, east end of Bellbridge, by half past ten. Then you run. Bridge starts to fade at eleven."
+
+They set off at eight, along the edge of the big middle island, with the Canopy's dark trees on one side and the open Slack on the other. Tavi sat at the very front of the boat with his back to everyone. Nobody knew what to say to him.
+
+The marsh came into view, flat and silver, stretching away south. In the distance, Bellbridge, a long line of tiny houses, was still glinting in the sun.
+
+Mara was looking at Bellbridge. Idris was looking at Bellbridge.
+
+Bea was looking at the marsh.
+
+She lifted her binoculars. Lowered them. Lifted them again.
+
+"Stop the boat," she said.
+
+Captain Wim didn't hear her.
+
+"*Stop the boat!*" said Bea, loudly enough that Wim jumped and let go of the tiller. "There are children on that island. And it's sinking."
+
+---
+
+## Chapter Twelve
+### The Last Toll
+
+Through Bea's binoculars, Mara saw it clearly.
+
+In the middle of the marsh was a small island made of woven reed-mats, with round reed huts on top. Half of it was black and smoking. The other half was tilting, slowly, into the water. On the high side, a group of people was huddled together: an old man in waders, two women, and three children, the smallest of them no more than seven.
+
+"Heron Holm," said Wim. "Glassers live there. Chainmen must've burned the mats last night. Burnt reed doesn't float."
+
+"Then go and get them!" said Idris.
+
+"Can't." Wim jabbed a thick finger at the water. "That's the Glasswater. Shallow as a puddle in places and deep as a well in others, and it all looks the same. Take my boat in there, I'll run aground and lose her. And the Chainmen'll come back to look at their handiwork. I'm a Market man. I don't get seen." He looked away. "I'm sorry. I am. I'll get you to the bridge."
+
+Mara opened the map. There was Bellbridge, still glowing bright. On the far side of it was Lantern Quay, and the Lamp Road, and home. Dad. Nan. It was ten o'clock. If they went now, they would make it.
+
+And there was Heron Holm, with no road to it at all.
+
+She looked up. Bea was looking at her. Idris was looking at her. Even Tavi had turned round.
+
+"Wim," Mara said. "Can we borrow your coracle?"
+
+The coracle was a round little boat, like half a walnut shell, tied to the stern. Wim stared at her.
+
+"If you go in there," he said slowly, "you'll miss the bridge. You know that? There'll be no getting home after noon. Not by Bellbridge. Not by anything."
+
+"I know," said Mara. Her voice shook. She let it. "But they're sinking *now*."
+
+Idris was already untying the coracle. Bea was already climbing in. Tavi looked at the open water, went pale, and climbed in after her.
+
+Wim swore. Then he threw them his longest pole and a coil of rope. "I'm not waiting," he said roughly. "I can't. But I'll tell the Market what you did."
+
+---
+
+The Glasswater was the most beautiful and the most frightening place Mara had ever been.
+
+The water was so still it was like glass. Every reed, every cloud, every bird was reflected in it perfectly. Mara couldn't tell where the reeds ended and the reflections began. Ahead of them, an island rose out of the water, green and lovely, with trees on top.
+
+"Make for that," said Idris. "It's closer to the Holm."
+
+"No," said Bea. "Look up."
+
+There, high in the sky, floated the Upside-Down Orchard. The lovely green island in the water was its reflection.
+
+Idris's mouth fell open. "That's horrible."
+
+"There's more," said Bea. She was leaning over the side, watching. "See the water-boatmen? The little bugs that skate? They only skate on water. Where there are reeds underneath, near the top, they don't go. And look at the heron." A grey heron was stepping slowly through the shallows, lifting each foot high. "It only steps where it's firm. It knows."
+
+"So we follow the bugs," said Mara, "and avoid where the heron walks."
+
+She had her pencil out. As Bea called, "Bugs left, heron right," Mara drew the safe channel in her sketchbook, a wiggly line between the shallows. Tavi stood in the middle of the coracle with the pole, his face white, pushing them along the line she drew. Idris knelt at the front, rope ready.
+
+Halfway there, Tavi pushed the pole into soft mud and it stuck. He pulled. There was a *crack*, and the pole split along its length.
+
+Tavi stared at it in horror.
+
+"Give it here," said Idris. He didn't grab it. He held out his hand, and Tavi passed it over. Idris lined up the split, wound the silver thread round it slowly, a long careful spiral, and the wood knitted together. It took a lot of thread.
+
+"Sorry," said Tavi.
+
+"Mud's not your fault," said Idris. "Keep going. You're doing brilliant."
+
+Tavi swallowed and kept going.
+
+At half past ten, they reached Heron Holm.
+
+The old man in waders caught the rope Idris threw and tied it fast. His name was Ezra. The smallest child was his granddaughter, Pim, who had a gap in her teeth and mud up to her knees, and who looked at the four of them as if they had come down from the moon.
+
+"The mats went up in the night," said Ezra. "We've been bailing since dawn. Nobody came. We thought nobody would."
+
+The coracle only held four at once. So they took the Glassers off in turns: Pim and one of the women first, with Mara and Tavi rowing them to a firm reed bank that Bea had spotted. Then back for the others. The holm tilted further with every trip. On the last trip, as Ezra stepped down into the coracle, the reed-mat island gave a long sigh and slid under the glassy water.
+
+They sat on the reed bank, nine of them, wet and breathing hard.
+
+Then, across the marsh, the bells of Bellbridge began to ring.
+
+Not a tune. Not the lost-road toll. All twenty-six bells at once, every one of them, from the great black Anchor to the tiny silver Zephyr, a huge tumbling crash of sound. *We're still here. We're still here.*
+
+Mara looked at her watch. Eleven o'clock.
+
+Through Bea's binoculars, they watched Bellbridge fade.
+
+It started at the middle. The little houses went pale, like a drawing left out in the sun. Then grey. The washing lines vanished. The window boxes. And still the bells kept ringing, though there was hardly any bridge left to hold them.
+
+Then, one by one, the bells began to fall.
+
+They dropped into the Slack without a splash, silver and bronze, turning over and over as they fell. Anchor. Barley. Candle. Drum. Each one rang a last note as it went. Soon there were fewer bells ringing. Then three. Then one. Then only the little silver Zephyr, ringing on and on by itself in the empty air.
+
+At twelve o'clock, it stopped.
+
+Mara opened the map. Bellbridge was gone. Lantern Quay sat alone on its island, cut off from everything. The Lamp Road still glowed beyond it, faint and gold, and there was no way left to reach it.
+
+Nobody said anything for a long time. Bea cried quietly into her sleeve. Idris stared at the water with his jaw clenched. Tavi sat with his arms round his knees. Pim, who didn't understand, held Mara's hand.
+
+Mara thought about Dad. About the note under the till. About *back by half six*.
+
+And then she thought about the people on Heron Holm, and how they would be at the bottom of the marsh now if the four of them had gone home.
+
+She didn't say anything wise. She couldn't think of anything wise. She just took her pencil and the map, and where the Flooded Observatory lay half-sunk in its lagoon, she drew a careful circle round it. A whole circle, except for one small gap.
+
+"We're not going home," she said. "Not yet. We're going to stop him."
+
+One by one, the others looked up.
