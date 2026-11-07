@@ -253,7 +253,7 @@ He also **physically destroys** unrecorded ways he finds. Chainmen burn Glasser 
 - **Relationships:** first real quarrel; Tavi assigned as guide and pretends he's annoyed.
 - **Hook:** before dawn a grey-coated Chainman is waiting at the bridge gate.
 
-**Ch5. Fifty-Seven Hours at Bellbridge.** *Bellbridge · Sat 5:45–7:30 a.m. · Left: 57 h 15 m*
+**Ch5. The Toll Token.** *Bellbridge · Sat 5:45–7:30 a.m. · Left: 57 h 15 m*
 - **Event:** a bridge of homes and 26 bells. Tavi boasts about "Edie Marrow's map" and Chainman Pell hears. Grandma Tull hands them a stamped "toll token" of numbers. The toll board lists the bells: 1 Anchor, 2 Barley, 3 Candle... The crew decode FOLLOW BEES and HIDE MAP.
 - **Clue / payoff:** **code puzzle** (key in the text; readers can solve first); the full Closure Schedule; Pell flashes a signal-mirror east.
 - **Relationships:** Tavi's shame and Mara's anger; Bea spotted the token wasn't a toll.

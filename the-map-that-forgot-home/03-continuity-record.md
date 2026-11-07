@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 24 (first draft complete). Update after every drafting session.*
+*Updated after the trim and read-through (see 05-edit-notes.md). Total ≈24,200 words.* Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
