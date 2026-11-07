@@ -1769,3 +1769,342 @@ Mara couldn't look at anyone. Least of all at Bea.
 "Mara," said Penn quietly from the window. He passed her his binoculars.
 
 At the mouth of the lagoon, riding in on the rising breath, came three grey boats with Chainmen in their bows.
+
+---
+
+## Chapter Seventeen
+### What Pip Said
+
+Penn didn't waste a second.
+
+"Coracle. Now. All of you." He was already pulling on his old grey coat and buttoning it to the neck. "Go out the back way, into the reeds. Ezra knows."
+
+"What about you?" said Mara.
+
+"I'm an old Chainman in an old Chainman's coat." He straightened it. "I'll invite them in for tea. I'll show them my terns. I'll be very, *very* slow about it." He bent down so his eyes were level with Mara's. "Listen to me. He'll be at the Long Glass all day now. The great telescope at the top of his Tower. He can see half the Fold through it. Anything he sees, any road you make, he'll draw it true and wipe it out. Do you understand? Anything he can *see*."
+
+Then he pushed them out of the back door.
+
+They went in two loads, the coracle low in the water. Ezra and Pim and the cousins slipped away across the hidden reed ways. Behind them, Mara heard the bump of a boat against the front balcony, and men's voices, and Penn's voice, loud and cheerful: "Visitors! How lovely! Mind the step, it's slippery. Have you met my terns?"
+
+They paddled hard. The breath was still coming in, the water rising, the current pulling. Tavi was in the front, his knuckles white on the paddle, saying nothing.
+
+They were nearly at the reeds when the coracle hit something under the water. There was a horrible scraping *crunch*. Water began to pour in through a long split in the bottom.
+
+"Stake!" said Idris. "One of ours. From the rafts."
+
+He already had the thread out. There was barely enough room to kneel, and the water was round his knees, but he held the split edges together and wound the silver thread along them, quick and careful. The wood knitted. The water stopped.
+
+"How much is left?" said Mara.
+
+Idris held up the spool. It looked very thin.
+
+Then Bea, leaning out to fend off a reed bank, slipped. Her binoculars swung on their strap, caught on a broken stake and snapped free. They hit the water with a small *plop* and were gone.
+
+Bea stared at the place where they had disappeared. She didn't say anything. She just sat back down.
+
+When Mara looked back, the three grey boats were leaving the Observatory. In the bows of the middle one sat an old man in a faded grey coat, with his hands tied in front of him. He wasn't looking at the Chainmen. He was looking at the reeds where they were hiding, very steadily, as if to say: *Go on.*
+
+---
+
+The reed hide was a little hut of woven reeds, hidden deep in the marsh, where Glassers waited to watch birds. It was dim inside even in daylight, and when Ezra let the flap fall shut it was completely dark.
+
+They sat in the dark, wet through. Nobody said anything.
+
+Mara put her hand in her jacket pocket to find the torch, and touched something cold and round.
+
+She'd forgotten. The thing she had grabbed from Hesper's desk without looking. She pulled it out and felt it with her fingers: heavy brass, smooth, with a lid that clicked. A compass. On the lid, scratched in small letters, were two initials. She ran her thumb over them in the dark.
+
+*A.C.*
+
+"It's his," she said. "Ansel's. From when he was an apprentice."
+
+Tavi's voice came out of the dark. "It's dark in here," he said. "Properly dark."
+
+He unhooked the lantern. Mara held out the compass. The thread of light flickered.
+
+And a boy's voice filled the hide, high and breathless and full of joy.
+
+*"Ansel! Ansel, look! A new island! It's drifting right past, come on, there's a way out to it, come and see! It's moving! Come ON!"*
+
+Then silence. The candle had burned down past another mark.
+
+Nobody spoke. Mara held the compass and thought about a little boy shouting from the shore, and a big brother who said *wait*, and how the big brother must have heard those words in his head every day for sixty years.
+
+"He just wanted to see it," whispered Bea.
+
+Mara thought about Penn, going away in a grey boat with his hands tied. About Pim, under the water, holding on to a rope. About the Glassers' rafts, scattered, and their harvest, gone. About Bea saying *please* and nobody listening.
+
+She'd done that. All of it. Because she'd been so frightened of something going wrong that she'd made something go wrong.
+
+And it was worse than that. Penn had told them the truth. Any road they made, the Surveyor could see through his great telescope. And anything he could see, he could draw. If they built another road in the marsh, he'd see it and wipe it out, just like the rafts. There was no way to hide a road from someone who could see the whole Fold.
+
+The plan was gone. Their only plan.
+
+Mara found the map in her jacket. It was damp and smudged at one edge, where the water had soaked in, but she could still read the border. Eight marks left.
+
+She held it out in the dark until it bumped into Idris's arm.
+
+"You keep it," she said. "I can't be trusted with it."
+
+---
+
+## Chapter Eighteen
+### Low Breath
+
+Idris didn't take it.
+
+He didn't push it away, either. He just didn't take it. After a while, Mara put it down on the reed floor in the middle of the four of them, and nobody picked it up.
+
+Ezra lifted the flap a little to let the grey morning in. Then he took Pim outside, very quietly, and left them alone.
+
+Bea opened her flapjack tin. There were four pieces left, small and squashed, and her folded note to Kit sitting on top of them. She gave everybody one piece. They ate them slowly, because they were the last.
+
+"I can't fix this," said Idris.
+
+He said it to the floor. His voice was wobbly.
+
+"I always think I can fix anything. Mum says I'd try to fix the weather. But I can't fix this. I don't even know where to *start*. I don't know how." He rubbed his eyes hard with the heels of his hands. "There. I said it."
+
+Tavi was picking at a patch on his scarf.
+
+"Before this week," he said, "I'd never been past Bellbridge. Not once. I told Ro I knew the Canopy. I told you I knew it. I made it up. Everything I know about the Fold is stories." He swallowed. "And I'm scared of open Slack. So scared I can't breathe. And my mum doesn't want me, and I don't know if I want her, and..." He stopped.
+
+Mara looked at her hands.
+
+"When I saw the gulls stop," she said, very quietly, "over Wrenmouth. When I knew my nan would be still for ever. There was a bit of me that thought: *good*." The words came out in a rush, as if they'd been waiting. "Because she'd never get any worse. She'd never forget me. She'd never forget the way to the bathroom. She'd always be my nan, exactly like she is now."
+
+Nobody said anything.
+
+"That's what *he* wants," Mara whispered. "I'm just like him. I wanted everything to stay put. That's why I drew the line. I'm *exactly* like him."
+
+She waited for someone to say *no, you're not*. Nobody did. And then Bea stood up.
+
+She didn't stand up slowly or quietly. She stood up so fast that her head bumped the reed roof.
+
+"*No*," said Bea. Loudly. Louder than Mara had ever heard her. "No. Stop it. All of you."
+
+They all stared at her.
+
+"Idris, you fixed the basket. And the boat. And you threw the rope and saved Pim. Tavi, you got the guard away at the Ropewalk and you paddled out on open Slack when you were so scared you couldn't breathe. That's not stories. That's *you*. And Mara..." Bea's face was pink, but she didn't stop. "You made a mistake. A bad one. But you're not like him. He'd never sit in a hut and say sorry. He'd never even think he'd *done* anything wrong."
+
+She sat down again, breathing hard.
+
+"I said please," she said, more quietly. "On the balcony. And you didn't listen. That's true. But I'm saying it now, and you're listening now. So. We're not stopping. We have six hours." She looked at the map. "Five and a bit."
+
+There was a long silence.
+
+"Okay," said Idris. His voice was steadier. "Okay."
+
+"What do we do?" said Tavi.
+
+"We make a list," said Bea. She looked at Mara. "You're good at lists."
+
+Mara took out her sketchbook. Her hands weren't quite steady, but she wrote.
+
+> *WHAT WE KNOW*
+> *1. If there's a living road he hasn't drawn at 3 o'clock, the Stilling breaks. For ever.*
+> *2. Living = someone has walked it end to end, and it's still there.*
+> *3. He can't see undrawn roads on his Chart.*
+> *4. But he CAN see them through the Long Glass.*
+> *5. If he sees one, he draws it. The ink sets if he draws it exactly right. Then he wipes it out.*
+> *6. Ink won't set on a road that isn't where it's drawn.*
+> *7. Chainmen can cut or burn roads too.*
+> *8. The Hush is 12 till 2. After that, the currents come back.*
+> *9. Hesper's Pier: nine posts, never walked. Cormorants, so the posts are steady.*
+> *10. The Market has rope. Scatter Rule: Gull Stack, noon.*
+> *11. We have: map. 20 m blue rope. Thread (a tiny bit). Lantern (3 marks). Torch. Compass. Each other.*
+
+They looked at it together.
+
+"It's a lot," said Tavi.
+
+"It's not enough," said Idris. "Number four. He can see everything."
+
+Mara stared at number four. *He can see everything. Anything he can see.*
+
+She thought of Ro, standing at the rail at the top of the great lamp tower, the whole harbour blazing with light around them. Ro pointing straight down. The pool of black at the bottom of the tower, where the tower's own shadow fell and the light couldn't reach.
+
+"It's always darkest," Mara said slowly, "under the lamp."
+
+And she stopped.
+
+---
+
+## Chapter Nineteen
+### Darkest Under the Lamp
+
+"Say that again," said Idris.
+
+"It's always darkest under the lamp. Ro said it. It's a lamplighters' saying." Mara's words were speeding up now, falling over each other. "A lamp lights up everything around it. Except right underneath. Right at the bottom of the tower, there's a shadow, because the light shines out, not down."
+
+"The Long Glass is at the top of his Tower," said Tavi slowly.
+
+"So he can see everywhere," said Mara. "Except straight down. Except the bottom of his own Tower."
+
+She grabbed the map and spread it on the reed floor. There was the Upside-Down Orchard, floating on its crag. There was the Tower, on its cliff. And between them, close beneath the cliff, so small she'd almost missed it on Friday, was a little row of nine dots.
+
+"Hesper's Pier," said Bea.
+
+"It goes from under the Orchard," said Mara, "to the bottom of the Tower. Under the Orchard, it's hidden by the rock. Under the Tower, it's hidden by the Tower. It's never been walked, so it's not a road yet. So it's not on his Chart. And it's the one place he can't look at."
+
+"And the posts are steady," said Bea. "The cormorants."
+
+Idris was frowning, but in a good way. The way he frowned at a machine. "We'd need rope. Lots. From post to post, and from the Orchard down to the first one. Three or four hundred metres. And then we walk it, end to end. Then it's a living road."
+
+"And then he finds it anyway," said Tavi. "Because he's clever. Penn said. Sooner or later he looks down."
+
+"Then it can't be a road he can draw," said Mara.
+
+They looked at number six on the list. *Ink won't set on a road that isn't where it's drawn.*
+
+"Joss said it," said Tavi. "The Market's never on his Chart because we never stay where we're drawn."
+
+"So we don't stay where we're drawn," said Idris. His eyes were shining. "We don't tie the rope tight to the posts. We loop it round, so we can flip it from one side of a post to the other. If he draws the road on the north side of the posts, we swing it to the south side. Then it isn't where he drew it, and the ink runs off. He draws it again, we swing it back."
+
+"How will we know where he's drawing?" said Bea.
+
+Everyone looked at Mara.
+
+"Someone has to be up there," she said slowly. "In the Tower. Watching the Chart. And signalling down." She pulled the yellow torch out of her pocket. "With this."
+
+She wrote it down while she thought:
+
+> *1 flash: he's drawing on the NORTH side. Swing SOUTH.*
+> *2 flashes: he's drawing on the SOUTH side. Swing NORTH.*
+> *3 flashes: he's stopped.*
+
+"It should be me," she said. "I know the map best. I know how the Chart works. And..." She looked down. "It was my mistake. I should be the one who goes up."
+
+Nobody argued. Mara noticed that, and was grateful.
+
+Then she did something she had never done before. She turned the sketchbook round so the others could see it.
+
+"Now find the holes," she said. "In my plan. Everything that could go wrong. Please."
+
+They stared at her.
+
+Then Idris said, "The Chainway. It closes at two. The Orchard's only held in place by the Chainway. When it goes, the Orchard starts to drift. It'll pull the whole rope."
+
+"Then somebody holds the Orchard end," said Tavi. "In a boat. Pulling against it." He went very pale. "On open Slack."
+
+"And the current," said Bea. "The Hush ends at two. After that, the breath comes back. It'll pull at everything. We have to be across the posts before then."
+
+"And if the Chainmen cut the rope," said Idris, "it isn't a road any more." He looked at the spool in his hand. There was hardly any silver left on it. "I could mend a little bit. Once. Maybe."
+
+"And we need the Market," said Tavi. "Their rope. Their boats." He looked at the light through the reed flap. "If the Market broke last night, the Scatter Rule says Gull Stack. Noon."
+
+It was a quarter to eleven.
+
+"Can we get there?" said Mara.
+
+"Gull Stack's a big rock, out in the open Slack, north of the lagoon," said Tavi. "It's about an hour. Paddling. On open Slack." He took a breath. "I'll steer. I know the currents. Not from going. From the stories. But I know them."
+
+---
+
+Ezra gave them his own paddle, which was better than theirs, and wrapped the last of the smoked eel in a leaf. Pim hugged Idris round the middle and wouldn't let go.
+
+"Fix it twice," she told him.
+
+"I'll try," said Idris.
+
+They paddled out of the reeds and into the open Slack. It was wide and silver and bright, with nothing to hold on to in any direction. Tavi steered from the back. His face was grey and set. Every few minutes he said, "Left a bit," or, "Current's going to pull. Lean," and every time he was right.
+
+"You said you only knew it from stories," said Bea.
+
+"I listened to a lot of stories," said Tavi.
+
+Just before noon, a tall pillar of black rock rose out of the water ahead, streaked white with seabird droppings. And around its base, one by one, boats were coming in from every direction, with lanterns on their masts. They lashed themselves together, deck to deck, plank to plank, and a market grew out of the water like a town being built in fast motion.
+
+On the biggest boat, at the very front, stood a woman with a ginger braid and a ring of keys at her belt.
+
+She saw Mara first. And her face went hard as stone.
+
+---
+
+## Chapter Twenty
+### The Market Mother
+
+Saskia Sallow didn't let them step onto her boat.
+
+She stood at the top of the gangplank with her arms folded, and the whole Market stopped to watch.
+
+"We came to help you," she said. "Wim told us what you did for the Glassers. So we sailed for the lagoon to find you. We were moored at the mouth at dawn, waiting." Her voice was low and very angry. "And then your ink brought three boats of Chainmen straight past us. We had to break and run in the dark. We lost two boats on the rocks. Old Marta's boat, with her stall and everything she owned. Children in the water." She looked at Mara. "We have hidden from him for forty years. And you brought him to us in one night."
+
+Mara felt every word land.
+
+She had a speech ready in her head. *I didn't know. I thought it would be steady. I was trying to keep Pim safe.* All of it was true.
+
+She didn't say any of it.
+
+"I'm sorry," she said. "I made a mistake. I drew a line I shouldn't have, because I was scared. You lost boats because of me. I'm really, really sorry."
+
+Saskia's eyes narrowed. She'd expected excuses. She didn't get any.
+
+"Sorry doesn't get Marta's boat back," she said.
+
+"No," said Mara. "It doesn't."
+
+Then Tavi stepped forward.
+
+He took off his cap. He stood in front of his mother on the gangplank, and he didn't make a single joke.
+
+"Mum," he said. "You're scared. I know you are. It's not the boats. You're scared about the children. The Market children. You're scared about them being out on open Slack when things go wrong. That's why you sent me to the Quay, isn't it? So I'd be somewhere safe."
+
+Saskia's face changed. Just a flicker.
+
+"We don't need the children," said Tavi. "Only grown-up sailors. The children stay here at Gull Stack, where it's safe. We need rope, and boats, and people who know the currents. That's all."
+
+"And why," said Saskia, "should I risk a single sailor?"
+
+"Because if he wins," said Tavi quietly, "the Market gets stilled too. Scattered. Like it is now, every boat in a different place. And it never mends. Not at Gull Stack, not at noon, not ever. You'd never get everyone back together again."
+
+The whole Market was silent. Saskia looked at the boats around her: lashed together, safe, whole. She looked back at her son.
+
+Mara reached into her jacket.
+
+She took out the map. It was damp and smudged and mended with silver thread. It was the most precious thing she had ever held. She'd hardly let go of it since Friday.
+
+She held it out to Saskia.
+
+"You keep this," she said. "As a promise. It shows every Chainman who walks on one of his roads. If they come, you'll see them coming. You'll have time to run." She swallowed. "I won't need it. Where I'm going, I'll be looking at his."
+
+Saskia looked at the map for a long, long moment.
+
+Then she took it.
+
+"Joss," she called, without turning round.
+
+Tavi's dad came pushing through the crowd with coils of rope over both shoulders, and more behind him, carried by others.
+
+"Four hundred metres of Market line," said Joss, dropping them on the deck. "Best I've ever made." He looked at his son and smiled slowly. "I heard. All of it."
+
+Tavi turned bright red under his freckles.
+
+"Wim," Saskia called. "Wim, Petra, the Larsson twins. You'll take the old fishing boat and the two quick ones. Nobody under sixteen." She turned back to Mara. "If this fails, I'll never forgive you."
+
+"If it fails," said Mara, "I'll never forgive me either."
+
+Saskia almost smiled. Almost.
+
+---
+
+They sailed north as fast as the boats would go. The Hush had begun. The Slack lay flat and still as a mirror, and every sail filled.
+
+The Upside-Down Orchard grew ahead of them, floating on its crag, its trees hanging golden beneath it. Beyond it, on its cliff at the very edge of the Fold, stood the Surveyor's Tower. Tall and thin, with its domed top, and the long brass shape of the Long Glass glinting in the sun.
+
+Mara looked at it and felt very small.
+
+"There," said Bea, pointing. "Look."
+
+The Chainway, the iron bridge from the Orchard to the Tower, was going grey. It was one o'clock. In an hour, it would be gone, and the Orchard would begin to drift.
+
+The boats slid in under the shadow of the crag. It was cool and dark beneath the hanging trees. Above them, an upside-down picker in a rope net stared down in astonishment and nearly dropped her basket.
+
+And in front of them, in the shadow, rising out of the silver water in a long line towards the foot of the Tower's cliff, stood nine old posts, each with a cormorant on top.
+
+Hesper's Pier.
+
+Idris pulled the first coil of Market rope over his shoulder.
+
+"Less than two hours left," said Mara.

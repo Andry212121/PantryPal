@@ -1,6 +1,6 @@
 # Continuity Record
 
-*Updated at the end of Chapter 16. Update after every drafting session.*
+*Updated at the end of Chapter 20. Update after every drafting session.*
 
 ## Word count
 | Ch | Words | Note |
@@ -153,5 +153,17 @@
 - **Meals and sleep:** smoked eel (about 1 p.m.); samphire and ship's biscuits (about 6 p.m.); four hours' sleep.
 - **Injuries:** Pim half-drowned but fine; everyone soaked and cold.
 
+## Chapters 17–20 updates
+- **Words:** Ch17 ≈900, Ch18 ≈840, Ch19 ≈990, Ch20 ≈850. Running ≈22,100. 20 of 24 done.
+- **Clock:** Ch17 Mon 6–8 a.m. (8 marks at about 7:30); Ch18 about 9:15–10:45 a.m. ("six hours, five and a bit"); Ch19 10:45 a.m.–12 noon (Gull Stack at noon); Ch20 12 noon–1:15 p.m. (Chainway greying at 1). **End: Mon about 1:15 p.m., under the Orchard. Less than 2 h left. 2 marks left after 1 p.m.**
+- **Penn** stayed and stalled the Chainmen ("Have you met my terns?"), was taken away bound in a grey boat, and gave the **Long Glass warning** on the page.
+- **Thread: 20 cm left** (coracle split, about 40 cm). **Bea's binoculars lost.** Map damp and smudged at one edge; border readable.
+- **Echo lantern: 3 marks left.** Ansel's brass compass (A.C.) replayed Pip: "Ansel, look! A new island!... It's moving! Come ON!"
+- **Ch18 confessions:** Idris "I can't fix this"; Tavi never past Bellbridge, scared of open Slack, hurt by his mum; Mara wished Nan would stay the same ("I'm exactly like him"). **Bea's big speech**, then the WHAT WE KNOW list. Last flapjack eaten (tin keeps Bea's note to Kit).
+- **Ch19 plan:** darkest under the lamp, so the Long Glass can't see the Tower's own foot. The Piles run under the Orchard (hidden by the rock) to beneath the Tower cliff. Walk them to make a living way. **Loose loops flipped from one side of the posts to the other**, so the ink won't set. **Torch code:** 1 flash = he's drawing north, swing south; 2 = drawing south, swing north; 3 = stopped. Mara goes up alone. Holes found: Orchard drift at 2 (a boat holds the Orchard end, Tavi); Hush ends at 2 (cross before); Chainmen cutting (the last thread). Ezra and Pim stay in the marsh ("Fix it twice"). Tavi steered the coracle across open Slack to Gull Stack.
+- **Ch20:** the Market lost two boats (Old Marta's) fleeing the Chainmen at the lagoon mouth at dawn. Mara apologised with no excuses. Tavi named his mother's fear; only adult sailors go and the children stay at Gull Stack. **Mara gave Saskia the map as a pledge.** Joss: **400 m of Market line.** Crew: Wim, Petra, the Larsson twins (old fishing boat plus two quick boats). Saskia: "If this fails, I'll never forgive you."
+- **Equipment now:** blue rope 20 m; Market line 400 m; thread 20 cm; lantern 3 marks; torch (about 2.5 h; used about 30 min so far); compass; Ezra's paddle; coracle (left at Gull Stack); smoked eel parcel. **The map is with Saskia.**
+- **Injuries:** none new; everyone exhausted, about 4 h sleep since Saturday.
+
 ## Next session starts at
-**Chapter 17: "What Pip Said."** Mon 6 a.m., Observatory balcony, Chainmen boats approaching: Penn stays to delay them; flight into the marsh; coracle split (thread 60 → 20); binoculars lost; the echo lantern on Ansel's compass; Penn's warning about the Long Glass; Mara gives up the map.
+**Chapter 21: "Hesper's Pier."** Mon about 1:15 p.m., in the Orchard's shadow: rig the line, walk the Piles, Chainway gone at 2, the Orchard drifts, Tavi holds the boat, Mara climbs the Tower stair to the word-locked door.
