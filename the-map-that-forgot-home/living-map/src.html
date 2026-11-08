@@ -1,0 +1,539 @@
+<title>The Living Map of the Fold</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IM+Fell+English+SC&display=swap">
+<style>
+/* Layout: a night-time harbour page; the map is a lamplit parchment chart, the tools sit below it like kit on a table. */
+:root {
+  color-scheme: dark;
+  --night: #170f1c;      /* the Slack at night */
+  --plum: #2c1833;       /* panels */
+  --plum-2: #3d2346;
+  --lamp: #e9b44c;       /* lamplight accent */
+  --lamp-soft: #f4d899;
+  --parch: #efe3c8;      /* map paper */
+  --ink: #2a1f2e;        /* map ink */
+  --silver: #b8bccb;     /* unrecorded / mist */
+  --text: #f1e9dc;
+  --muted: #b9a9b9;
+  --danger: #e07a6a;
+  --display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --body: 'Literata', Georgia, 'Times New Roman', serif;
+  --chart: 'IM Fell English SC', 'Fraunces', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { background: var(--night); color: var(--text); font-family: var(--body); font-size: 16px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 64px; }
+.page { max-width: 1120px; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; }
+button { font: inherit; cursor: pointer; }
+button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--lamp); outline-offset: 2px; }
+
+/* hero */
+.hero { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 36px; align-items: center; padding-block: 40px 28px; }
+.eyebrow { font-family: var(--chart); color: var(--lamp); letter-spacing: .08em; font-size: 15px; }
+.hero h1 { font-size: clamp(36px, 6vw, 64px); font-weight: 800; line-height: .98; margin: 6px 0 14px; color: var(--text); }
+.hero p { max-width: 58ch; color: var(--muted); margin: 0 0 10px; }
+.hero img { width: 100%; border-radius: 4px; box-shadow: 0 18px 40px rgba(0,0,0,.5); transform: rotate(2deg); }
+
+/* reader progress */
+.progress { background: var(--plum); border: 1px solid var(--plum-2); border-radius: 10px; padding: 16px 18px; display: grid; gap: 12px; margin-bottom: 18px; }
+.progress-top { display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: baseline; justify-content: space-between; }
+.progress label { font-family: var(--display); font-size: 20px; }
+.progress .hint { color: var(--muted); font-size: 14px; }
+.chap-row { display: flex; gap: 12px; align-items: center; }
+#chapter { flex: 1; accent-color: var(--lamp); min-width: 0; }
+.stepper { background: var(--plum-2); color: var(--text); border: 0; border-radius: 6px; width: 38px; height: 34px; font-size: 18px; }
+.status { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.stat { background: rgba(0,0,0,.18); border-radius: 8px; padding: 10px 12px; min-width: 0; }
+.stat .k { font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.stat .v { font-family: var(--display); font-size: 20px; color: var(--lamp-soft); font-variant-numeric: tabular-nums; }
+.recap { color: var(--text); font-style: italic; }
+
+/* map */
+.chart { background: var(--parch); border-radius: 6px; box-shadow: 0 0 0 1px #00000040, 0 30px 60px rgba(0,0,0,.45); padding: 10px; }
+.chart svg { display: block; width: 100%; height: auto; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 14px 2px 0; font-size: 14px; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 8px; }
+.sw { width: 28px; height: 0; border-top: 3px solid var(--lamp); display: inline-block; }
+.sw.unrec { border-top: 3px dotted var(--silver); }
+.sw.fade { border-top: 3px dashed #9a8f86; }
+.closures { margin-top: 10px; font-size: 14px; color: var(--muted); }
+.closures b { color: var(--text); font-weight: 600; }
+
+section.tool { margin-top: 56px; }
+.tool-head { display: grid; gap: 6px; margin-bottom: 18px; max-width: 70ch; }
+.tool-head h2 { font-size: clamp(26px, 3.4vw, 36px); font-weight: 800; }
+.tool-head p { margin: 0; color: var(--muted); }
+
+/* echo lantern */
+.lantern-wrap { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 24px; background: var(--plum); border-radius: 10px; padding: 22px; transition: background .5s; }
+.lantern-wrap.dark { background: #07050a; }
+.lantern { display: grid; justify-items: center; gap: 12px; text-align: center; }
+.lamp-body { width: 120px; height: 168px; border: 3px solid #8d7a62; border-radius: 14px 14px 8px 8px; position: relative; background: radial-gradient(circle at 50% 55%, #f6c95e55, transparent 65%); }
+.lamp-body::before { content: ""; position: absolute; left: 50%; top: -22px; width: 30px; height: 22px; border: 3px solid #8d7a62; border-bottom: 0; border-radius: 16px 16px 0 0; transform: translateX(-50%); }
+.candle { position: absolute; left: 50%; bottom: 10px; width: 34px; transform: translateX(-50%); background: #f3ead6; border-radius: 3px; display: flex; flex-direction: column-reverse; transition: height .6s; }
+.notch { flex: 1; border-top: 2px solid #b29c74; }
+.flame { position: absolute; left: 50%; width: 14px; height: 22px; margin-left: -7px; border-radius: 50% 50% 45% 45%; background: radial-gradient(circle at 50% 70%, #fff6c8, #f1a93a 60%, transparent 70%); animation: flicker 1.6s infinite alternate; }
+@keyframes flicker { from { transform: scale(1) rotate(-2deg); } to { transform: scale(1.08,.95) rotate(2deg); } }
+@media (prefers-reduced-motion: reduce) { .flame { animation: none; } }
+.marks { font-family: var(--display); color: var(--lamp-soft); font-size: 18px; }
+.btn { background: var(--lamp); color: #2a1a10; border: 0; border-radius: 999px; padding: 8px 16px; font-weight: 600; }
+.btn.ghost { background: transparent; color: var(--text); border: 1px solid var(--plum-2); }
+.objects { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; align-content: start; }
+.obj { text-align: left; background: rgba(255,255,255,.04); color: var(--text); border: 1px solid var(--plum-2); border-radius: 8px; padding: 10px 12px; min-height: 66px; display: grid; gap: 2px; }
+.obj small { color: var(--muted); font-size: 12px; }
+.obj[disabled] { opacity: .45; cursor: not-allowed; }
+.obj.used { border-color: #6b5a3a; }
+.echo { grid-column: 1 / -1; min-height: 92px; border-top: 1px solid var(--plum-2); padding-top: 14px; }
+.echo q { display: block; font-family: var(--display); font-size: clamp(19px, 2.4vw, 25px); color: var(--lamp-soft); quotes: none; }
+.echo .who { color: var(--muted); font-size: 14px; margin-top: 4px; }
+.echo .warn { color: var(--danger); }
+.dark .obj { background: #120d16; }
+
+/* bells */
+.bells-scroll { overflow-x: auto; padding-bottom: 6px; }
+.bells { display: grid; grid-template-columns: repeat(26, 56px); gap: 6px; min-width: max-content; }
+.bell { background: var(--plum); border: 1px solid var(--plum-2); color: var(--text); border-radius: 8px 8px 14px 14px; padding: 8px 2px 6px; display: grid; justify-items: center; gap: 2px; transition: background .15s, transform .15s; }
+.bell b { font-family: var(--display); color: var(--lamp-soft); font-size: 15px; font-variant-numeric: tabular-nums; }
+.bell span { font-size: 10px; color: var(--muted); }
+.bell i { font-style: normal; font-family: var(--chart); font-size: 18px; }
+.bell.ring { background: var(--lamp); color: #2a1a10; transform: translateY(-4px) rotate(-6deg); }
+.bell.ring span, .bell.ring b { color: #2a1a10; }
+.decoder { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; margin-top: 18px; }
+.card { background: var(--plum); border-radius: 10px; padding: 18px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.card h3 { font-size: 20px; }
+.tokens { display: flex; flex-wrap: wrap; gap: 8px; }
+.token { background: transparent; border: 1px solid var(--lamp); color: var(--lamp-soft); border-radius: 999px; padding: 6px 12px; font-size: 14px; }
+.token[disabled] { border-color: var(--plum-2); color: var(--muted); cursor: not-allowed; }
+input[type=text] { width: 100%; background: #120d16; color: var(--text); border: 1px solid var(--plum-2); border-radius: 8px; padding: 10px 12px; font: inherit; font-variant-numeric: tabular-nums; }
+.out { font-family: var(--chart); font-size: 26px; letter-spacing: .12em; color: var(--lamp-soft); min-height: 40px; word-break: break-word; }
+.small { font-size: 13px; color: var(--muted); }
+footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--plum-2); padding-top: 18px; }
+
+@media (max-width: 760px) {
+  .hero { grid-template-columns: 1fr; padding-top: 24px; }
+  .hero img { width: 150px; justify-self: start; transform: rotate(-2deg); }
+  .status { grid-template-columns: 1fr 1fr; }
+  .lantern-wrap, .decoder { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="page">
+  <header class="hero">
+    <div>
+      <div class="eyebrow">A copy of Edie Marrow's chart</div>
+      <h1>The Living Map of the Fold</h1>
+      <p>Edie's map from <em>The Map That Forgot Home</em> changes as the story goes on. Roads fade when the Surveyor rubs them out, the border marks count down the 72 hours, and a small gold light shows where the crew are.</p>
+      <p>Set how far you've read and the map will only show what you already know.</p>
+    </div>
+    <img alt="The book cover: four children walking along a road of light towards a harbour of lamps" src="data:image/jpeg;base64,__COVER__">
+  </header>
+
+  <div class="progress">
+    <div class="progress-top">
+      <label for="chapter">How far have you read?</label>
+      <span class="hint" id="chapLabel"></span>
+    </div>
+    <div class="chap-row">
+      <button class="stepper" id="prev" aria-label="Previous chapter">‹</button>
+      <input type="range" id="chapter" min="0" max="24" step="1" value="0">
+      <button class="stepper" id="next" aria-label="Next chapter">›</button>
+    </div>
+    <div class="status">
+      <div class="stat"><div class="k">Time left</div><div class="v" id="tLeft">72 h</div></div>
+      <div class="stat"><div class="k">Fold time</div><div class="v" id="tClock">Fri 3:00 pm</div></div>
+      <div class="stat"><div class="k">Border marks</div><div class="v" id="tMarks">72 of 72</div></div>
+    </div>
+    <div class="recap" id="recap"></div>
+  </div>
+
+  <div class="chart"><svg id="map" viewBox="0 0 1000 660" role="img" aria-label="Map of the Fold"></svg></div>
+  <div class="legend">
+    <span><i class="sw"></i>A recorded road (the Surveyor can see you)</span>
+    <span><i class="sw fade"></i>A road that is fading</span>
+    <span><i class="sw unrec"></i>The crew off the roads (invisible to him)</span>
+  </div>
+  <div class="closures" id="closures"></div>
+
+  <section class="tool" aria-labelledby="lanternTitle">
+    <div class="tool-head">
+      <h2 id="lanternTitle">Tavi's Echo Lantern</h2>
+      <p>Hold the lantern to an object and it plays back the loudest sound that object remembers. It only works in proper darkness, only once for each object, and every echo burns one of the six marks on its candle. Choose carefully.</p>
+    </div>
+    <div class="lantern-wrap" id="lanternWrap">
+      <div class="lantern">
+        <div class="lamp-body"><div class="candle" id="candle"></div><div class="flame" id="flame"></div></div>
+        <div class="marks" id="marks">6 marks left</div>
+        <button class="btn" id="darkBtn" aria-pressed="false">Close the shutters</button>
+        <button class="btn ghost" id="newCandle">Fit a new candle</button>
+      </div>
+      <div class="objects" id="objects"></div>
+      <div class="echo" id="echo" aria-live="polite"><div class="small">Close the shutters first. Tavi learned that the hard way in Chapter 6.</div></div>
+    </div>
+  </section>
+
+  <section class="tool" aria-labelledby="bellTitle">
+    <div class="tool-head">
+      <h2 id="bellTitle">The Bells of Bellbridge</h2>
+      <p>Each of the 26 bells has a name, and the names run from A to Z. Grandma Tull used them to hide a message on a toll token. Press a token to ring it out, or crack one of your own.</p>
+    </div>
+    <div class="bells-scroll"><div class="bells" id="bells"></div></div>
+    <div class="decoder">
+      <div class="card">
+        <h3>Ring a token</h3>
+        <div class="tokens" id="tokens"></div>
+        <label class="small" for="numIn">Or type the numbers yourself, with a space between bells and a / between words:</label>
+        <input type="text" id="numIn" placeholder="8 9 4 5 / 13 1 16">
+        <div class="out" id="decoded" aria-live="polite"></div>
+      </div>
+      <div class="card">
+        <h3>Make your own token</h3>
+        <label class="small" for="txtIn">Write a secret message for a friend:</label>
+        <input type="text" id="txtIn" placeholder="Meet me at the lighthouse" maxlength="80">
+        <div class="out" id="encoded" style="font-family: var(--body); font-size: 18px; letter-spacing: .02em"></div>
+        <div><button class="btn" id="copyBtn">Copy the numbers</button> <span class="small" id="copyMsg"></span></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>From <em>The Map That Forgot Home</em>. Your reading place and lantern marks are saved in this browser only.</footer>
+</div>
+
+<script>
+(() => {
+const $ = (id) => document.getElementById(id);
+const store = { get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+                set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+
+/* ---------- story data ---------- */
+const CH = [
+  { t: 'Before you start', H: 0, at: 'light', recap: 'The Stilling began at three o’clock on Friday. Every road is still on the map.' },
+  { t: 'Islands That Weren’t There', H: 1.1, at: 'light', recap: 'Mara finds Edie’s map. Islands appear, and the first border mark fades.' },
+  { t: 'Nan’s Way Home', H: 2, at: 'light', recap: 'Nan reads Edie’s note. Mara steps onto the road of light.' },
+  { t: 'The Lamp Road', H: 4.1, at: 'lq', rec: true, recap: 'Lantern Quay, Tavi and Ro. The Observatory Causeway vanishes.' },
+  { t: 'What the Lantern Heard', H: 14.75, at: 'lq', rec: true, recap: 'Edie’s echo: under the water, behind the stars.' },
+  { t: 'The Toll Token', H: 16.5, at: 'cl', rec: true, recap: 'A coded token, and a Chainman signalling the Tower.' },
+  { t: 'The Whispering Canopy', H: 20, at: 'lh', rec: true, recap: 'Lost among the voices until Bea follows the bees.' },
+  { t: 'The Wanderer’s Gap', H: 22.5, at: 'lh', rec: true, recap: 'The Glasswater Causeway sinks in one hour.' },
+  { t: 'The Ropewalk', H: 25, at: 'uo', rec: true, recap: 'The basket ferry, and the cable fading behind them.' },
+  { t: 'The Underside', H: 28, at: 'uo', rec: true, recap: 'The Upside-Down Orchard, and nine old posts in the sea.' },
+  { t: 'The Drop', H: 31.5, at: 'market', rec: false, recap: 'Down the Drop and off the roads. Off the map, too.' },
+  { t: 'The Night Market', H: 41, at: 'mouth', rec: false, recap: 'Ink only sets on a true line.' },
+  { t: 'The Last Toll', H: 45.5, at: 'hh', rec: false, recap: 'A rescue in the marsh, and Bellbridge falls.' },
+  { t: 'The Reed Ways', H: 50, at: 'fo', rec: false, recap: 'Along the chiming reeds the Surveyor cannot draw.' },
+  { t: 'The Hermit of the Dome', H: 55, at: 'fo', recap: 'Sorrel Penn tells them about Pip.' },
+  { t: 'Behind the Stars', H: 59.5, at: 'fo', recap: 'Hesper’s Rule, hidden behind the stars.' },
+  { t: 'A Line to Hold', H: 63, at: 'fo', recap: 'A line drawn in ink, and what it costs.' },
+  { t: 'What Pip Said', H: 65, at: 'hide', rec: false, recap: 'An echo from a brass compass. The Long Glass.' },
+  { t: 'Low Breath', H: 67.75, at: 'hide', recap: 'The lowest point. Bea won’t let them quit.' },
+  { t: 'Darkest Under the Lamp', H: 69, at: 'gull', rec: false, recap: 'A new plan, built from everything they know.' },
+  { t: 'The Market Mother', H: 70.25, at: 'under', rec: false, recap: 'The Market answers.' },
+  { t: 'Hesper’s Pier', H: 71.2, at: 'foot', rec: 'living', recap: 'Nine posts, walked end to end. A living way.' },
+  { t: 'The Great Chart', H: 71.75, at: 'st', recap: 'Inside the Tower.' },
+  { t: 'The Line That Would Not Meet', H: 72, at: 'st', recap: 'Three o’clock.' },
+  { t: 'Gaps for the Wanderers', H: 72, at: 'home', rec: true, recap: 'Home, by the Rim Road and the Lamp Road.' },
+];
+const P = { light: [192, 118], lq: [150, 340], cl: [362, 338], lh: [452, 250], rs: [548, 205], uo: [690, 150], hh: [442, 460],
+  fo: [770, 505], st: [905, 292], market: [655, 572], mouth: [470, 565], hide: [585, 470], gull: [800, 410], under: [706, 212], foot: [872, 330], home: [192, 118] };
+const PILES = Array.from({ length: 9 }, (_, i) => [712 + i * 19.5, 214 + i * 13.8]);
+const ROUTES = [
+  { id: 'lamp', kind: 'lamp', d: 'M192 122 C 196 200, 160 260, 150 330', name: 'Lamp Road', time: '¼ h', lx: 196, ly: 222 },
+  { id: 'rim', kind: 'rim', d: 'M126 318 C 84 230, 92 92, 260 70 L 820 66 C 930 70, 952 170, 912 258', name: 'Rim Road', time: 'Chainmen only', lx: 520, ly: 60 },
+  { id: 'bell', kind: 'bridge', d: 'M206 340 L 352 338', name: 'Bellbridge', time: '½ h', lx: 279, ly: 326, close: 45 },
+  { id: 'canopy', kind: 'road', d: 'M366 330 C 395 290, 420 262, 448 252', name: '', time: '1½ h', lx: 380, ly: 282 },
+  { id: 'canopy2', kind: 'road', d: 'M456 248 C 490 234, 520 218, 546 206', name: '', time: '½ h', lx: 500, ly: 216 },
+  { id: 'rope', kind: 'cable', d: 'M548 205 L 664 162', name: 'Ropewalk', time: '½ h', lx: 590, ly: 168, close: 25 },
+  { id: 'chain', kind: 'chain', d: 'M722 156 C 790 170, 850 210, 890 258', name: 'Chainway', time: '40 min', lx: 812, ly: 176, close: 71 },
+  { id: 'gcause', kind: 'road', d: 'M366 346 C 390 390, 415 430, 440 456', name: 'Glasswater Causeway', time: '2 h', lx: 330, ly: 410, close: 22 },
+  { id: 'pole', kind: 'ferry', d: 'M452 466 C 560 520, 660 530, 742 506', name: 'Marsh Pole Line', time: '2 h', lx: 600, ly: 540, close: 51 },
+  { id: 'ocause', kind: 'road', d: 'M792 492 C 850 440, 890 380, 905 320', name: 'Observatory Causeway', time: '1½ h', lx: 880, ly: 430, close: 4 },
+];
+
+/* ---------- drawing helpers ---------- */
+const NS = 'http://www.w3.org/2000/svg';
+const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+function rng(seed) { return () => { seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function blob(cx, cy, rx, ry, seed, n = 30) {
+  const pts = [];
+  for (let i = 0; i < n; i++) { const a = i / n * Math.PI * 2; const r = 1 + .11 * Math.sin(a * 3 + seed) + .06 * Math.sin(a * 7 + seed * 2.3) + .035 * Math.sin(a * 13 + seed * .7);
+    pts.push([cx + Math.cos(a) * rx * r, cy + Math.sin(a) * ry * r]); }
+  let d = `M${pts[0][0].toFixed(1)} ${pts[0][1].toFixed(1)}`;
+  for (let i = 0; i < n; i++) { const p0 = pts[(i - 1 + n) % n], p1 = pts[i], p2 = pts[(i + 1) % n], p3 = pts[(i + 2) % n];
+    d += ` C${(p1[0] + (p2[0] - p0[0]) / 6).toFixed(1)} ${(p1[1] + (p2[1] - p0[1]) / 6).toFixed(1)}, ${(p2[0] - (p3[0] - p1[0]) / 6).toFixed(1)} ${(p2[1] - (p3[1] - p1[1]) / 6).toFixed(1)}, ${p2[0].toFixed(1)} ${p2[1].toFixed(1)}`; }
+  return d + 'Z';
+}
+const INK = '#2a1f2e', PAPER = '#efe3c8', SEA = '#dfd3b8', LAMP = '#c98a1c', GOLD = '#e9b44c', SILVER = '#7d8296';
+
+/* ---------- static map ---------- */
+const svg = $('map');
+function drawStatic() {
+  const defs = el('defs', {}, svg);
+  const pat = el('pattern', { id: 'stip', width: 9, height: 9, patternUnits: 'userSpaceOnUse' }, defs);
+  el('circle', { cx: 2, cy: 2, r: .7, fill: '#b9a98a' }, pat); el('circle', { cx: 6.5, cy: 6, r: .5, fill: '#c4b597' }, pat);
+  const glow = el('radialGradient', { id: 'glow' }, defs); el('stop', { offset: 0, 'stop-color': '#ffd36b', 'stop-opacity': .95 }, glow); el('stop', { offset: 1, 'stop-color': '#ffb300', 'stop-opacity': 0 }, glow);
+
+  el('rect', { x: 0, y: 0, width: 1000, height: 660, fill: PAPER }, svg);
+  el('rect', { x: 30, y: 30, width: 940, height: 600, fill: 'url(#stip)' }, svg);
+  // the Rim: soft scalloped mist
+  const rim = el('g', { fill: 'none', stroke: '#a39b90', 'stroke-width': 1.2, opacity: .8 }, svg);
+  const r = rng(7);
+  for (let i = 0; i < 70; i++) { const t = i / 70 * Math.PI * 2; const x = 500 + Math.cos(t) * 468, y = 330 + Math.sin(t) * 300;
+    const cx = Math.max(44, Math.min(956, x)), cy = Math.max(44, Math.min(616, y)); el('circle', { cx, cy, r: 18 + r() * 14, fill: PAPER, stroke: '#b6ada0' }, rim); }
+  el('text', { x: 50, y: 330, 'text-anchor': 'middle', 'font-family': 'IM Fell English SC, serif', 'font-size': 15, fill: '#7a6f66', 'letter-spacing': 4, transform: 'rotate(-90 50 330)' }, svg).textContent = 'THE RIM';
+  el('text', { x: 300, y: 160, 'font-family': 'IM Fell English SC, serif', 'font-size': 30, fill: '#8f8578', 'letter-spacing': 10, 'font-style': 'italic' }, svg).textContent = 'The Slack';
+
+  const land = el('g', {}, svg);
+  const isl = (cx, cy, rx, ry, seed) => { el('path', { d: blob(cx, cy, rx + 6, ry + 6, seed), fill: 'none', stroke: INK, 'stroke-width': .6, opacity: .35 }, land);
+    return el('path', { d: blob(cx, cy, rx, ry, seed), fill: '#f6eedb', stroke: INK, 'stroke-width': 1.6 }, land); };
+  isl(150, 345, 62, 46, 1.3);                 // Lantern Quay
+  isl(450, 350, 132, 150, 2.1);               // central island
+  isl(905, 300, 40, 74, 4.4);                 // Tower crag
+  isl(772, 508, 44, 30, 5.2);                 // Observatory islet
+  el('path', { d: blob(772, 508, 70, 48, 5.6), fill: 'none', stroke: INK, 'stroke-width': .8, 'stroke-dasharray': '2 4' }, land); // lagoon
+  isl(800, 412, 12, 10, 8.1);                 // Gull Stack
+  // floating Orchard: crag with shadow beneath
+  el('ellipse', { cx: 690, cy: 196, rx: 48, ry: 8, fill: '#00000018' }, land);
+  el('path', { d: 'M640 150 Q 690 128 740 150 L 724 168 L 706 186 L 690 198 L 676 184 L 656 168 Z', fill: '#f6eedb', stroke: INK, 'stroke-width': 1.6 }, land);
+  const rr = rng(11);
+  for (let i = 0; i < 9; i++) { const x = 648 + i * 10.5; el('circle', { cx: x, cy: 138 + rr() * 6, r: 6 + rr() * 2, fill: '#efe5cd', stroke: INK, 'stroke-width': 1 }, land); }
+  for (let i = 0; i < 4; i++) { const x = 666 + i * 13; el('path', { d: `M${x} 176 l0 12 m-5 -2 a5 5 0 1 0 10 0`, fill: 'none', stroke: INK, 'stroke-width': .9 }, land); }
+
+  // Canopy trees & marsh reeds
+  const tr = rng(3), g = el('g', { stroke: INK, 'stroke-width': .9, fill: '#efe5cd' }, land);
+  for (let i = 0; i < 46; i++) { const a = tr() * Math.PI * 2, rad = Math.sqrt(tr()) * 88; const x = 450 + Math.cos(a) * rad * 1.05, y = 270 + Math.sin(a) * rad * .62;
+    el('circle', { cx: x, cy: y, r: 7 + tr() * 4 }, g); }
+  const rd = el('g', { stroke: INK, 'stroke-width': 1, opacity: .7 }, land);
+  for (let i = 0; i < 70; i++) { const x = 360 + tr() * 180, y = 395 + tr() * 85; if (Math.hypot((x - 450) / 130, (y - 350) / 145) > .95) continue;
+    el('path', { d: `M${x} ${y} l-2 -9 M${x + 3} ${y} l1 -10 M${x + 6} ${y} l3 -8` }, rd); }
+  el('ellipse', { cx: 442, cy: 462, rx: 18, ry: 10, fill: '#e9e0c8', stroke: INK, 'stroke-width': 1 }, land);
+
+  // Lantern Quay houses + Great Lamp
+  const lqg = el('g', { fill: '#f6eedb', stroke: INK, 'stroke-width': 1 }, land);
+  for (let i = 0; i < 7; i++) el('rect', { x: 118 + i * 9, y: 330 + (i % 2) * 6, width: 8, height: 10 }, lqg);
+  el('rect', { x: 182, y: 316, width: 7, height: 26 }, lqg); el('circle', { cx: 185.5, cy: 314, r: 5, fill: GOLD }, lqg);
+  // Tower
+  const tw = el('g', { fill: '#f6eedb', stroke: INK, 'stroke-width': 1.3 }, land);
+  el('rect', { x: 896, y: 240, width: 18, height: 52 }, tw); el('path', { d: 'M894 240 Q 905 222 916 240 Z' }, tw); el('line', { x1: 916, y1: 236, x2: 936, y2: 226 }, tw);
+  // Observatory dome
+  const ob = el('g', { fill: '#f6eedb', stroke: INK, 'stroke-width': 1.3 }, land);
+  el('path', { d: 'M752 508 Q 772 474 792 508 Z' }, ob); el('line', { x1: 744, y1: 508, x2: 800, y2: 508, 'stroke-dasharray': '3 3' }, ob);
+
+  // Old Piles: nine small dots, unlabelled
+  const pl = el('g', { fill: INK }, land);
+  PILES.forEach(([x, y]) => el('circle', { cx: x, cy: y, r: 1.8 }, pl));
+
+  // Wrenmouth inset
+  const w = el('g', {}, svg);
+  el('rect', { x: 40, y: 40, width: 190, height: 112, fill: '#f6eedb', stroke: INK, 'stroke-width': 2 }, w);
+  el('rect', { x: 45, y: 45, width: 180, height: 102, fill: 'none', stroke: INK, 'stroke-width': .7 }, w);
+  el('path', { d: 'M45 120 C 80 110, 110 128, 140 118 S 190 100, 225 108', fill: 'none', stroke: INK, 'stroke-width': 1.2 }, w);
+  el('path', { d: 'M110 128 Q 135 104 160 126', fill: 'none', stroke: INK, 'stroke-width': 2 }, w);
+  for (let i = 0; i < 8; i++) el('rect', { x: 58 + i * 11, y: 88 - (i % 3) * 5, width: 9, height: 12, fill: '#f6eedb', stroke: INK, 'stroke-width': .8 }, w);
+  el('rect', { x: 92, y: 66, width: 8, height: 20, fill: '#f6eedb', stroke: INK, 'stroke-width': .8 }, w);
+  el('rect', { x: 188, y: 98, width: 7, height: 18, fill: '#fff', stroke: INK, 'stroke-width': 1 }, w);
+  el('circle', { cx: 191.5, cy: 96, r: 4, fill: GOLD, stroke: INK, 'stroke-width': .6 }, w);
+  el('text', { x: 135, y: 62, 'text-anchor': 'middle', 'font-family': 'IM Fell English SC, serif', 'font-size': 15, fill: INK, 'letter-spacing': 2 }, w).textContent = 'WRENMOUTH';
+
+  // labels
+  const L = (x, y, t, size = 15, anchor = 'middle') => el('text', { x, y, 'text-anchor': anchor, 'font-family': 'IM Fell English SC, serif', 'font-size': size, fill: INK, 'letter-spacing': 1.2 }, svg).textContent = t;
+  L(150, 410, 'Lantern Quay'); L(450, 200, 'Whispering Canopy'); L(450, 512, 'Glasswater Marsh'); L(442, 486, 'Heron Holm', 11);
+  L(690, 112, 'Upside-Down Orchard'); L(905, 394, 'Surveyor’s', 14); L(905, 410, 'Tower', 14); L(772, 560, 'Flooded Observatory');
+  L(782, 416, 'Gull Stack', 11, 'end'); L(362, 360, 'Clapper’s Landing', 10);
+
+  // compass
+  const c = el('g', { transform: 'translate(78 560)', stroke: INK, 'stroke-width': 1, fill: '#f6eedb' }, svg);
+  el('circle', { r: 26, fill: 'none' }, c); el('path', { d: 'M0 -34 L6 0 L0 34 L-6 0 Z' }, c); el('path', { d: 'M-34 0 L0 6 L34 0 L0 -6 Z', fill: INK }, c);
+  el('text', { y: -38, 'text-anchor': 'middle', 'font-size': 11, fill: INK, stroke: 'none', 'font-family': 'IM Fell English SC, serif' }, c).textContent = 'N';
+
+  // dynamic layers
+  el('g', { id: 'routes' }, svg); el('g', { id: 'market' }, svg); el('g', { id: 'ticks' }, svg); el('g', { id: 'trail' }, svg); el('g', { id: 'crew' }, svg);
+}
+
+/* ---------- dynamic map ---------- */
+function styleFor(kind) {
+  return { lamp: { stroke: LAMP, w: 2.4, dash: '1 7' }, rim: { stroke: INK, w: 1, dash: '6 4' }, bridge: { stroke: INK, w: 4.5, dash: '' },
+    road: { stroke: INK, w: 1.8, dash: '' }, cable: { stroke: INK, w: 1.5, dash: '5 4' }, chain: { stroke: INK, w: 2.6, dash: '3 2' }, ferry: { stroke: INK, w: 1.5, dash: '7 5' } }[kind];
+}
+function drawRoutes(H) {
+  const g = $('routes'); g.innerHTML = '';
+  const closedNames = [];
+  ROUTES.forEach(r => {
+    let op = 1, fading = false;
+    if (r.close !== undefined) { if (H >= r.close) { closedNames.push(r.name); op = 0; } else if (H > r.close - 1) { fading = true; op = .25 + .75 * (r.close - H); } }
+    const s = styleFor(r.kind);
+    if (op === 0) { el('path', { d: r.d, fill: 'none', stroke: '#a59a8c', 'stroke-width': .8, 'stroke-dasharray': '1 6', opacity: .6 }, g); return; }
+    el('path', { d: r.d, fill: 'none', stroke: fading ? '#9a8f86' : s.stroke, 'stroke-width': s.w, 'stroke-dasharray': fading ? '4 4' : s.dash, 'stroke-linecap': 'round', opacity: op }, g);
+    if (r.kind === 'bridge') for (let i = 0; i < 5; i++) el('path', { d: `M${222 + i * 28} 339 a5 5 0 1 1 0.1 0`, fill: 'none', stroke: INK, 'stroke-width': 1, opacity: op }, g);
+    const t = el('text', { x: r.lx, y: r.ly, 'text-anchor': 'middle', 'font-family': 'Literata, serif', 'font-style': 'italic', 'font-size': 11, fill: '#5a4d52', opacity: op }, g);
+    t.textContent = r.name ? `${r.name}${r.time ? ' · ' + r.time : ''}` : r.time;
+  });
+  const sch = ROUTES.filter(r => r.close !== undefined).sort((a, b) => a.close - b.close);
+  const next = sch.find(r => r.close > H);
+  $('closures').innerHTML = (closedNames.length ? `<b>Gone:</b> ${closedNames.join(', ')}. ` : '<b>Gone:</b> none yet. ') +
+    (next && H < 72 ? `<b>Next to close:</b> ${next.name}, ${clock(next.close)}.` : '');
+}
+function drawTicks(H, broken) {
+  const g = $('ticks'); g.innerHTML = '';
+  const left = Math.max(0, 72 - Math.floor(H + 1e-9));
+  const per = [], W = 940, Hh = 600, perim = 2 * (W + Hh);
+  for (let i = 0; i < 72; i++) { let d = i / 72 * perim, x, y, dx, dy;
+    if (d < W) { x = 30 + d; y = 30; dx = 0; dy = -8; } else if ((d -= W) < Hh) { x = 970; y = 30 + d; dx = 8; dy = 0; }
+    else if ((d -= Hh) < W) { x = 970 - d; y = 630; dx = 0; dy = 8; } else { d -= W; x = 30; y = 630 - d; dx = -8; dy = 0; }
+    per.push([x, y, dx, dy]); }
+  el('rect', { x: 30, y: 30, width: 940, height: 600, fill: 'none', stroke: INK, 'stroke-width': 1.4 }, g);
+  per.forEach(([x, y, dx, dy], i) => { const alive = i >= 72 - left;
+    el('line', { x1: x, y1: y, x2: x + dx, y2: y + dy, stroke: alive ? INK : '#b8ab98', 'stroke-width': alive ? 2 : 1, opacity: alive ? 1 : .5 }, g); });
+  if (broken) { el('path', { d: 'M30 30 l14 22 l-8 18 l16 26 l-10 20 l18 30', fill: 'none', stroke: '#b4442f', 'stroke-width': 2.2 }, g);
+    el('text', { x: 52, y: 196, 'font-family': 'IM Fell English SC, serif', 'font-size': 12, fill: '#b4442f', transform: 'rotate(60 52 196)' }, g).textContent = 'the line did not meet'; }
+  return left;
+}
+function drawMarket(ch) {
+  const g = $('market'); g.innerHTML = '';
+  const pos = ch >= 19 && ch <= 20 ? [790, 438] : ch >= 10 && ch <= 11 ? [655, 585] : [610, 600];
+  const [x, y] = pos;
+  for (let i = 0; i < 3; i++) { const bx = x + i * 22 - 22, by = y + (i % 2) * 6;
+    el('path', { d: `M${bx - 9} ${by} q9 7 18 0 Z`, fill: '#f6eedb', stroke: INK, 'stroke-width': 1 }, g);
+    el('line', { x1: bx, y1: by, x2: bx, y2: by - 14, stroke: INK, 'stroke-width': 1 }, g); el('circle', { cx: bx, cy: by - 15, r: 2.4, fill: GOLD }, g); }
+  el('text', { x, y: y + 22, 'text-anchor': 'middle', 'font-family': 'IM Fell English SC, serif', 'font-size': 12, fill: INK }, g).textContent = 'Night Market';
+  el('text', { x, y: y + 34, 'text-anchor': 'middle', 'font-family': 'Literata, serif', 'font-style': 'italic', 'font-size': 9.5, fill: '#5a4d52' }, g).textContent = '(wherever it is tonight)';
+}
+function legPath(a, b, mode) {
+  if (b === 'home') return [P.st, [912, 258], [880, 120], [820, 66], [260, 70], [92, 200], [126, 318], P.lq, [160, 260], P.light];
+  if (mode === 'living') return [P.under, ...PILES, P.foot];
+  return [P[a], P[b]];
+}
+function drawCrew(ch) {
+  const tg = $('trail'), cg = $('crew'); tg.innerHTML = ''; cg.innerHTML = '';
+  for (let i = 1; i <= ch; i++) {
+    const a = CH[i - 1].at, b = CH[i].at; if (a === b) continue;
+    const mode = CH[i].rec, pts = legPath(a, b, mode);
+    const d = 'M' + pts.map(p => p.join(' ')).join(' L ');
+    const style = mode === 'living' ? { stroke: '#b4442f', 'stroke-width': 2.4, 'stroke-dasharray': '' } : mode === false ? { stroke: SILVER, 'stroke-width': 2, 'stroke-dasharray': '1 5' } : { stroke: GOLD, 'stroke-width': 2.4, 'stroke-dasharray': '' };
+    el('path', { d, fill: 'none', 'stroke-linecap': 'round', 'stroke-linejoin': 'round', opacity: .85, ...style }, tg);
+  }
+  const [x, y] = P[CH[ch].at];
+  const visible = ch === 0 || CH[ch].rec !== false && !['hide', 'gull', 'under', 'market', 'mouth', 'hh'].includes(CH[ch].at);
+  el('circle', { cx: x, cy: y, r: 16, fill: 'url(#glow)' }, cg);
+  el('circle', { cx: x, cy: y, r: 4.5, fill: visible ? GOLD : '#f6eedb', stroke: visible ? '#7a4d0a' : SILVER, 'stroke-width': 1.4, 'stroke-dasharray': visible ? '' : '2 2' }, cg);
+  if (ch >= 21) { el('text', { x: 790, y: 300, 'font-family': 'Literata, serif', 'font-style': 'italic', 'font-size': 10.5, fill: '#b4442f', transform: 'rotate(35 790 300)' }, cg).textContent = 'Hesper’s Pier: a living way'; }
+}
+function clock(H) {
+  const start = Date.UTC(2026, 9, 30, 15, 0); const d = new Date(start + H * 3600e3);
+  const day = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'][d.getUTCDay()]; let h = d.getUTCHours(), m = d.getUTCMinutes();
+  const ap = h >= 12 ? 'pm' : 'am'; h = h % 12 || 12; return `${day} ${h}:${String(m).padStart(2, '0')} ${ap}`;
+}
+
+/* ---------- chapter control ---------- */
+let chapter = Math.min(24, Math.max(0, +store.get('lm-chapter', 0) || 0));
+function setChapter(n) {
+  chapter = Math.min(24, Math.max(0, n)); store.set('lm-chapter', chapter);
+  $('chapter').value = chapter;
+  const c = CH[chapter], H = c.H;
+  $('chapLabel').textContent = chapter === 0 ? 'Not started yet' : `Finished Chapter ${chapter}: ${c.t}`;
+  const left = Math.max(0, 72 - H);
+  $('tLeft').textContent = chapter >= 23 ? '0 h, and still moving' : `${Math.floor(left)} h ${String(Math.round((left % 1) * 60)).padStart(2, '0')} m`;
+  $('tClock').textContent = chapter === 24 ? 'Home again' : clock(H);
+  $('recap').textContent = c.recap;
+  drawRoutes(H); const marks = drawTicks(H, chapter >= 23); drawMarket(chapter); drawCrew(chapter);
+  $('tMarks').textContent = chapter >= 23 ? 'Border broken' : `${marks} of 72`;
+  renderObjects(); renderTokens();
+}
+$('chapter').addEventListener('input', e => setChapter(+e.target.value));
+$('prev').addEventListener('click', () => setChapter(chapter - 1));
+$('next').addEventListener('click', () => setChapter(chapter + 1));
+
+/* ---------- echo lantern ---------- */
+const OBJECTS = [
+  { id: 'chips', name: 'Dad’s chip paper', ch: 3, echo: 'These are the best chips I have ever had in my life.', who: 'Idris, on the Lamp Road' },
+  { id: 'letter', name: 'Edie’s letter', ch: 4, echo: '…the answer’s where he and I learned our letters. Under the water, behind the stars.', who: 'Edie Marrow' },
+  { id: 'token', name: 'The toll token', ch: 5, echo: 'Every child gets a token, for your counting.', who: 'Grandma Tull, at the tollhouse window' },
+  { id: 'zephyr', name: 'Zephyr, the smallest bell', ch: 12, echo: 'Ting… ting… ting…', who: 'The last bell of Bellbridge, ringing on by itself' },
+  { id: 'tern', name: 'A tern’s leg ring', ch: 14, echo: 'I ringed her. Six years ago.', who: 'Sorrel Penn' },
+  { id: 'compass', name: 'A brass compass marked A.C.', ch: 17, echo: 'Ansel! Look! A new island! It’s moving! Come ON!', who: 'Pip, long ago' },
+  { id: 'door', name: 'The Tower door handle', ch: 22, echo: 'Pip.', who: 'The Surveyor, every morning and every night' },
+  { id: 'musicbox', name: 'Nan’s music box', ch: 24, echo: 'Dot! Dot, stop, I can’t, my feet!', who: 'Young Edie, laughing with Nan' },
+];
+let marks = +store.get('lm-marks', 6); let used = store.get('lm-used', []); let dark = false;
+if (!Array.isArray(used)) used = []; if (!(marks >= 0 && marks <= 6)) marks = 6;
+function renderLantern() {
+  const c = $('candle'); c.innerHTML = '';
+  for (let i = 0; i < marks; i++) el('div', {}, null), c.appendChild(Object.assign(document.createElement('div'), { className: 'notch' }));
+  c.style.height = Math.max(4, marks * 18) + 'px';
+  $('flame').style.bottom = (10 + Math.max(4, marks * 18)) + 'px'; $('flame').hidden = marks === 0;
+  $('marks').textContent = marks === 1 ? '1 mark left' : `${marks} marks left`;
+}
+function renderObjects() {
+  const box = $('objects'); box.innerHTML = '';
+  OBJECTS.forEach(o => {
+    const b = document.createElement('button'); b.className = 'obj' + (used.includes(o.id) ? ' used' : '');
+    const locked = chapter < o.ch;
+    b.disabled = locked;
+    b.innerHTML = locked ? `<span>Something from Chapter ${o.ch}</span><small>Read on to unlock it</small>` : `<span>${o.name}</span><small>${used.includes(o.id) ? 'Already echoed' : 'Chapter ' + o.ch}</small>`;
+    b.addEventListener('click', () => useLantern(o));
+    box.appendChild(b);
+  });
+}
+function say(html) { $('echo').innerHTML = html; }
+function useLantern(o) {
+  if (marks === 0) return say('<div class="warn">The candle is out. Fit a new candle to try again.</div>');
+  if (used.includes(o.id)) return say(`<div class="warn">${o.name} has already given up its echo. You can’t ask the same thing twice.</div>`);
+  marks--; store.set('lm-marks', marks); renderLantern();
+  if (!dark) { hiss(); return say('<q>Hsssssss…</q><div class="who warn">Only a soft hiss. It wasn’t dark enough, and a mark has burned away for nothing.</div>'); }
+  used.push(o.id); store.set('lm-used', used); renderObjects();
+  chime(); say(`<q>“${o.echo}”</q><div class="who">${o.who}</div>`);
+}
+$('darkBtn').addEventListener('click', () => { dark = !dark; $('lanternWrap').classList.toggle('dark', dark); $('darkBtn').textContent = dark ? 'Open the shutters' : 'Close the shutters'; $('darkBtn').setAttribute('aria-pressed', dark);
+  say(dark ? '<div class="small">Properly dark now. Hold the lantern to an object.</div>' : '<div class="small">The shutters are open. The lantern won’t work in this light.</div>'); });
+$('newCandle').addEventListener('click', () => { marks = 6; used = []; store.set('lm-marks', 6); store.set('lm-used', []); renderLantern(); renderObjects(); say('<div class="small">A fresh candle, with six new marks.</div>'); });
+
+/* ---------- sound ---------- */
+let ac = null; const audio = () => { try { ac = ac || new (window.AudioContext || window.webkitAudioContext)(); return ac; } catch (e) { return null; } };
+function bellTone(n, when = 0) {
+  const a = audio(); if (!a) return; const t = a.currentTime + when; const f = 180 * Math.pow(2, n / 14);
+  [1, 2.01, 2.76, 5.4].forEach((m, k) => { const o = a.createOscillator(), g = a.createGain(); o.type = 'sine'; o.frequency.value = f * m;
+    g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(.16 / (k + 1), t + .01); g.gain.exponentialRampToValueAtTime(.0001, t + 1.6 / (k * .6 + 1));
+    o.connect(g).connect(a.destination); o.start(t); o.stop(t + 1.8); });
+}
+function chime() { [20, 24, 17].forEach((n, i) => bellTone(n, i * .18)); }
+function hiss() { const a = audio(); if (!a) return; const len = a.sampleRate * .7, buf = a.createBuffer(1, len, a.sampleRate), d = buf.getChannelData(0);
+  for (let i = 0; i < len; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / len) * .12; const s = a.createBufferSource(); s.buffer = buf; s.connect(a.destination); s.start(); }
+
+/* ---------- bells & tokens ---------- */
+const BELLS = ['Anchor','Barley','Candle','Drum','Ember','Fern','Gull','Heron','Iron','Juniper','Kettle','Lark','Moon','Nettle','Oar','Pebble','Quill','Rope','Salt','Tide','Urchin','Vane','Wren','Xylophone','Yarrow','Zephyr'];
+const bellEls = [];
+BELLS.forEach((name, i) => { const b = document.createElement('button'); b.className = 'bell'; b.innerHTML = `<b>${i + 1}</b><i>${name[0]}</i><span>${name}</span>`;
+  b.setAttribute('aria-label', `Bell ${i + 1}, ${name}`); b.addEventListener('click', () => { ring(i); appendNum(i + 1); }); $('bells').appendChild(b); bellEls.push(b); });
+function ring(i) { bellTone(26 - i); const b = bellEls[i]; b.classList.add('ring'); setTimeout(() => b.classList.remove('ring'), 380); }
+function appendNum(n) { const v = $('numIn').value.trim(); $('numIn').value = v ? v + ' ' + n : String(n); decodeInput(); }
+const TOKENS = [
+  { name: 'Grandma Tull’s token: front', ch: 5, nums: '6 15 12 12 15 23 / 2 5 5 19' },
+  { name: 'Grandma Tull’s token: back', ch: 5, nums: '8 9 4 5 / 13 1 16' },
+  { name: 'The back-of-the-book puzzle', ch: 0, nums: '2 5 12 12 19 / 18 9 14 7 / 6 15 18 / 8 15 13 5' },
+];
+function renderTokens() {
+  const box = $('tokens'); box.innerHTML = '';
+  TOKENS.forEach(t => { const b = document.createElement('button'); b.className = 'token'; const locked = chapter < t.ch; b.disabled = locked;
+    b.textContent = locked ? `Unlocks after Chapter ${t.ch}` : t.name; b.addEventListener('click', () => playToken(t.nums)); box.appendChild(b); });
+}
+function parse(str) { return str.split('/').map(w => w.split(/[\s.,·]+/).filter(Boolean).map(Number).filter(n => n >= 1 && n <= 26)); }
+function decode(words) { return words.map(w => w.map(n => BELLS[n - 1][0]).join('')).filter(Boolean).join(' '); }
+function decodeInput() { $('decoded').textContent = decode(parse($('numIn').value)); }
+$('numIn').addEventListener('input', decodeInput);
+let playing = null;
+function playToken(nums) {
+  if (playing) clearTimeout(playing);
+  $('numIn').value = nums; const words = parse(nums); const seq = []; words.forEach((w, wi) => { w.forEach(n => seq.push(n)); if (wi < words.length - 1) seq.push(0); });
+  $('decoded').textContent = ''; let k = 0, out = '';
+  const step = () => { if (k >= seq.length) { playing = null; return; } const n = seq[k++];
+    if (n === 0) out += ' '; else { ring(n - 1); out += BELLS[n - 1][0]; } $('decoded').textContent = out; playing = setTimeout(step, n === 0 ? 260 : 420); };
+  step();
+}
+function encode() { const t = $('txtIn').value.toUpperCase().replace(/[^A-Z ]/g, '').trim().split(/\s+/).filter(Boolean);
+  $('encoded').textContent = t.map(w => [...w].map(c => c.charCodeAt(0) - 64).join(' · ')).join('   /   '); }
+$('txtIn').addEventListener('input', encode);
+$('copyBtn').addEventListener('click', () => { const s = $('encoded').textContent; if (!s) { $('copyMsg').textContent = 'Write a message first.'; return; }
+  navigator.clipboard.writeText(s).then(() => { $('copyMsg').textContent = 'Copied.'; }, () => { const r = document.createRange(); r.selectNodeContents($('encoded')); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); $('copyMsg').textContent = 'Selected. Press Ctrl+C (or Cmd+C) to copy.'; }); });
+
+drawStatic(); renderLantern(); setChapter(chapter);
+})();
+</script>
