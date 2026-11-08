@@ -127,6 +127,8 @@ function renderBlocks(md, { chapterMode = false } = {}) {
         if (ILLUS[chapterNo]) out.push(...placeholder(...ILLUS[chapterNo]));
       } else {
         out.push(new Paragraph({ heading: HeadingLevel.HEADING_2, children: runs(title) }));
+        const backPic = /Equipment/.test(title) ? 'B-1' : /Design Your Own Island/.test(title) ? 'B-3' : null;
+        if (backPic && imgFile(backPic)) out.push(picture(imgFile(backPic), 400, 500));
       }
       firstAfterHeading = true;
       continue;
