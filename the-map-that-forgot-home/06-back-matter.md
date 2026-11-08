@@ -75,7 +75,7 @@ It is **9 o'clock on Saturday morning**. You are standing at **Clapper's Landing
 
 The Fold is always changing. Islands drift in from the mist, and new ones are found every year. Now it's your turn.
 
-Draw your island on a page of its own, then answer these questions:
+Draw your island on the next page, then answer these questions:
 
 1. **What is your island called?**
 2. **What is it like?** Is it a forest, a mountain, a town, a garden, something upside down, or something nobody has ever seen?

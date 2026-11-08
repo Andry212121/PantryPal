@@ -127,7 +127,7 @@ function renderBlocks(md, { chapterMode = false } = {}) {
         if (ILLUS[chapterNo]) out.push(...placeholder(...ILLUS[chapterNo]));
       } else {
         out.push(new Paragraph({ heading: HeadingLevel.HEADING_2, children: runs(title) }));
-        const backPic = /Equipment/.test(title) ? 'B-1' : /Design Your Own Island/.test(title) ? 'B-3' : null;
+        const backPic = /Equipment/.test(title) ? 'B-1' : null;
         if (backPic && imgFile(backPic)) out.push(picture(imgFile(backPic), 400, 500));
       }
       firstAfterHeading = true;
@@ -223,6 +223,8 @@ async function save(doc, name) {
   // Answers on their own page
   const ansIdx = backBlocks.findIndex(p => JSON.stringify(p).includes('"Answers"'));
   if (ansIdx > 0) backBlocks.splice(ansIdx, 0, pageBreak());
+  // Full drawing page for 'Design Your Own Island', just before the answers
+  if (ansIdx > 0 && imgFile('B-3')) backBlocks.splice(ansIdx, 0, pageBreak(), picture(imgFile('B-3'), 430, 610));
   // Each back-matter section on a new page
   const withBreaks = [];
   backBlocks.forEach((b, k) => {
