@@ -68,20 +68,21 @@ const ILLUS = {
   22: ['I-12', 'The Great Chart: the Surveyor at the window, Mara with her torch.'],
   24: ['S-1', 'Mara and Nan drawing a pencil map, with a gap in the harbour wall.'],
 };
+const PRINT = path.join(ROOT, 'build', 'print');
+const SIZES = fs.existsSync(path.join(PRINT, 'sizes.json')) ? JSON.parse(fs.readFileSync(path.join(PRINT, 'sizes.json'), 'utf8')) : {};
 const imgFile = (id) => {
   const [a, n] = id.split('-');
   for (const name of [`${a}-${n.padStart(2, '0')}`, id]) {
-    const f = path.join(ROOT, 'images', name + '.png');
+    const f = path.join(PRINT, name + '.jpg');
     if (fs.existsSync(f)) return f;
   }
   return null;
 };
-const pngSize = (f) => { const b = fs.readFileSync(f); return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) }; };
 const picture = (f, maxW, maxH) => {
-  const { w, h } = pngSize(f);
+  const [w, h] = SIZES[path.basename(f, '.jpg')];
   const k = Math.min(maxW / w, maxH / h);
   return new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 120, after: 200 },
-    children: [new ImageRun({ type: 'png', data: fs.readFileSync(f), transformation: { width: Math.round(w * k), height: Math.round(h * k) } })] });
+    children: [new ImageRun({ type: 'jpg', data: fs.readFileSync(f), transformation: { width: Math.round(w * k), height: Math.round(h * k) } })] });
 };
 const placeholder = (id, desc) => {
   const f = imgFile(id);
@@ -212,8 +213,8 @@ async function save(doc, name) {
     new Paragraph({ heading: HeadingLevel.HEADING_2, alignment: AlignmentType.CENTER, children: [new TextRun('Contents')] }),
     ...contents,
   ];
-  const coverFile = fs.existsSync(path.join(ROOT, 'images/cover.png')) ? path.join(ROOT, 'images/cover.png') : null;
-  const mapFile = fs.existsSync(path.join(ROOT, 'images/map.png')) ? path.join(ROOT, 'images/map.png') : null;
+  const coverFile = imgFile('cover-0') ? null : (fs.existsSync(path.join(PRINT, 'cover.jpg')) ? path.join(PRINT, 'cover.jpg') : null);
+  const mapFile = fs.existsSync(path.join(PRINT, 'map.jpg')) ? path.join(PRINT, 'map.jpg') : null;
   const chapters = renderBlocks(manuscript.slice(manuscript.indexOf('## Chapter One')), { chapterMode: true });
   const backHead = [pageBreak(), new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, children: [new TextRun('For Explorers')] })];
   const backBlocks = renderBlocks(back.replace(/^# .*\n/, '').replace(/\n---\n\n## Answers/, '\n\n## Answers'));
