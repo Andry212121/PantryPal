@@ -117,6 +117,19 @@ input[type=text] { width: 100%; background: #120d16; color: var(--text); border:
 .pair { display: grid; justify-items: center; min-width: 34px; background: #120d16; border-radius: 6px; padding: 4px 2px; }
 .pair .n { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .pair .l { font-family: var(--chart); font-size: 24px; color: var(--lamp-soft); min-height: 30px; }
+.tour-btn { margin-top: 8px; display: inline-flex; align-items: center; gap: 8px; }
+.tour-focus { position: relative; z-index: 40; outline: 3px solid var(--lamp); outline-offset: 6px; border-radius: 10px; box-shadow: 0 0 0 100vmax rgba(10, 6, 14, .72); }
+.tour { position: fixed; z-index: 50; left: 50%; transform: translateX(-50%); bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+  width: min(560px, calc(100% - 32px)); background: var(--parch); color: var(--ink); border-radius: 12px; padding: 18px 20px 16px; box-shadow: 0 20px 50px rgba(0,0,0,.55); display: grid; gap: 10px; }
+.tour .count { font-family: var(--chart); font-size: 14px; color: #6b5a52; letter-spacing: .06em; }
+body.touring { padding-bottom: 360px; }
+.tour h3 { font-size: 22px; color: var(--ink); }
+@media (max-width: 520px) { .tour { padding: 14px 16px 12px; gap: 6px; } .tour h3 { font-size: 18px; } .tour p { font-size: 14.5px; } }
+.tour p { margin: 0; line-height: 1.5; }
+.tour .row { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; }
+.tour .row div { display: flex; gap: 8px; }
+.tour .btn.ghost { color: var(--ink); border-color: #b9a88f; }
+.tour .act { background: var(--ink); color: var(--parch); }
 footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--plum-2); padding-top: 18px; }
 
 @media (max-width: 760px) {
@@ -134,6 +147,7 @@ footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px
       <h1>The Living Map of the Fold</h1>
       <p>Edie's map from <em>The Map That Forgot Home</em> changes as the story goes on. Roads fade when the Surveyor rubs them out, the border marks count down the 72 hours, and a small gold light shows where the crew are.</p>
       <p>Set how far you've read and the map will only show what you already know.</p>
+      <button class="btn tour-btn" id="tourStart">How does it work? Take the tour</button>
     </div>
     <img alt="The book cover: four children walking along a road of light towards a harbour of lamps" src="data:image/jpeg;base64,__COVER__">
   </header>
@@ -216,7 +230,16 @@ footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px
     </div>
   </section>
 
-  <footer>From <em>The Map That Forgot Home</em>. Your reading place and lantern marks are saved in this browser only.</footer>
+  <div class="tour" id="tour" hidden role="dialog" aria-labelledby="tourTitle">
+  <div class="count" id="tourCount"></div>
+  <h3 id="tourTitle"></h3>
+  <p id="tourText"></p>
+  <div class="row">
+    <button class="btn act" id="tourAct" hidden></button>
+    <div><button class="btn ghost" id="tourBack">Back</button><button class="btn" id="tourNext">Next</button></div>
+  </div>
+</div>
+<footer>From <em>The Map That Forgot Home</em>. Your reading place and lantern marks are saved in this browser only.</footer>
 </div>
 
 <script>
@@ -559,6 +582,42 @@ function encode() { const t = $('txtIn').value.toUpperCase().replace(/[^A-Z ]/g,
 $('txtIn').addEventListener('input', encode);
 $('copyBtn').addEventListener('click', () => { const s = $('encoded').textContent; if (!s) { $('copyMsg').textContent = 'Write a message first.'; return; }
   navigator.clipboard.writeText(s).then(() => { $('copyMsg').textContent = 'Copied.'; }, () => { const r = document.createRange(); r.selectNodeContents($('encoded')); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); $('copyMsg').textContent = 'Selected. Press Ctrl+C (or Cmd+C) to copy.'; }); });
+
+/* ---------- guided tour ---------- */
+const TOUR = [
+  { el: '.hero', title: 'Welcome to the Living Map', text: 'This page goes with the book <em>The Map That Forgot Home</em>. It has three things to try: a map that changes as the story goes on, Tavi’s echo lantern, and a secret bell code. This tour takes about a minute.' },
+  { el: '.progress', title: '1. Tell the map how far you’ve read', text: 'Move this slider to the last chapter you finished. The map, the lantern and the codes only show what you already know, so nothing gets spoiled.', act: 'Show me Chapter 4', fn: () => setChapter(4) },
+  { el: '.status', title: '2. Watch the countdown', text: 'In the story, the Surveyor has 72 hours before everything freezes. These boxes show how much time is left at the chapter you chose, the time of day in the Fold, and how many of the 72 border marks are left.' },
+  { el: '.chart', title: '3. Read the map', text: 'Roads fade and disappear as the Surveyor rubs them out. The small gold light is the crew. A gold trail means they’re on a road he can see; a dotted silver trail means they’re hidden from him. Try moving the slider and watch Bellbridge vanish at Chapter 12.', act: 'Show me Chapter 12', fn: () => setChapter(12) },
+  { el: '#closures', title: '4. Which roads are gone?', text: 'This line lists every road that has disappeared so far, and which one closes next. It follows the Surveyor’s own timetable from the book.' },
+  { el: '#lanternWrap', title: '5. The echo lantern', text: 'Tavi’s lantern hears the past. First close the shutters (it only works in the dark), then tap an object to read what it remembers. Each echo burns one of the six marks on the candle, so choose carefully.', act: 'Close the shutters for me', fn: () => { if (!dark) $('darkBtn').click(); } },
+  { el: '#objects', title: '6. Tap an object', text: 'Start with the seashell. It’s always unlocked. Other objects unlock as you move the reading slider. If you try with the shutters open, you only get a hiss and lose a mark, just like Tavi did.', act: 'Listen to the seashell', fn: () => { if (!dark) $('darkBtn').click(); const b = [...document.querySelectorAll('.obj')].find(x => !x.disabled); if (b) b.click(); } },
+  { el: '.bells-scroll', title: '7. The bell code', text: 'Every bell has a number and a name. The first letter of the name is the secret letter: bell 8 is Heron, so 8 = H. Tap a bell to hear it ring.' },
+  { el: '.decoder .card', title: '8. Crack a message', text: 'A token is a list of numbers. Press one and the bells ring one by one, putting a letter under each number until the message appears. Try the back-of-the-book puzzle.', act: 'Ring the puzzle token', fn: () => playToken(TOKENS[2].nums) },
+  { el: '.decoder .card:last-child', title: '9. Make your own code', text: 'Write any message here and it turns into bell numbers. Copy them and send them to a friend to crack.' },
+  { el: '.hero', title: 'You’re ready, explorer!', text: 'Set the slider to where you are in the book, and come back each time you finish a chapter to see what has changed on the map.' },
+];
+let tourAt = -1;
+function clearFocus() { document.querySelectorAll('.tour-focus').forEach(e => e.classList.remove('tour-focus')); }
+function showTour(i) {
+  tourAt = i; clearFocus();
+  document.body.classList.toggle('touring', i >= 0 && i < TOUR.length);
+  if (i < 0 || i >= TOUR.length) { $('tour').hidden = true; tourAt = -1; return; }
+  const st = TOUR[i], target = document.querySelector(st.el);
+  if (target) { target.classList.add('tour-focus');
+    const top = target.getBoundingClientRect().top + scrollY - 24;
+    scrollTo({ top: Math.max(0, top), behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }
+  $('tour').hidden = false;
+  $('tourCount').textContent = `Step ${i + 1} of ${TOUR.length}`;
+  $('tourTitle').textContent = st.title; $('tourText').innerHTML = st.text;
+  $('tourAct').hidden = !st.act; if (st.act) $('tourAct').textContent = st.act;
+  $('tourBack').hidden = i === 0; $('tourNext').textContent = i === TOUR.length - 1 ? 'Finish' : 'Next';
+}
+$('tourStart').addEventListener('click', () => showTour(0));
+$('tourNext').addEventListener('click', () => showTour(tourAt + 1));
+$('tourBack').addEventListener('click', () => showTour(tourAt - 1));
+$('tourAct').addEventListener('click', () => TOUR[tourAt] && TOUR[tourAt].fn());
+document.addEventListener('keydown', e => { if (tourAt < 0) return; if (e.key === 'Escape') showTour(-1); if (e.key === 'ArrowRight') showTour(tourAt + 1); if (e.key === 'ArrowLeft') showTour(tourAt - 1); });
 
 drawStatic(); renderLantern(); setChapter(chapter);
 })();
