@@ -108,6 +108,15 @@ section.tool { margin-top: 56px; }
 input[type=text] { width: 100%; background: #120d16; color: var(--text); border: 1px solid var(--plum-2); border-radius: 8px; padding: 10px 12px; font: inherit; font-variant-numeric: tabular-nums; }
 .out { font-family: var(--chart); font-size: 26px; letter-spacing: .12em; color: var(--lamp-soft); min-height: 40px; word-break: break-word; }
 .small { font-size: 13px; color: var(--muted); }
+.steps { margin: 6px 0 0; padding: 0; list-style: none; display: grid; gap: 8px; counter-reset: s; }
+.steps li { counter-increment: s; display: flex; gap: 10px; align-items: baseline; }
+.steps li::before { content: counter(s); flex: none; width: 24px; height: 24px; border-radius: 50%; background: var(--lamp); color: #2a1a10; font-family: var(--display); font-weight: 800; font-size: 14px; display: inline-grid; place-items: center; }
+.example { display: inline-flex; gap: 6px; align-items: center; background: var(--plum); border-radius: 8px; padding: 4px 10px; font-variant-numeric: tabular-nums; }
+.pairs { display: flex; flex-wrap: wrap; gap: 14px; }
+.word { display: flex; gap: 4px; }
+.pair { display: grid; justify-items: center; min-width: 34px; background: #120d16; border-radius: 6px; padding: 4px 2px; }
+.pair .n { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.pair .l { font-family: var(--chart); font-size: 24px; color: var(--lamp-soft); min-height: 30px; }
 footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--plum-2); padding-top: 18px; }
 
 @media (max-width: 760px) {
@@ -158,7 +167,13 @@ footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px
   <section class="tool" aria-labelledby="lanternTitle">
     <div class="tool-head">
       <h2 id="lanternTitle">Tavi's Echo Lantern</h2>
-      <p>Hold the lantern to an object and it plays back the loudest sound that object remembers. It only works in proper darkness, only once for each object, and every echo burns one of the six marks on its candle. Choose carefully.</p>
+      <p>In the story, Tavi's lantern can hear the past. Hold it to an object and it plays back the loudest thing that object remembers. You don't need the book to try it:</p>
+      <ol class="steps">
+        <li><span><b>Close the shutters.</b> The lantern only works in the dark.</span></li>
+        <li><span><b>Tap an object.</b> Start with the seashell from Wrenmouth harbour.</span></li>
+        <li><span><b>Read what it remembers.</b> Each echo burns one of the six marks on the candle, and each object only speaks once. Choose carefully!</span></li>
+      </ol>
+      <p class="small">More objects unlock as you move the “How far have you read?” slider at the top.</p>
     </div>
     <div class="lantern-wrap" id="lanternWrap">
       <div class="lantern">
@@ -175,14 +190,19 @@ footer { margin-top: 56px; color: var(--muted); font-size: 14px; border-top: 1px
   <section class="tool" aria-labelledby="bellTitle">
     <div class="tool-head">
       <h2 id="bellTitle">The Bells of Bellbridge</h2>
-      <p>Each of the 26 bells has a name, and the names run from A to Z. Grandma Tull used them to hide a message on a toll token. Press a token to ring it out, or crack one of your own.</p>
+      <p>In Chapter 5, Grandma Tull secretly hands the children a coin covered in numbers. It's a code, and the key is the bells below. Everything you need is on this page:</p>
+      <ol class="steps">
+        <li><span><b>Every bell has a number and a name.</b> Bell 1 is Anchor, bell 2 is Barley, all the way to bell 26, Zephyr.</span></li>
+        <li><span><b>The first letter of the name is the secret letter.</b> So <span class="example">8 = Heron = H</span> and <span class="example">9 = Iron = I</span>.</span></li>
+        <li><span><b>Swap every number for its letter.</b> <span class="example">8 · 9 → H I</span>. Press a token below and watch the bells do it for you.</span></li>
+      </ol>
     </div>
     <div class="bells-scroll"><div class="bells" id="bells"></div></div>
     <div class="decoder">
       <div class="card">
         <h3>Ring a token</h3>
         <div class="tokens" id="tokens"></div>
-        <label class="small" for="numIn">Or type the numbers yourself, with a space between bells and a / between words:</label>
+        <label class="small" for="numIn">Or tap the bells above, or type numbers here (a space between letters, a / between words):</label>
         <input type="text" id="numIn" placeholder="8 9 4 5 / 13 1 16">
         <div class="out" id="decoded" aria-live="polite"></div>
       </div>
@@ -444,6 +464,7 @@ $('next').addEventListener('click', () => setChapter(chapter + 1));
 
 /* ---------- echo lantern ---------- */
 const OBJECTS = [
+  { id: 'shell', name: 'A seashell from Wrenmouth harbour', ch: 0, echo: 'Shhhhhh… shhhhhh…', who: 'The sea, a long way from the Fold' },
   { id: 'chips', name: 'Dad’s chip paper', ch: 3, echo: 'These are the best chips I have ever had in my life.', who: 'Idris, on the Lamp Road' },
   { id: 'letter', name: 'Edie’s letter', ch: 4, echo: '…the answer’s where he and I learned our letters. Under the water, behind the stars.', who: 'Edie Marrow' },
   { id: 'token', name: 'The toll token', ch: 5, echo: 'Every child gets a token, for your counting.', who: 'Grandma Tull, at the tollhouse window' },
@@ -468,7 +489,7 @@ function renderObjects() {
     const b = document.createElement('button'); b.className = 'obj' + (used.includes(o.id) ? ' used' : '');
     const locked = chapter < o.ch;
     b.disabled = locked;
-    b.innerHTML = locked ? `<span>Something from Chapter ${o.ch}</span><small>Read on to unlock it</small>` : `<span>${o.name}</span><small>${used.includes(o.id) ? 'Already echoed' : 'Chapter ' + o.ch}</small>`;
+    b.innerHTML = locked ? `<span>Something from Chapter ${o.ch}</span><small>Move the slider at the top to Chapter ${o.ch} to unlock</small>` : `<span>${o.name}</span><small>${used.includes(o.id) ? 'Already echoed' : 'Chapter ' + o.ch}</small>`;
     b.addEventListener('click', () => useLantern(o));
     box.appendChild(b);
   });
@@ -513,19 +534,24 @@ const TOKENS = [
 function renderTokens() {
   const box = $('tokens'); box.innerHTML = '';
   TOKENS.forEach(t => { const b = document.createElement('button'); b.className = 'token'; const locked = chapter < t.ch; b.disabled = locked;
-    b.textContent = locked ? `Unlocks after Chapter ${t.ch}` : t.name; b.addEventListener('click', () => playToken(t.nums)); box.appendChild(b); });
+    b.textContent = locked ? `Move the slider to Chapter ${t.ch} to unlock` : t.name; b.addEventListener('click', () => playToken(t.nums)); box.appendChild(b); });
 }
 function parse(str) { return str.split('/').map(w => w.split(/[\s.,·]+/).filter(Boolean).map(Number).filter(n => n >= 1 && n <= 26)); }
 function decode(words) { return words.map(w => w.map(n => BELLS[n - 1][0]).join('')).filter(Boolean).join(' '); }
-function decodeInput() { $('decoded').textContent = decode(parse($('numIn').value)); }
+function showPairs(words, upto = Infinity) {
+  let k = 0;
+  $('decoded').innerHTML = '<div class="pairs">' + words.map(w => '<div class="word">' + w.map(n => { const shown = k++ < upto;
+    return `<div class="pair"><span class="n">${n}</span><span class="l">${shown ? BELLS[n - 1][0] : ''}</span></div>`; }).join('') + '</div>').join('') + '</div>';
+}
+function decodeInput() { showPairs(parse($('numIn').value)); }
 $('numIn').addEventListener('input', decodeInput);
 let playing = null;
 function playToken(nums) {
   if (playing) clearTimeout(playing);
   $('numIn').value = nums; const words = parse(nums); const seq = []; words.forEach((w, wi) => { w.forEach(n => seq.push(n)); if (wi < words.length - 1) seq.push(0); });
-  $('decoded').textContent = ''; let k = 0, out = '';
+  let k = 0, letters = 0; showPairs(words, 0);
   const step = () => { if (k >= seq.length) { playing = null; return; } const n = seq[k++];
-    if (n === 0) out += ' '; else { ring(n - 1); out += BELLS[n - 1][0]; } $('decoded').textContent = out; playing = setTimeout(step, n === 0 ? 260 : 420); };
+    if (n !== 0) { ring(n - 1); letters++; showPairs(words, letters); } playing = setTimeout(step, n === 0 ? 300 : 500); };
   step();
 }
 function encode() { const t = $('txtIn').value.toUpperCase().replace(/[^A-Z ]/g, '').trim().split(/\s+/).filter(Boolean);
